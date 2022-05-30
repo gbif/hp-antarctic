@@ -1,10 +1,14 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about
 - text: Occurrences
   href: /occurrence/search
-- text: Links
+- text: Data source
+  href: /data-source
+- text: Help
+  href: /help
+- text: Contact
+  href: /contact
+- text: More
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -16,5 +20,3 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/

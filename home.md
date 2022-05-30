@@ -1,18 +1,17 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: SCAR Antarctic Biodiversity Portal
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: /assets/images/matt-palmer-M7EnqaUt6Yg-unsplash.jpg
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  Photo by [Matt Palmer](https://unsplash.com/@mattpalmer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 cta:
   - text: Start exploring
-    href: /data
+    href: /occurrence/search
     isPrimary: true
-  - text: About
-    href: /about
 permalink: /
+height: 70vh
 ---
 
 Edit `/home.md` to change the text.

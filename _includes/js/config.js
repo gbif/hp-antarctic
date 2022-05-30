@@ -21,24 +21,25 @@ var siteConfig = {
   },
   occurrence: {
     mapSettings: {
-      lat: 60.0344351910359,
-      lng: -111.28467879517733,
-      zoom: 0.9115440763665068
+      lat: -50,
+      lng: 0,
+      zoom: 1
     },
     rootPredicate: {
        "type": "and",
        "predicates": [
          {
-           "type": "equals",
-           "key": "notIssues",
-           "value": "COUNTRY_COORDINATE_MISMATCH"
-         }
+           "type": "within",
+           "key": "geometry",
+           "value": "POLYGON((-180 -90, -10 -90,10 -90, 180 -90,180 -45,100 -45,-50 -45,-50 -62,-80 -62,-80 -45,-180 -45,-180 -90))" // simplified geometry to be reviewed
+         },
+         {
+          "type": "in",
+          "key": "networkKey",
+          "values": ["8534dd20-c368-4a1f-bdaf-e6b390710f89", "2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6"] // SCAR and OBIS networks
+        }
        ]
      },
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS']
+    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS']
   }
 };
-
-if (pageLang === 'da')  {
-  siteConfig.routes.occurrenceSearch.route = '/observationer/sog';
-}

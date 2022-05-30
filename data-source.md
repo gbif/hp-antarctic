@@ -1,11 +1,10 @@
 ---
-lang-ref: about
-title: About
+lang-ref: data-source
+title: Data source
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+background: /assets/images/3117363624.jpeg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+  *Leptonychotes weddellii* (Lesson, 1826) via [gbif.org](https://www.gbif.org/occurrence/3117363624)
 ---
 
 ## Procris quippe mentior urbes ubi
