@@ -11,3 +11,7 @@ $navbar-item-img-max-height: 60px;
     border-radius: 64px;
   }
 }
+
+.gbif-occurrenceSearchLayout {
+  height: calc(100vh - 76px)!important; /* I'm afraid you need !important because the height is inline styling and hence have a higher specificity */
+}
