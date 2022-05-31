@@ -5,7 +5,7 @@ klass: contact
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/3117363331.jpeg
 imageLicense: |
-  *Leptonychotes weddellii* (Lesson, 1826) via [gbif.org](https://www.gbif.org/occurrence/3117363331)
+  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3117363331)
 composition:
   - type: postHeader
   - type: pageMarkdown

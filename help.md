@@ -4,7 +4,7 @@ title: Help
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/3446790392.jpeg
 imageLicense: |
-  *Leptonychotes weddellii* (Lesson, 1826) via [gbif.org](https://www.gbif.org/occurrence/3446790392)
+  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3446790392)
 ---
 
 ## Procris quippe mentior urbes ubi
