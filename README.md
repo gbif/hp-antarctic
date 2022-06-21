@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-antarctic
 
-This Jekyll website, **[hp-antarctic](https://hp-antarctic.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-antarctic](https://hp-antarctic.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
