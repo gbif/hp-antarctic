@@ -25,9 +25,9 @@ var siteConfig = {
   },
   occurrence: {
     mapSettings: {
-      lat: -50,
+      lat: -90,
       lng: 0,
-      zoom: 1
+      zoom: 2
     },
     rootPredicate: {
       "type": "and",
