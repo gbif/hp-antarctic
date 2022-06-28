@@ -46,5 +46,15 @@ var siteConfig = {
       ]
     },
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS']
+  },
+  maps: {
+    locale: 'en',
+    defaultProjection: 'ANTARCTIC',
+    defaultMapStyle: 'BRIGHT',
+    mapStyles: {
+      ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK'],
+      PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
+      MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
+    }
   }
 };
