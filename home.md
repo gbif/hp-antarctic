@@ -20,7 +20,5 @@ navbar:
   color: transparent
   hasWhiteText: true
   floating: true
-  
- composition:
-  -type: heroImage
+ 
 ---
