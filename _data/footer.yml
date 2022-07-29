@@ -21,12 +21,10 @@ columns:
       href: https://www.scar.org/
       
  
-  - name: Contact
-    description: | # Can be Markdown
-      * data-biodiversity-aq(a)naturalsciences.be
-      * Vautier Street 29
-      * Brussels 1000
-      * Belgium
+  - name: About
+    links:
+      - text: Contact
+        href: /contact
     connectIcons: true
 
   # EXAMPLE
