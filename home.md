@@ -6,10 +6,21 @@ description: Search antarctic biodiversity data which currently contains <span d
 background: /assets/images/AVdP_SCAR_0003.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+height: 85vh
+parallax: true
+
 cta:
   - text: Start exploring
     href: /occurrence/search
     isPrimary: true
 permalink: /
-height: 70vh
+
+navbar:
+  color: transparent
+  hasWhiteText: true
+  floating: true
+  
+ composition:
+  -type: heroImage
 ---
