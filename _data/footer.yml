@@ -5,19 +5,19 @@
 columns:
   - name: Partners
     links:
-    - text: Royal Belgian Institute of Natural Sciences
+    - text: RBINS
       href: https://www.naturalsciences.be
-    - text: World Register of Marine Species
+    - text: WoRMS
       href: https://marinespecies.org/
     - text: Lifewatch
       href: https://lifewatch.be/
-    - text: Belgian Biodiversity Platform
+    - text: BBPF
       href: https://www.biodiversity.be/
-    - text: Global Biodiversity Information Facility
+    - text: GBIF
       href: https://www.gbif.org/
-    - text: Ocean Biodiversity Information System
+    - text: OBIS
       href: https://obis.org/
-    - text: Scientific Committee on Antarctic Research
+    - text: SCAR
       href: https://www.scar.org/
       
  
