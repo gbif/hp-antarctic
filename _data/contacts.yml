@@ -5,12 +5,10 @@ features:
     title: Anton Van de Putte # required
     description: |      # required
       anton.vandeputte(a)naturalsciences.be <br />
-      antonarctica(a)gmail.com
     # img required
-    background: https://au-hw-media-m.happywhale.com/90aa0094-58bd-4219-9d5e-1944c4aea582.jpg
+    background: https://pbs.twimg.com/profile_images/1272613246084829186/KKn8S9Wd_400x400.jpg
   - preTitle: Data science officer  # optional
     title: Yi-Ming Gan
     description: |      # required
       yi-ming.gan(a)naturalsciences.be <br />
-      data.biodiversity.aq(a)gmail.com
     background: https://au-hw-media-m.happywhale.com/2a8cbf58-fbaf-4d81-a455-315cd6b44c7b.jpg
