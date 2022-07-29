@@ -2,7 +2,7 @@
 lang-ref: contact
 title: Contact
 klass: contact
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Contact information of the SCAR Antarctic Biodiversity Portal
 background: /assets/images/3117363331.jpeg
 imageLicense: |
   [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3117363331)
