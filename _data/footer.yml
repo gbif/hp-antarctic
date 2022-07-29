@@ -5,21 +5,30 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
+    - text: Royal Belgian Institute of Natural Sciences
+      href: https://www.naturalsciences.be
+    - text: World Register of Marine Species
+      href: https://marinespecies.org/
+    - text: Lifewatch
+      href: https://lifewatch.be/
+    - text: Belgian Biodiversity Platform
+      href: https://www.biodiversity.be/
+    - text: Global Biodiversity Information Facility
+      href: https://www.gbif.org/
+    - text: Ocean Biodiversity Information System
+      href: https://obis.org/
+    - text: Scientific Committee on Antarctic Research
+      href: https://www.scar.org/
+      
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      data-biodiversity-aq(a)naturalsciences.be
+  
+  - name: Address
+    description: | # Can be Markdown
+      * Vautier Street 29
+      * Brussels 1000
+      * Belgium
     connectIcons: true
 
   # EXAMPLE
