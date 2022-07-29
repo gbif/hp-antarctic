@@ -20,12 +20,10 @@ columns:
     - text: Scientific Committee on Antarctic Research
       href: https://www.scar.org/
       
+ 
   - name: Contact
     description: | # Can be Markdown
-      data-biodiversity-aq(a)naturalsciences.be
-  
-  - name: Address
-    description: | # Can be Markdown
+      * data-biodiversity-aq(a)naturalsciences.be
       * Vautier Street 29
       * Brussels 1000
       * Belgium
