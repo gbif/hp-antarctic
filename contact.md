@@ -8,9 +8,9 @@ imageLicense: |
   [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3117363331)
 composition:
   - type: postHeader
-  - type: pageMarkdown
   - type: media
     data: contacts
+  - type: pageMarkdown
 ---
 
 ## Mailing address
