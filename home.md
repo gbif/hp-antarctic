@@ -17,5 +17,5 @@ permalink: /
 composition:
   - type: heroImage
   - type: latestPosts
-  - data: we_do_not_want_any_header 
+    data: we_do_not_want_any_header 
 ---
