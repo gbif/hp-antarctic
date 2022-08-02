@@ -6,18 +6,14 @@ description: Search <span data-ajax-url="https://api.gbif.org/v1/occurrence/sear
 background: /assets/images/20220320-IMG_2900.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-height: 85vh
+height: 75vh
 parallax: true
 cta:
   - text: Start exploring
     href: /occurrence/search
     isPrimary: true
 permalink: /
-
-navbar:
-  color: transparent
-  hasWhiteText: true
-  floating: true
- 
+composition:
+  - type: heroImage
+  - type: latestPosts
 ---
