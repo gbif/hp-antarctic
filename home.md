@@ -15,5 +15,7 @@ cta:
     isPrimary: true
 permalink: /
 composition:
+  - type: heroImage
   - type: latestPosts
+  - data: we_do_not_want_any_header 
 ---
