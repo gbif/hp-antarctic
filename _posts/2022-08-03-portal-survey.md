@@ -13,4 +13,4 @@ The survey will only take you 3-5 minutes to complete. Thank you very much!
 
 ## Survey link: [https://bit.ly/3zrdNqg](https://bit.ly/3zrdNqg)
 
-![QR code to survey](/assets/images/hosted-portal-survey.png)
+<img src="/assets/images/hosted-portal-survey.png" alt="QR code to survey" width="200"/>
