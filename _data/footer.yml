@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     links:
-    - text: RBINS
+    - text: RBINS ![Alt text](https://www.gbif.no/vrtx/decorating/resources/images/logo.png "a title")
       href: https://www.naturalsciences.be
     - text: WoRMS
       href: https://marinespecies.org/
