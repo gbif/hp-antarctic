@@ -3,6 +3,8 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+  - description: |
+      <img src="/assets/images/logo/gbif-node-green-logo.png" width="80" />
   - name: Partners
     links:
     - text: RBINS 
