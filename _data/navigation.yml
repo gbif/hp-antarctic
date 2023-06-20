@@ -1,13 +1,21 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: News
+  href: /news/?category=news
 - text: Occurrences
   href: /occurrence/search
+- text: Find Data
+  menu: # Dropdown menu (one level deep only)
+  - text: SCAR Southern Ocean Diet and Energetics Database
+    href: https://diet.fly.dev/
 - text: Tools
   menu: # Dropdown menu (one level deep only)
   - text: R-packages
     href: /R-packages
-  - text: SCAR Southern Ocean Diet and Energetics Database
-    href: https://diet.fly.dev/
+  - text: Identification keys
+    href: #
+- text: Atlas
+- text: Governance
 - text: Help
   href: /help
 - text: Contact
