@@ -10,6 +10,8 @@
     href: https://diet.fly.dev/
 - text: Tools
   menu: # Dropdown menu (one level deep only)
+  - text: Template generator
+    href: https://sios-svalbard.org/aen/template-generator/
   - text: R-packages
     href: /R-packages
   - text: Identification keys
