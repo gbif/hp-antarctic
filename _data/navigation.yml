@@ -2,10 +2,10 @@
 
 - text: News
   href: /news/?category=news
-- text: Occurrences
-  href: /occurrence/search
 - text: Find Data
   menu: # Dropdown menu (one level deep only)
+  - text: Occurrences
+    href: /occurrence/search
   - text: SCAR Southern Ocean Diet and Energetics Database
     href: https://diet.fly.dev/
 - text: Tools
