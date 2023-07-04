@@ -9,10 +9,6 @@ features:
     description: List of identification keys/taxonomic resources for Annelida and Sipuncula.
     background: /assets/images/id-keys_02_annelida-sipuncula.png
     href: /identification-keys/annelida-and-sipuncula
-  - title: Crustacea
-    description: List of identification keys/taxonomic resources for Crustacea.
-    background: /assets/images/id-keys_03_crustacea.png
-    href: /identification-keys/crustacea
   - title: Arthropoda (other than Crustacea)
     description: List of identification keys/taxonomic resources for Arthropoda (other than Crustacea).
     background: /assets/images/id-keys_04_arthropoda.png
@@ -33,6 +29,10 @@ features:
     description: List of identification keys/taxonomic resources for Cnidaria.
     background: /assets/images/id-keys_07_cnidaria.png
     href: /identification-keys/cnidaria
+  - title: Crustacea
+    description: List of identification keys/taxonomic resources for Crustacea.
+    background: /assets/images/id-keys_03_crustacea.png
+    href: /identification-keys/crustacea
   - title: Echinodermata
     description: List of identification keys/taxonomic resources for Echinodermata.
     background: /assets/images/id-keys_08_echinodermata.png
