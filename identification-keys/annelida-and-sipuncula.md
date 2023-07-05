@@ -4,11 +4,11 @@ title: Identification keys for Annelida and Sipuncula
 background: /assets/images/id-keys_02_annelida-sipuncula.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
-- text: View gallery of Annelida
-  href: /occurrence/search?&taxonKey=42&view=GALLERY
+- text: View records of Annelida
+  href: /occurrence/search?&taxonKey=42
   isPrimary: true
-- text: View gallery of Sipuncula
-  href: /occurrence/search?&taxonKey=74&view=GALLERY
+- text: View records of Sipuncula
+  href: /occurrence/search?&taxonKey=74
   isPrimary: true
 ---
 
