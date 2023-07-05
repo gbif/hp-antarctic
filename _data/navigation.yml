@@ -8,15 +8,16 @@
     href: /occurrence/search
   - text: SCAR Southern Ocean Diet and Energetics Database
     href: https://diet.fly.dev/
+- text: Resources
+  menu:
+  - text: Identification keys
+    href: /identification-keys
 - text: Tools
   menu: # Dropdown menu (one level deep only)
   - text: Template generator
     href: https://sios-svalbard.org/aen/template-generator/
   - text: R-packages
     href: /R-packages
-  - text: Identification keys
-    href: /identification-keys
-- text: Atlas
 - text: Governance
 - text: Help
   href: /help
