@@ -4,9 +4,6 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
   }
 });
 
-var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'taxonKey', value: 5 }
-};
 
 var siteTheme = gbifReactComponents.themeBuilder.extend({
   baseTheme: 'light', extendWith: {
