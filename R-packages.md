@@ -2,9 +2,9 @@
 lang-ref: R-packages
 title: R packages
 description: R-packages to access, manage and analyze antarctic biodiversity data.
-background: /assets/images/3117363624.jpeg
+background: /assets/images/r-packages_seal.jpg
 imageLicense: |
-  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3117363624)
+  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=4018106897) observed in Antarctica by MS Roald Amundsen (licensed under http://creativecommons.org/licenses/by-nc/4.0/) 
 ---
 
 This article is about R packages that are relevant to Antarctic and Southern Ocean science. It includes packages in various states of maturity, including some in planning or very early stages of development.
