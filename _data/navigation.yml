@@ -6,8 +6,6 @@
   menu: # Dropdown menu (one level deep only)
   - text: Occurrences
     href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
   - text: Literature
     href: /literature/search
   - text: SCAR Southern Ocean Diet and Energetics Database
