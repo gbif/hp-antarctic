@@ -1,0 +1,95 @@
+adelie-penguin:
+  reverse: false
+  title: Adélie penguin (Pygoscelis adeliae)
+  description: my description
+  background: /assets/images/cemp/adelie-penguin.png
+  imageLicense: |
+    [*Pygoscelis adeliae* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=4006741701) observed in Antarctica by dougiewainwright (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481663
+
+chinstrap-penguin:
+  reverse: true
+  title: Chinstrap penguin (Pygoscelis antarcticus)
+  description: my description
+  background: /assets/images/cemp/chinstrap-penguin.png
+  imageLicense: |
+    [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=4009803239) observed in Antarctica by dumbrella15 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481664
+
+gentoo-penguin:
+  reverse: false
+  title: Gentoo penguin (Pygoscelis papua)
+  description: my description
+  background: /assets/images/cemp/gentoo-penguin.jpg
+  imageLicense: |
+    [Pygoscelis papua (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481666
+
+macaroni-penguin:
+  reverse: true
+  title: Macaroni penguin (Eudyptes chrysolophus)
+  description: my description
+  background: /assets/images/cemp/macaroni-penguin.png
+  imageLicense: |
+    [*Eudyptes chrysolophus* (Brandt, 1837)](/occurrence/search?entity=4116058111) observed in Argentina by Hugo Hulsberg (licensed under http://creativecommons.org/publicdomain/zero/1.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481643
+
+black-browed-albatross:
+  reverse: false
+  title: Black-browed albatross (Thalassarche melanophris)
+  description: my description
+  background: /assets/images/cemp/black-browed-albatross.png
+  imageLicense: |
+    [*Thalassarche melanophris* (Temminck, 1828)](/occurrence/search?entity=4054795716) observed in Australia by ladyrobyn (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481410
+
+antarctic-petrel:
+  reverse: true
+  title: Antarctic petrel (Thalassoica antarctica)
+  description: my description
+  background: /assets/images/cemp/antarctic-petrel.png
+  imageLicense: |
+    [*Thalassoica antarctica* (Gmelin, 1789)](/occurrence/search?entity=4046425751) observed in Antarctica by whale_nerd (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2481513
+
+cape-petrel:
+  reverse: false
+  title: Cape petrel (Daption capense)
+  description: my description
+  background: /assets/images/cemp/cape-petrel.png
+  imageLicense: |
+     [*Daption capense* subsp. *australe* Mathews, 1913](/occurrence/search?entity=4133913569) observed in Australia by Ian Melbourne (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=6178257
+
+antarctic-fur-seal:
+  reverse: true
+  title: Antarctic fur seal (Arctocephalus gazella)
+  description: my description
+  background: /assets/images/cemp/antarctic-fur-seal.png
+  imageLicense: |
+    [*Arctocephalus gazella* (Peters, 1875)](/occurrence/search?entity=4062893786) observed in Antarctica by Sebastián Lescano (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  href: /#
+  cta:
+    - text: View records
+      href: /occurrence/search?taxonKey=2433472
