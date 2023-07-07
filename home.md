@@ -9,6 +9,10 @@ imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 height: 75vh
 parallax: true
+navbar:
+  color: transparent
+  hasWhiteText: true
+  floating: true
 cta:
   - text: Start exploring
     href: /occurrence/search
