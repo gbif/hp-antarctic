@@ -13,7 +13,7 @@
 - text: Resources
   menu:
   - text: Identification keys
-    href: /identification-keys
+    href: /identification-key
 - text: Tools
   menu: # Dropdown menu (one level deep only)
   - text: Template generator

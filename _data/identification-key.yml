@@ -4,58 +4,58 @@ features:
   - title: Multiple taxa
     description: List of identification keys/taxonomic resources for multiple taxa.
     background: /assets/images/id-keys_01_multi-taxa.png
-    href: /identification-keys/multiple-taxa
+    href: /identification-key/multiple-taxa
   - title: Annelida and Sipuncula
     description: List of identification keys/taxonomic resources for Annelida and Sipuncula.
     background: /assets/images/id-keys_02_annelida-sipuncula.png
-    href: /identification-keys/annelida-and-sipuncula
+    href: /identification-key/annelida-and-sipuncula
   - title: Arthropoda (other than Crustacea)
-    description: List of identification keys/taxonomic resources for Arthropoda (other than Crustacea).
+    description: List of identification key/taxonomic resources for Arthropoda (other than Crustacea).
     background: /assets/images/id-keys_04_arthropoda.png
-    href: /identification-keys/arthropoda-other-than-crustacea
+    href: /identification-key/arthropoda-other-than-crustacea
   - title: Bryophyta and Lichens
     description: List of identification keys/taxonomic resources for Bryophyta and Lichens.
     background: /assets/images/id-keys_01_multi-taxa.png
-    href: /identification-keys/bryophyta-and-lichens
+    href: /identification-key/bryophyta-and-lichens
   - title: Bryozoa
     description: List of identification keys/taxonomic resources for Bryozoa.
     background: /assets/images/id-keys_05_bryozoa.png
-    href: /identification-keys/bryozoa
+    href: /identification-key/bryozoa
   - title: Chordata
     description: List of identification keys/taxonomic resources for Chordata.
     background: /assets/images/id-keys_06_chordata.png
-    href: /identification-keys/chordata
+    href: /identification-key/chordata
   - title: Cnidaria
     description: List of identification keys/taxonomic resources for Cnidaria.
     background: /assets/images/id-keys_07_cnidaria.png
-    href: /identification-keys/cnidaria
+    href: /identification-key/cnidaria
   - title: Crustacea
     description: List of identification keys/taxonomic resources for Crustacea.
     background: /assets/images/id-keys_03_crustacea.png
-    href: /identification-keys/crustacea
+    href: /identification-key/crustacea
   - title: Echinodermata
     description: List of identification keys/taxonomic resources for Echinodermata.
     background: /assets/images/id-keys_08_echinodermata.png
-    href: /identification-keys/echinodermata
+    href: /identification-key/echinodermata
   - title: Macroalgae
     description: List of identification keys/taxonomic resources for Macroalgae.
     background: /assets/images/id-keys_01_multi-taxa.png
-    href: /identification-keys/macroalgae
+    href: /identification-key/macroalgae
   - title: Mollusca
     description: List of identification keys/taxonomic resources for Mollusca.
     background: /assets/images/id-keys_09_mollusca.png
-    href: /identification-keys/mollusca
+    href: /identification-key/mollusca
   - title: Nematoda
     description: List of identification keys/taxonomic resources for Nematoda.
     background: /assets/images/id-keys_01_multi-taxa.png
-    href: /identification-keys/nematoda
+    href: /identification-key/nematoda
   - title: Porifera
     description: List of identification keys/taxonomic resources for Porifera.
     background: /assets/images/id-keys_11_porifera.png
-    href: /identification-keys/porifera
+    href: /identification-key/porifera
   - title: Protists
     description: List of identification keys/taxonomic resources for Protists.
     background: /assets/images/id-keys_01_multi-taxa.png
-    href: /identification-keys/protists
+    href: /identification-key/protists
 
 
