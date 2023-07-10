@@ -1,7 +1,7 @@
 ---
 layout: home
 klass: home
-title: CCAMLR ecosystem monitoring program (CEMP) indicator species
+title: CCAMLR Ecosystem Monitoring Program (CEMP) indicator species
 description: A list of CCAMLR ecosystem monitoring program (CEMP) indicator species 
 permalink: /indicator-species/cemp
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
