@@ -10,6 +10,10 @@ imageLicense: |
 hasTextShadow: true
 height: 85vh
 parallax: true
+navbar:
+  color: transparent
+  hasWhiteText: true
+  floating: true
 cta:
 - text: Learn more about CEMP
   href: https://www.ccamlr.org/en/science/ccamlr-ecosystem-monitoring-program-cemp
