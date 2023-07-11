@@ -30,7 +30,7 @@ gentoo-penguin:
   description: Gentoo penguins belong to the pygoscelid or brush tail penguins that also include Chinstrap and Adélie penguins. Males and females look very much alike but females tend to be slightly smaller, particularly with regard to the beak depth and length. Gentoo penguins stand about 60 cm tall with both feet on the ground and their heads pulled in. The colouration of the sexes is identical; head, throat, back and flippers are dark bluish-black while the chest, belly and underside of the flippers are white. The black and white body parts are clearly separated. Above the eyes are two white patches that often join across the crown. A dusting of white feathers is sprinkled around their head, nape and upper back. The top of the beaks and their tips are black but the sides are orange to red. The feet are pinkish-orange to red and the irises are brown. Provided by [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/gentoo-penguin.jpg
   imageLicense: |
-    [Pygoscelis papua (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    [*Pygoscelis papua* (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: View records
       href: /occurrence/search?taxonKey=2481666
