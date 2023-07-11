@@ -13,7 +13,7 @@ imageLicense: |
 
 Welcome to the new SCAR Antarctic Biodiversity Portal!
 
-We are excited to introduce you to our brand new portal, which replaces the old system that was becoming increasingly costly to maintain. As part of our ongoing commitment to providing you with the best possible experience, we have migrated to the [GBIF hosted portal](https://www.gbif.org/hosted-portals), offering enhanced features and improved performance.
+We are excited to introduce you to our brand new portal. As part of our ongoing commitment to providing you with the best possible experience, we have migrated to the [GBIF hosted portal](https://www.gbif.org/hosted-portals), offering enhanced features and improved performance.
 
 We would like to express our sincere appreciation to GBIF for providing us with this exceptional service and hosting our new portal.
 
