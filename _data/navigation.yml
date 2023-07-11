@@ -23,7 +23,13 @@
   - text: R-packages
     href: /R-packages
 - text: Help
-  href: /help
+  menu: # Dropdown menu (one level deep only)
+  - text: Helpdesk
+    href: mailto:data-biodiversity-aq@naturalsciences.be
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
 - text: Contact
   href: /contact
 # - text: More
