@@ -3,7 +3,7 @@ layout: home
 klass: home
 title: CCAMLR Ecosystem Monitoring Program (CEMP) indicator species
 description: CCAMLR Ecosystem Monitoring Program (CEMP) and the CEMP indicator species 
-permalink: /indicator-species/cemp
+permalink: /species-list/cemp
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
   [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
@@ -21,21 +21,21 @@ composition:
 - type: heroImage
 - type: pageMarkdown  # render markdown in this file
 - type: split
-  data: indicator-species.cemp.adelie-penguin
+  data: species-list.cemp.adelie-penguin
 - type: split
-  data: indicator-species.cemp.chinstrap-penguin
+  data: species-list.cemp.chinstrap-penguin
 - type: split
-  data: indicator-species.cemp.gentoo-penguin
+  data: species-list.cemp.gentoo-penguin
 - type: split
-  data: indicator-species.cemp.macaroni-penguin
+  data: species-list.cemp.macaroni-penguin
 - type: split
-  data: indicator-species.cemp.black-browed-albatross
+  data: species-list.cemp.black-browed-albatross
 - type: split
-  data: indicator-species.cemp.antarctic-petrel
+  data: species-list.cemp.antarctic-petrel
 - type: split
-  data: indicator-species.cemp.cape-petrel
+  data: species-list.cemp.cape-petrel
 - type: split
-  data: indicator-species.cemp.antarctic-fur-seal
+  data: species-list.cemp.antarctic-fur-seal
 ---
 
 # CCAMLR Ecosystem Monitoring Program (CEMP)
