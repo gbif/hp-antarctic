@@ -44,7 +44,7 @@ privacy:
 
 algae:
   rootLang: en
-  # latestPostLimit: 2
+  latestPostLimit: 3
   logo: /assets/images/logo/biodiversityaq_logo_rgb_height-100.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
