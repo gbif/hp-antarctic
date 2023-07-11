@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification keys for Bryozoa
-background: /assets/images/id-keys_05_bryozoa.png
+background: /assets/images/identification-key/id-keys_05_bryozoa.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: View records of Bryozoa

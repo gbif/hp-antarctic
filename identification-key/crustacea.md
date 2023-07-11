@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification keys for Crustacea
-background: /assets/images/id-keys_03_crustacea.png
+background: /assets/images/identification-key/id-keys_03_crustacea.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: View records of Crustacea

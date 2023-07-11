@@ -1,10 +1,9 @@
 ---
 title: Identification keys
 layout: post
+description: A list of identification keys and taxonomic resources for antarctic species
 permalink: /identification-key
-background: /assets/images/id-keys_01_multi-taxa.png
 composition:
   - type: features
     data: identification-key
 ---
-

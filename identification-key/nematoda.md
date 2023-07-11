@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification keys for Nematoda
-background: /assets/images/id-keys_01_multi-taxa.png
+background: /assets/images/identification-key/id-keys_01_multi-taxa.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: View records of Nematoda

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification keys for Mollusca
-background: /assets/images/id-keys_09_mollusca.png
+background: /assets/images/identification-key/id-keys_09_mollusca.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: View records of Mollusca

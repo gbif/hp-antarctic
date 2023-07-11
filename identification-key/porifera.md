@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identification keys for Porifera
-background: /assets/images/id-keys_11_porifera.png
+background: /assets/images/identification-key/id-keys_11_porifera.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: View records of Porifera
