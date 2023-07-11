@@ -11,7 +11,7 @@ var siteConfig = {
     rootFilter: {
       countriesOfCoverage: ['AQ', 'BV', 'HM', 'GS', 'TF']
     },
-    highlightedFilters: ['q', 'literatureType', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
+    highlightedFilters: ['q', 'literatureType', 'relevance', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
   }
 };
 </script>
