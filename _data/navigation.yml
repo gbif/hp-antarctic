@@ -24,6 +24,8 @@
     href: /R-packages
 - text: Help
   menu: # Dropdown menu (one level deep only)
+  - text: FAQ
+    href: /faq
   - text: Helpdesk
     href: mailto:data-biodiversity-aq@naturalsciences.be
   - text: GBIF

@@ -1,6 +1,7 @@
 ---
-lang-ref: help
-title: Help
+lang-ref: FAQ
+permalink: /faq
+title: FAQ
 description: Coming soon
 background: /assets/images/3446790392.jpeg
 imageLicense: |
