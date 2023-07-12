@@ -1,8 +1,8 @@
 ---
-title:  "SCAR 2022 Satellite event: Structuring and Managing biological data"
-date:   2022-08-02
+title: "SCAR 2022 Satellite event: Structuring and Managing biological data"
+date: 2022-08-02
 categories: ["news", "event"]
-background: /assets/images/AVdP_SCAR_0037.jpg
+background: /assets/images/posts/2022-08-02_scar2022-satellite-event_AVdP_SCAR_0037.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
