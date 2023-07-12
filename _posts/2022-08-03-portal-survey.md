@@ -4,7 +4,7 @@ title: "Portal user survey"
 description: "We want to hear from you!"
 date:  2022-08-03
 categories: ["news"]
-background: /assets/images/20220417-IMG_3965.jpg
+background: /assets/images/posts/2022-08-03_20220417-IMG_3965.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
