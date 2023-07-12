@@ -23,7 +23,7 @@ We would like to express our sincere appreciation to GBIF for providing us with 
 The new portal is now integrated with [GBIF](https://www.gbif.org/), a globally recognized platform for biodiversity data. By creating a GBIF account, you can easily access and download data from our portal. GBIF offers a secure and reliable environment for managing biodiversity data from around the world. If you don't have a GBIF account yet, we encourage you to create one for seamless access to our portal and other valuable resources within the GBIF network.
 
 ### Streamlined Account Transition
-To ensure a seamless transition to our new and improved portal, we will be using GBIF accounts to manage the downloads request. We kindly request you to create a new account on the GBIF hosted portal to continue benefiting from our services.
+To ensure a seamless transition to our new and improved portal, we will be using GBIF accounts to manage the downloads request. We kindly request you to create a new account on the GBIF hosted portal to continue benefiting from our services. We regret to inform you that your account on the old portal, along with all associated data, has been deleted. This step was necessary for the migration process. We apologize for any inconvenience this may cause. 
 
 ### Improved Downloads with DOIs
 Unlike the old portal, all downloads from the new portal will now come with a Digital Object Identifier (DOI). This DOI allows you to cite the downloaded data, ensuring proper attribution and fostering collaboration among researchers. 
