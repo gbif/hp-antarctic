@@ -10,8 +10,7 @@ imageLicense: |
 
 ### Which data can be shared through SCAR Antarctic Biodiversity Portal?
 
-> We can assist and support publication of organism occurrences, species checklists, DNA-derived occurrences and
-> sampling events in Antarctica, sub Antarctic island(s) and in the Southern Ocean to [GBIF](https://www.gbif.org/). Please have a
+> We can assist and support publication of biodiversity from Antarctica, sub Antarctic island(s) and in the Southern Ocean to [GBIF](https://www.gbif.org/) and [OBIS](https://www/obis.org/). This includes dataset descriptions, organism occurrences, species checklists, DNA-derived occurrences and sampling events in Please have a
 > look at this [blog post](https://data-blog.gbif.org/post/data-shareability/) for more details.
 > If you have other data types, but you are not sure where and how to make it available,
 > please [email us](mailto:data-biodiversity-aq@naturalsciences.be) so that we can direct you to people who may be able to
@@ -35,10 +34,17 @@ imageLicense: |
 > Ocean are encouraged to be added to the [SCAR network](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89). 
 > There is no restriction on the type of primary biodiversity data.
 
+### What is the criteria for a dataset to be added to [OBIS network](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)?
+
+> Dataset that includes biological observations of the Southern Ocean are encouraged to be added to the [OBIS network](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). 
+> There is no restriction on the type of primary biodiversity data.
+>Dat must adhere to guidelines to contribute to OBIS, for more details see the [OBIS manual](https://manual.obis.org/).
+ 
 ### What is the taxonomic backbone of the taxa in this portal?
 
 > Since all occurrence records comes from [GBIF](https://www.gbif.org/), the scientific names and taxonomy are according
 > to [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei).
+> Where possible we encourage the use of the register of Antarctic species [RAS](https://ras.biodiversity.aq) and the register of Antarctic Marine Species [RAMS](https://www.marinespecies.org/rams/) for validating sceintific names and taxonomy.
 
 ### Can I access the data of this portal programmatically?
 
