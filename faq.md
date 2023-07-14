@@ -38,7 +38,7 @@ imageLicense: |
 
 > Dataset that includes biological observations of the Southern Ocean are encouraged to be added to the [OBIS network](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). 
 > There is no restriction on the type of primary biodiversity data.
->Dat must adhere to guidelines to contribute to OBIS, for more details see the [OBIS manual](https://manual.obis.org/).
+>Data must adhere to guidelines to contribute to OBIS, for more details see the [OBIS manual](https://manual.obis.org/).
  
 ### What is the taxonomic backbone of the taxa in this portal?
 
@@ -51,4 +51,10 @@ imageLicense: |
 > Yes! All species occurrence records in this portal are from GBIF. You can access the data programmatically using its
 > API documented [here](https://www.gbif.org/developer/summary). A beginners guide is available
 > at [GBIF data blog](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
+
+
+### Is the SCAR Antarctic biodiversity Portal (biodiversity.aq) the same as SCAR MarBIN?
+
+>Before biodiversity.aq, there was SCAR-MarBIN. SCAR-MarBIN had a website and a database, but they are no longer being updated. When SCAR-MarBIN was made, the GBIF portal didn't have as many options as it does now. During that time, SCAR-MarBIN was able to meet the wants of its users. It is no longer needed since GBIF has grown and added more features.
+
 
