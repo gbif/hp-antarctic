@@ -9,7 +9,9 @@
   - text: Literature
     href: /literature/search
   - text: SCAR Southern Ocean Diet and Energetics Database
-    href: https://diet.fly.dev/
+    href: https://diet.apps.aq/
+  - text: Persistent Organic Pollutants in Antarctica and the Southern Ocean
+    href: https://pops.apps.aq/
 - text: Resources
   menu:
   - text: Identification keys
@@ -18,7 +20,7 @@
     href: /species-list/cemp
 - text: Tools
   menu: # Dropdown menu (one level deep only)
-  - text: Template generator
+  - text: Darwin Core Excel template generator
     href: https://sios-svalbard.org/aen/template-generator/
   - text: R-packages
     href: /R-packages
