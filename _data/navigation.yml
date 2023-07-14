@@ -8,10 +8,8 @@
     href: /occurrence/search
   - text: Literature
     href: /literature/search
-  - text: SCAR Southern Ocean Diet and Energetics Database
-    href: https://diet.apps.aq/
-  - text: Persistent Organic Pollutants in Antarctica and the Southern Ocean
-    href: https://pops.apps.aq/
+  - text: External databases
+    href: /external-db
 - text: Resources
   menu:
   - text: Identification keys

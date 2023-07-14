@@ -1,0 +1,25 @@
+title: External databases
+description: External databases related to Antarctic and Southern Ocean biodiversity
+features:
+  - preTitle: Species checklist
+    title: The Register of Antarctic Species (RAS)
+    href: https://ras.biodiversity.aq/
+    description: Register of Antarctic Species (RAS) aims to provide an authoritative and comprehensive list of names of marine and terrestrial species in Antarctica and the Southern Ocean. It serves as a reference guide for users to interpret taxonomic literature, as valid names and other names in use are both provided. RAS is hosted by [WoRMS](https://www.marinespecies.org/).
+    # image required
+    background: /assets/images/external-db/ras.png
+  - preTitle: Database
+    title: SCAR Southern Ocean Diet and Energetics Database
+    description: This database includes data related to diet and energy flow from conventional (e.g. gut content) and modern (e.g. molecular) studies, stable isotopes, fatty acids, and energetic content.
+    background: /assets/images/external-db/diet.png
+    href: https://diet.apps.aq/
+  - preTitle: Database
+    title: Persistent Organic Pollutants in Antarctica and the Southern Ocean
+    href: https://pops.apps.aq/
+    description: |
+      This data explorer app of Persistent Organic Pollutants in Antarctica and the Southern Ocean.
+    background: /assets/images/external-db/pops.png
+  - preTitle: Database
+    title: Mapping Application for Penguin Populations and Projected Dynamics (MAPPPD)
+    href: https://www.penguinmap.com/mapppd/
+    description: MAPPPD (Mapping Application for Penguin Populations and Projected Dynamics) is an open access decision support tool designed for managers, scientists and the general public. Scientists from all corners of the Antarctic have collaborated to create a database of penguin population counts with data from four charismatic Sphenisciformes.
+    background: /assets/images/external-db/mapppd.png
