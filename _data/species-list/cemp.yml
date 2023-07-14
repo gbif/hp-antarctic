@@ -66,10 +66,10 @@ antarctic-petrel:
   description: The Antarctic petrel is a medium-sized petrel with a dark brown and white plumage. The dark brown parts may fade during the breeding season to pale brown. Head, neck and back are chocolate brown. Bill is very dark to black. The upperwing is dark brown with a large white bar over the secondary and first primary feathers, which is visible in flight. The underwing and belly are largely white. The sexes are alike, although males are slightly larger. The weight of adult birds fluctuates throughout the year between 550-800g, with peak weight around egg laying. [Provided by EG-BAMM, Jeroen CS Creuwels & Øystein Varpe](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/antarctic-petrel.jpg
   imageLicense: |
-    *Thalassoica antarctica* in flight by Sebastien Descamps
+    *Thalassoica antarctica* in flight by Sebastien Descamps licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: View records
-      href: /occurrence/search?taxonKey=2481513 licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+      href: /occurrence/search?taxonKey=2481513
       isPrimary: true
 
 cape-petrel:
