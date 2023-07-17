@@ -16,7 +16,7 @@ features:
     title: Persistent Organic Pollutants in Antarctica and the Southern Ocean
     href: https://pops.apps.aq/
     description: |
-      This data explorer app of Persistent Organic Pollutants in Antarctica and the Southern Ocean.
+      A data explorer app of Persistent Organic Pollutants in Antarctica and the Southern Ocean.
     background: /assets/images/external-db/pops.png
   - preTitle: Database
     title: Mapping Application for Penguin Populations and Projected Dynamics (MAPPPD)
