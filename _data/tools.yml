@@ -1,0 +1,43 @@
+title: Tools
+description: Tools relevant for biodiversity data management. Please remember to properly cite the tool(s) whenever you use it in your work.
+features:
+  - preTitle: Online tool
+    title: Darwin Core Excel template generator
+    href: https://sios-svalbard.org/aen/template-generator/
+    description: A Darwin Core Excel template generator developed by the Nansen Legacy project from [SIOS-Svalbard](https://sios-svalbard.org/).
+    background: /assets/images/tools/dwc-excel-template-generator.png
+  - preTitle: Excel macro
+    title: Excel to Darwin Core Standard tool
+    href: https://doi.org/10.5281/zenodo.6453921
+    description: A macro excel spreadsheet for setup, data entry, data validation and file export to DwC (Darwin Core Standard) files formatted for the GBIF [Integrated Publishing Toolkit](https://www.gbif.org/ipt). Developed by [Vidar Bakken](https://orcid.org/0000-0002-4792-2059) from [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/excel-to-dwc-macro.png
+  - preTitle: Online tool
+    title: Crosstab to list converter
+    href: https://gbif-norway.github.io/crosstab2list/
+    description: Often biodiversity data is in input in crosstab format when in the field. In order to publish this data, you will need to convert it into a flattened list. This is a small tool to help you do that. Developed by [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/crosstab2list.png
+  - preTitle: Online tool
+    title: UUID generator
+    href: https://www.uuidgenerator.net/version4
+    description: Random universally unique identifier (Version 4 UUID) online generator. Useful for generating identifiers for eventID, occurrenceID, etc.
+    background: /assets/images/tools/uuid.png
+  - preTitle: Online tool
+    title: MyGeodata Cloud coordinate conversion tool
+    href: https://mygeodata.cloud/cs2cs/
+    description: An online coordinate conversion tool.
+    background: /assets/images/tools/cs2cs.png
+  - preTitle: Online tool
+    title: GBIF data validator
+    href: https://www.gbif.org/tools/data-validator
+    description: The GBIF data validator is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset. By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it.
+    background: /assets/images/tools/gbif-data-validator.png
+  - preTitle: Online tool
+    title: World Register of Marine Species (WoRMS) Taxon match
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: You can use the WoRMS Taxon Match Tool to automatically match your species list or taxon list with WoRMS. After matching, the tool will return your file with the AphiaID's, valid names, authorities, WoRMS classification and/or any other output you selected.
+    background: /assets/images/tools/worms-taxon-match.png
+  - preTitle: Downloadable GIS layers
+    title: Quantarctica
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Quantarctica is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica, and let you explore, import, visualize, and share Antarctic data. It includes community-contributed, peer-reviewed data from ten different scientific themes and a professionally-designed basemap.
+    background: /assets/images/tools/quantarctica.png
