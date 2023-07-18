@@ -18,8 +18,8 @@
     href: /species-list/cemp
 - text: Tools
   menu: # Dropdown menu (one level deep only)
-  - text: Darwin Core Excel template generator
-    href: https://sios-svalbard.org/aen/template-generator/
+  - text: Online tools
+    href: /tools
   - text: R-packages
     href: /R-packages
 - text: Help
