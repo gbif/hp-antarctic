@@ -2,7 +2,7 @@
 layout: compose
 klass: compositionBlocks
 title: Tools
-description: External databases related to Antarctic and Southern Ocean biodiversity
+description: A list of online tools and downloadable to help you manage your biodiversity data
 permalink: /tools
 composition:
 - type: media
