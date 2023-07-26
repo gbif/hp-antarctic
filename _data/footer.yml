@@ -7,9 +7,10 @@ columns:
       <a href="https://www.gbif.org/participant/306">
         <img alt="GBIF node logo" src="/assets/images/logo/gbif-node-green-logo.png" width="100" />
       </a>
+
   - name: Partners
     links:
-    - text: RBINS 
+    - text: RBINS
       href: https://www.naturalsciences.be
     - text: WoRMS
       href: https://marinespecies.org/
@@ -21,8 +22,10 @@ columns:
       href: https://obis.org/
     - text: SCAR
       href: https://www.scar.org/
-      
- 
+
+  - name: Code
+    description: This project is open source and available on [GitHub](https://github.com/gbif/hp-antarctic). You are welcome to create a GitHub issue for any bug reporting and suggestion for improvement.
+
   - name: About
     links:
       - text: Contact
