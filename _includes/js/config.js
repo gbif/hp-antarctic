@@ -44,5 +44,8 @@ var siteConfig = {
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
       MERCATOR: ['NATURAL', 'BRIGHT', 'DARK'],
     }
+  },
+  messages: {
+    "dataset.siteScopeSmallerThanDataset": "Not all records from the dataset is included on this site. Visit [GBIF.org]({datasetUrl}) for to view the full dataset. This portal's scope is detailed in the [FAQ](/faq)."
   }
 };
