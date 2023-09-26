@@ -3,8 +3,8 @@ description: Tools relevant for biodiversity data management. Please remember to
 features:
   - preTitle: Online tool
     title: Darwin Core Excel template generator
-    href: https://sios-svalbard.org/aen/template-generator/
-    description: A Darwin Core Excel template generator developed by the Nansen Legacy project from [SIOS-Svalbard](https://sios-svalbard.org/).
+    href: https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core
+    description: A Darwin Core Excel template generator developed by the Nansen Legacy project.
     background: /assets/images/tools/dwc-excel-template-generator.png
   - preTitle: Excel macro
     title: Excel to Darwin Core Standard tool
