@@ -26,7 +26,7 @@ var siteConfig = {
     },
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS'],
     highlightedFilters: ['q', 'datasetKey', 'taxonKey', 'occurrenceStatus', 'basisOfRecord', 'year', 'samplingProtocol', 'depth', 'occurrenceIssue', 'networkKey'],
-    defaultTableColumns: ['features', 'basisOfRecord', 'preparations', 'coordinates', 'locality', 'year', 'dataset', 'institutionCode'] // the first column will always be scientificName, that cannot be changed
+    availableTableColumns: ['features', 'basisOfRecord', 'preparations', 'coordinates', 'locality', 'year', 'dataset', 'institutionCode'] // the first column will always be scientificName, that cannot be changed
   },
   maps: {
     locale: 'en',
