@@ -16,6 +16,8 @@
     href: /identification-key
   - text: CCAMLR ecosystem monitoring program (CEMP) indicator species
     href: /species-list/cemp
+  - text: Biogeographic Atlas of the Southern Ocean
+    href: https://github.com/biodiversity-aq/BASO/
 - text: Tools
   menu: # Dropdown menu (one level deep only)
   - text: Online tools
