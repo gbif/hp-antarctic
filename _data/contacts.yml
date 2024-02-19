@@ -14,3 +14,10 @@ features:
     description: |      # required
       yi-ming.gan(a)naturalsciences.be <br />
     background: https://au-hw-media-m.happywhale.com/2a8cbf58-fbaf-4d81-a455-315cd6b44c7b.jpg
+  - preTitle: Scientific collaborator  # optional
+    title: Charlie Plasman
+    href: https://orcid.org/0009-0007-7519-7417
+    description: |      # required
+      cplasman(a)naturalsciences.be <br />
+    background: https://images.unsplash.com/photo-1462888210965-cdf193fb74de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
