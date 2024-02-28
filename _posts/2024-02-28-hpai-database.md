@@ -2,7 +2,7 @@
 preTitle: February 28, 2024
 title: "SCAR Antarctic Wildlife Health Network HPAI Database"
 description: "HPAI database developed by Antarctic Wildlife Health Network (AWHN) "
-date: 2024-02-28
+date: 2024-02-27
 categories: ["news"]
 background: /assets/images/posts/2024-02-28-hpai-database-hero_iceberg-pingu.png
 imageLicense: |
