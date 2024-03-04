@@ -4,7 +4,7 @@ title: "SCAR Newsletter - Survey of general requirements of Antarctic/Southern O
 description: "Calling all members of the Antarctica/Southern Ocean community!"
 date: 2024-03-01
 categories: ["news"]
-background: /assets/images/posts/2024-03-01_aso-general-requirements-survey.png
+background: /assets/images/posts/2024-03-01_aso-general-requirements-survey.jpg
 imageLicense: |
   https://unsplash.com/fr/photos/montagne-rocheuse-brune-sous-ciel-nuageux-pendant-la-journee-NaQMJ-xNDWI [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
