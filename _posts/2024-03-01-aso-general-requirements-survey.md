@@ -6,7 +6,7 @@ date: 2024-03-01
 categories: ["news"]
 background: /assets/images/posts/2024-03-01_aso-general-requirements-survey.jpg
 imageLicense: |
-  Photo by <a href="https://unsplash.com/@66north?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">66 north</a> on <a href="https://unsplash.com/photos/brown-rocky-mountain-under-cloudy-sky-during-daytime-NaQMJ-xNDWI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by [66 north](https://unsplash.com/@66north?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-rocky-mountain-under-cloudy-sky-during-daytime-NaQMJ-xNDWI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 ---
 
 
