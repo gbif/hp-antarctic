@@ -39,6 +39,6 @@ var siteConfig = {
     }
   },
   messages: {
-    "dataset.siteScopeSmallerThanDataset": "Not all records from the dataset is included on this site. Visit [GBIF.org]({datasetUrl}) for to view the full dataset. This portal's scope is detailed in the [FAQ](/faq)."
+    "dataset.siteScopeSmallerThanDataset": "Not all records from the dataset is included on this site. Visit [GBIF.org]({datasetUrl}) to view the full dataset. This portal's scope is detailed in the [FAQ](/faq)."
   }
 };
