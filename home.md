@@ -23,5 +23,8 @@ composition:
   - type: stats
     data: home.stats
   - type: latestPosts
+    description: Recent Posts
     data: we_do_not_want_any_header 
+  - type: stories
+    data: home.dataUse
 ---
