@@ -41,3 +41,8 @@ features:
     href: https://www.marinespecies.org/aphia.php?p=match
     description: Quantarctica is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica, and let you explore, import, visualize, and share Antarctic data. It includes community-contributed, peer-reviewed data from ten different scientific themes and a professionally-designed basemap.
     background: /assets/images/tools/quantarctica.png
+  - preTitle: Online tool
+    title: Coordinate converter
+    href: https://obis.shinyapps.io/coordinates/
+    description: Coordinate converter by OBIS
+    background: /assets/images/tools/obis-coordinate-converter.png
