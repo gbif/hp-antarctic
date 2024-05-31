@@ -1,4 +1,6 @@
 ---
+lang-ref: job-advertisement
+lang: en
 title: "Job Advertisement"
 preTitle: July 29, 2023
 description: "SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)"

@@ -1,4 +1,6 @@
 ---
+lang-ref: aso-general-requirements-survey
+lang: en
 preTitle: March 01, 2024
 title: "SCAR Newsletter - Survey of general requirements of Antarctic/Southern Ocean community"
 description: "Calling all members of the Antarctica/Southern Ocean community!"

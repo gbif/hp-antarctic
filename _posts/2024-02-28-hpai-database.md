@@ -1,4 +1,6 @@
 ---
+lang-ref: hpai-database
+lang: en
 preTitle: February 28, 2024
 title: "SCAR Antarctic Wildlife Health Network HPAI Database"
 description: "HPAI database developed by Antarctic Wildlife Health Network (AWHN) "
@@ -17,4 +19,4 @@ This database forms a central reporting database to collate detailed scientific 
 [EG-ABI](https://scar.org/science/life/egabi) helped develop a web application to visualise suspected and confirmed cases.
 The AWHN will also provide regular updates on current cases and recommendations. 
 
-Please visit the [SCAR-website](https://scar.org/library-data/avian-flu) for more inforatiom
+Please visit the [SCAR-website](https://scar.org/library-data/avian-flu) for more information

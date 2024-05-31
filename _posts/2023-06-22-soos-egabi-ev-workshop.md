@@ -1,4 +1,6 @@
 ---
+lang-ref: soos-egabi-ev-workshop
+lang: en
 preTitle: June 22, 2023
 title: "Biodiversity.aq / SOOS EG-ABI Essential Variables Workshop"
 date:  2023-06-22

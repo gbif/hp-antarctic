@@ -1,4 +1,6 @@
 ---
+lang-ref: scar-2022-satellite-event
+lang: en
 title: "SCAR 2022 Satellite event: Structuring and Managing biological data"
 date: 2022-08-02
 categories: ["news", "event"]

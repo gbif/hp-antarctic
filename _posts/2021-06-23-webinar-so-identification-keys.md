@@ -1,4 +1,6 @@
 ---
+lang-ref: webinar-so-identification-keys/
+lang: en
 preTitle: June 23, 2021
 title: "Webinar: Increasing availability and digitization of SO identification keys"
 description: "Wednesday 23rd of June 2021 from 2 to 4PM (CET) - Registration required."

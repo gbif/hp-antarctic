@@ -1,4 +1,6 @@
 ---
+lang: en
+lang-ref: webinar-biodiversity-data
 preTitle: November 17, 2020
 title: "Webinar series: Biodiversity data from the field to research"
 description: "Webinar series from 3 - 6 November 2020"

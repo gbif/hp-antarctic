@@ -1,4 +1,6 @@
 ---
+lang-ref: so-action-plan
+lang: en
 title: "The Southern Ocean Action Plan"
 preTitle: April 12, 2022
 description: "In support of the United Nations Decade of Ocean Sceince for Sustainable Development"

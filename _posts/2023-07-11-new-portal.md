@@ -1,4 +1,6 @@
 ---
+lang-ref: new-portal
+lang: en
 title: "New Portal Announcement"
 preTitle: July 11, 2023
 description: "SCAR Antarctic Biodiversity Portal is now a GBIF Hosted Portal"

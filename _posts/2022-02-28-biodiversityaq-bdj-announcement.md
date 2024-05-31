@@ -1,4 +1,6 @@
 ---
+lang-ref: biodiversityaq-bdj-announcement
+lang: en
 preTitle: February 28, 2022
 title: "Antarctic and Southern Ocean biodiversity topical collection - Biodiversity Data Journal"
 date:  2022-02-28
