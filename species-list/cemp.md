@@ -1,9 +1,10 @@
 ---
+lang-ref: cemp
+lang: en
 layout: home
 klass: home
 title: CCAMLR Ecosystem Monitoring Program (CEMP) indicator species
 description: CCAMLR Ecosystem Monitoring Program (CEMP) and the CEMP indicator species 
-permalink: /species-list/cemp
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
   [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
