@@ -1,0 +1,36 @@
+# Les liens ci-dessous seront inclus dans la barre de navigation de votre site (navigation en haut)
+
+- text: Actualités
+  href: /fr/news/?category=nouvelles
+- text: Trouver des données
+  menu: # Menu déroulant (un seul niveau de profondeur)
+  - text: Occurrences
+    href: /fr/occurrence/search
+  - text: Littérature
+    href: /fr/literature/search
+  - text: Bases de données externes
+    href: /fr/external-db
+- text: Ressources
+  menu:
+  - text: Clés d'identification
+    href: /fr/identification-key
+  - text: Programme de surveillance des écosystèmes de la CCAMLR (CEMP) espèces indicatrices
+    href: /fr/species-list/cemp
+  - text: Atlas biogéographique de l'océan Austral
+    href: https://github.com/biodiversity-aq/BASO/
+- text: Outils
+  menu: # Menu déroulant (un seul niveau de profondeur)
+  - text: Outils en ligne
+    href: /fr/tools
+  - text: R-packages
+    href: /fr/R-packages
+- text: Aide
+  menu: # Menu déroulant (un seul niveau de profondeur)
+  - text: FAQ
+    href: /fr/faq
+  - text: Helpdesk
+    href: mailto:data-biodiversity-aq@naturalsciences.be
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/

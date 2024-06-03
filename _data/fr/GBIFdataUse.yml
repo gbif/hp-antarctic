@@ -1,0 +1,10 @@
+dataUse:
+  title: Utilisation des données
+  description: Mise en lumière des 3 éléments d'utilisation des données les plus récents qui ont un impact sur l'Antarctique et sont alimentés par des données sur la biodiversité.
+  useSiteLinkWhenPossible: false # nécessite l'ajout d'une page resourceKey sur resource/[key] pour fonctionner
+  filters:
+    contentType:
+      - DATA_USE
+    limit: 3
+    countriesOfCoverage:
+      - AQ

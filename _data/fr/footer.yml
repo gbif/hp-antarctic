@@ -8,7 +8,7 @@ columns:
         <img alt="GBIF node logo" src="/assets/images/logo/gbif-node-green-logo.png" width="100" />
       </a>
 
-  - name: Partners
+  - name: Les partenaires
     links:
     - text: INS
       href: https://www.naturalsciences.be
@@ -24,12 +24,12 @@ columns:
       href: https://www.scar.org/
 
   - name: Code
-    description: This project is open source and available on [GitHub](https://github.com/gbif/hp-antarctic). You are welcome to create a GitHub issue for any bug reporting and suggestion for improvement.
+    description: Ce projet est open source et disponible sur [GitHub](https://github.com/gbif/hp-antarctic). Vous êtes invités à créer un ticket GitHub pour tout rapport de bogue et suggestion d'amélioration.
 
-  - name: About
+  - name: À propos
     links:
       - text: Contact
-        href: /contact
+        href: /fr/contact
     connectIcons: true
   
   # EXAMPLE
@@ -44,7 +44,7 @@ columns:
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
 
 other: |
-  [Privacy policy](/privacy)
+  [Politique de confidentialité](/privacy)
   
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml

@@ -1,3 +1,7 @@
 en:
   label: English
   icon:  # optional
+fr:
+  label: Français
+  languageCode: fr
+  archive_permalink: /fr/news/

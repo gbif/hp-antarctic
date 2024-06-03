@@ -1,0 +1,97 @@
+# Todo: link to species page
+
+adelie-penguin:
+  reverse: false
+  title: Manchot Adélie (Pygoscelis adeliae)
+  description: Le manchot Adélie est l'une des espèces de manchots les plus courantes le long de la côte antarctique, et c'est probablement aussi l'espèce la plus étudiée. Ils sont des habitants obligés de la banquise qui entoure le continent antarctique. Ils se reproduisent de fin octobre à début mars dans des colonies situées dans des zones côtières sans glace. Pendant cette période, ils alternent entre des excursions de recherche de nourriture en mer et des séjours sur terre pour incuber l'œuf ou élever leurs deux poussins. Après la reproduction et la mue, ils passent l'hiver dans la banquise. Fournie par [EG-BAMM, Anne-Mathilde Thierry](https://scar.org/science/eg-bamm/home/)
+  background: /assets/images/cemp/adelie-penguin.jpg
+  imageLicense: |
+   *Pygoscelis adeliae* - Time to take a leap of faith par Anne-Mathilde Thierry sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481663
+      isPrimary: true
+
+chinstrap-penguin:
+  reverse: true
+  title: Manchot à jugulaire (Pygoscelis antarcticus)
+  description: Décrit pour la première fois par Johan Reinhold Forster (1781), les manchots à jugulaire sont une espèce intolérante à la glace. Ils sont l'une des espèces de manchots les plus facilement reconnaissables, nommés pour une fine bande distinctive de plumes noires qui traverse leur menton, apparaissant comme une jugulaire reliant les plumes noires à travers le sommet de leur crâne et le dos contre un corps autrement blanc. L'arbre phylogénétique des manchots trouve des espèces pygoscelid ("à queue de pinceau") se ramifiant d'un ancêtre commun des manchots existants il y a entre 20 et 38 millions d'années, les manchots à jugulaire se diversifiant des Adélies plusieurs millions d'années plus tard. [Fournie par EG-BAMM, Alexander E. Thornton & Andres Barbosa](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/chinstrap-penguin.jpg
+  imageLicense: |
+    *Pygoscelis antarcticus* sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481664
+      isPrimary: true
+
+gentoo-penguin:
+  reverse: false
+  title: Manchot papou (Pygoscelis papua)
+  description: Les manchots papous appartiennent aux manchots pygoscelid ou à queue de pinceau qui incluent également les manchots à jugulaire et les manchots Adélie. Les mâles et les femelles se ressemblent beaucoup mais les femelles ont tendance à être légèrement plus petites, notamment en ce qui concerne la profondeur et la longueur du bec. Les manchots papous mesurent environ 60 cm de haut avec les deux pieds sur le sol et la tête rentrée. La coloration des sexes est identique ; tête, gorge, dos et nageoires sont bleu-noir foncé tandis que la poitrine, le ventre et le dessous des nageoires sont blancs. Les parties du corps noires et blanches sont clairement séparées. Au-dessus des yeux se trouvent deux taches blanches qui se rejoignent souvent au-dessus du sommet. Une poussière de plumes blanches est parsemée autour de leur tête, de leur nuque et de leur dos supérieur. Le dessus des becs et leurs extrémités sont noirs mais les côtés sont orange à rouge. Les pieds sont orange rosé à rouge et les iris sont bruns. Fournie par [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/gentoo-penguin.jpg
+  imageLicense: |
+    [*Pygoscelis papua* (J.R.Forster, 1781)](/fr/occurrence/search?entity=4029090741) observé en Antarctique par msr (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481666
+      isPrimary: true
+
+macaroni-penguin:
+  reverse: true
+  title: Gorfou doré (Eudyptes chrysolophus)
+  description: Les gorfous sauteurs appartiennent aux manchots à crête, le plus grand genre des Spheniciformes comprenant sept autres espèces d'Eudyptes - le gorfou de l'Est Eudyptes filholi, le gorfou des îles du Nord Eudyptes moseleyi, le gorfou doré Eudyptes chrysolophus, le gorfou royal Eudyptes schlegeli, le gorfou des fjords Eudyptes pachyrhynchus, le gorfou des Snares Eudyptes robustus et le gorfou huppé Eudyptes sclateri. Fournie par [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/macaroni-penguin.jpg
+  imageLicense: |
+    *Eudyptes chrysolophus* - Gorfous sauteurs en groupe par Laurent Demongin sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481643
+      isPrimary: true
+
+black-browed-albatross:
+  reverse: false
+  title: Albatros à sourcils noirs (Thalassarche melanophris)
+  description: Thalassarche melanophris (d'abord nommé Diomedea melanophris par Coenraad Jacob Temminck), est un grand oiseau marin de la famille des albatros, Diomedeidae ; c'est le membre le plus nombreux, le plus répandu et le plus commun de sa famille autour de l'océan Austral (particulièrement dans le secteur atlantique). [Fournie par EG-BAMM, Richard Phillips & Jose Xavier](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/black-browed-albatross.jpg
+  imageLicense: |
+    *Thalassarche melanophris* - Albatros à sourcils noirs en vol par Jose Xavier sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481410
+      isPrimary: true
+
+antarctic-petrel:
+  reverse: true
+  title: Pétrel antarctique (Thalassoica antarctica)
+  description: Le pétrel antarctique est un pétrel de taille moyenne avec un plumage brun foncé et blanc. Les parties brun foncé peuvent s'estomper pendant la saison de reproduction pour devenir brun clair. Tête, cou et dos sont brun chocolat. Le bec est très sombre à noir. L'aile supérieure est brun foncé avec une large barre blanche sur les plumes secondaires et la première primaire, visible en vol. L'aile inférieure et le ventre sont en grande partie blancs. Les sexes sont semblables, bien que les mâles soient légèrement plus grands. Le poids des oiseaux adultes fluctue tout au long de l'année entre 550 et 800g, avec un poids maximal autour de la ponte. [Fournie par EG-BAMM, Jeroen CS Creuwels & Øystein Varpe](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/antarctic-petrel.jpg
+  imageLicense: |
+    *Thalassoica antarctica* en vol par Sebastien Descamps sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /fr/occurrence/search?taxonKey=2481513
+      isPrimary: true
+
+cape-petrel:
+  reverse: false
+  title: Pétrel du Cap (Daption capense)
+  description: Pendant la saison de reproduction, les pétrels du Cap se nourrissent autour de la plate-forme continentale de l'Antarctique et en hiver, ils se déplacent plus au nord, jusqu'en Angola et aux îles Galápagos. Ils se reproduisent sur de nombreuses îles de l'Antarctique et des îles subantarctiques, certaines allant jusqu'aux îles Auckland, aux îles Chatham, à l'île Campbell. Leurs principaux sites de reproduction se trouvent sur la péninsule Antarctique, la Géorgie du Sud, les îles Balleny, les îles Kerguelen, ainsi que sur les îles de la mer de Scotia - [ZipCode Zoo (3 juillet 2009)](https://web.archive.org/web/20120609213137/http://zipcodezoo.com/Animals/D/Daption_capense_australe/)
+  background: /assets/images/cemp/cape-petrel.png
+  imageLicense: |
+     [*Daption capense* subsp. *australe* Mathews, 1913](/fr/occurrence/search?entity=4133913569) observé en Australie par Ian Melbourne (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /occurrence/search?taxonKey=6178257
+      isPrimary: true
+
+antarctic-fur-seal:
+  reverse: true
+  title: Otarie à fourrure antarctique (Arctocephalus gazella)
+  description: Les otaries à fourrure antarctiques sont l'un des prédateurs mammifères les plus nombreux en Antarctique. La population a été chassée jusqu'à une quasi-extinction au début du 20ème siècle pour sa fourrure. Elle s'est ensuite rétablie, la population actuelle étant estimée à environ 3 à 4 millions. Autour des plages de reproduction, de petits groupes ou individus d'otaries peuvent souvent être vus en train de faire des sauts dans l'eau et s'arrêteront souvent pour enquêter sur les navires ou les petits bateaux. Sur terre, elles sont souvent agressives et, pendant la saison de reproduction, de grandes agrégations peuvent rendre l'accès aux plages difficile. [Fourni par EG-BAMM, Ian Staniland](https://scar.org/science/eg-bamm/)
+  background: /assets/images/cemp/antarctic-fur-seal.png
+  imageLicense: |
+    [*Arctocephalus gazella* (Peters, 1875)](/fr/occurrence/search?entity=4062893786) observé en Antarctique par Sebastián Lescano (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
+  cta:
+    - text: Voir les enregistrements
+      href: /occurrence/search?taxonKey=2433472
+      isPrimary: true

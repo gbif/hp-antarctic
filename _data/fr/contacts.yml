@@ -1,0 +1,23 @@
+# title: People
+# description: We would love to hear from you
+features:
+  - preTitle: Chef de projet  # optional
+    title: Anton Van de Putte # required
+    href: https://orcid.org/0000-0003-1336-5554
+    description: |      # required
+      anton.vandeputte(a)naturalsciences.be <br />
+    # img required
+    background: https://pbs.twimg.com/profile_images/1272613246084829186/KKn8S9Wd_400x400.jpg
+  - preTitle: Chargé de science des données  # optional
+    title: Yi-Ming Gan
+    href: https://orcid.org/0000-0001-7087-2646
+    description: |      # required
+      yi-ming.gan(a)naturalsciences.be <br />
+    background: https://au-hw-media-m.happywhale.com/2a8cbf58-fbaf-4d81-a455-315cd6b44c7b.jpg
+  - preTitle: Collaborateur scientifique  # optional
+    title: Charlie Plasman
+    href: https://orcid.org/0009-0007-7519-7417
+    description: |      # required
+      cplasman(a)naturalsciences.be <br />
+    background: https://images.unsplash.com/photo-1462888210965-cdf193fb74de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+

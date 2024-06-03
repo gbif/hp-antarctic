@@ -1,0 +1,24 @@
+title: Bases de données externes
+description: Bases de données externes relatives à la biodiversité de l'Antarctique et de l'océan Austral
+features:
+  - preTitle: Liste des espèces
+    title: Le Registre des Espèces Antarctiques (RAS)
+    href: https://ras.biodiversity.aq/
+    description: Le Registre des Espèces Antarctiques (RAS) a pour objectif de fournir une liste autoritaire et complète des noms des espèces marines et terrestres de l'Antarctique et de l'océan Austral. Il sert de guide de référence pour les utilisateurs afin d'interpréter la littérature taxonomique, car les noms valides et d'autres noms en usage sont tous deux fournis. RAS est hébergé par [WoRMS](https://www.marinespecies.org/).
+    background: /assets/images/external-db/ras.png
+  - preTitle: Base de données
+    title: Base de données SCAR sur l'alimentation et la bioénergétique de l'océan Austral
+    description: Cette base de données comprend des données relatives à l'alimentation et au flux d'énergie provenant d'études conventionnelles (par exemple, contenu stomacal) et modernes (par exemple, moléculaires), isotopes stables, acides gras et contenu énergétique.
+    background: /assets/images/external-db/diet.png
+    href: https://diet.apps.aq/
+  - preTitle: Base de données
+    title: Polluants Organiques Persistants en Antarctique et dans l'océan Austral
+    href: https://pops.apps.aq/
+    description: |
+      Une application d'exploration de données sur les polluants organiques persistants en Antarctique et dans l'océan Austral.
+    background: /assets/images/external-db/pops.png
+  - preTitle: Base de données
+    title: Application de cartographie pour les populations de manchots et les dynamiques projetées (MAPPPD)
+    href: https://www.penguinmap.com/mapppd/
+    description: MAPPPD (Application de cartographie pour les populations de manchots et les dynamiques projetées) est un outil de support décisionnel en accès libre conçu pour les gestionnaires, les scientifiques et le grand public. Des scientifiques de tous les coins de l'Antarctique ont collaboré pour créer une base de données de dénombrements de populations de manchots avec des données provenant de quatre Sphenisciformes charismatiques.
+    background: /assets/images/external-db/mapppd.png

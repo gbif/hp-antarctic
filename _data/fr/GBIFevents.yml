@@ -1,0 +1,6 @@
+title: Événements de GBIF.org
+description: Cela montre les trois éléments d'événements les plus récents de GBIF.org. Pour voir les éléments plus anciens, allez sur [gbif.org](https://www.gbif.org/resource/search?contentType=event)
+filters:
+  contentType:
+    - EVENT
+  limit: 3  # par défaut est 6

@@ -1,0 +1,48 @@
+title: Outils
+description: Outils pertinents pour la gestion des données sur la biodiversité. Veuillez vous souvenir de bien citer l'outil lorsque vous l'utilisez dans votre travail.
+features:
+  - preTitle: Outil en ligne
+    title: Générateur de modèle Excel Darwin Core
+    href: https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core
+    description: Un générateur de modèle Excel Darwin Core développé par le projet Nansen Legacy.
+    background: /assets/images/tools/dwc-excel-template-generator.png
+  - preTitle: Macro Excel
+    title: Outil Excel vers Darwin Core Standard
+    href: https://doi.org/10.5281/zenodo.6453921
+    description: Une feuille de calcul Excel macro pour la configuration, la saisie des données, la validation des données et l'exportation de fichiers vers des fichiers DwC (Darwin Core Standard) formatés pour le [Kit de publication intégré](https://www.gbif.org/ipt) de GBIF. Développé par [Vidar Bakken](https://orcid.org/0000-0002-4792-2059) de [GBIF Norvège](https://www.gbif.no/).
+    background: /assets/images/tools/excel-to-dwc-macro.png
+  - preTitle: Outil en ligne
+    title: Convertisseur crosstab en liste
+    href: https://gbif-norway.github.io/crosstab2list/
+    description: Souvent, les données sur la biodiversité sont saisies sous forme de crosstab sur le terrain. Pour publier ces données, vous devrez les convertir en liste aplatie. C'est un petit outil pour vous aider à le faire. Développé par [GBIF Norvège](https://www.gbif.no/).
+    background: /assets/images/tools/crosstab2list.png
+  - preTitle: Outil en ligne
+    title: Générateur de UUID
+    href: https://www.uuidgenerator.net/version4
+    description: Générateur en ligne de UUID (identifiant unique universel) version 4 aléatoire. Utile pour générer des identifiants pour eventID, occurrenceID, etc.
+    background: /assets/images/tools/uuid.png
+  - preTitle: Outil en ligne
+    title: Outil de conversion de coordonnées MyGeodata Cloud
+    href: https://mygeodata.cloud/cs2cs/
+    description: Un outil de conversion de coordonnées en ligne.
+    background: /assets/images/tools/cs2cs.png
+  - preTitle: Outil en ligne
+    title: Validateur de données GBIF
+    href: https://www.gbif.org/tools/data-validator
+    description: Le validateur de données GBIF est un service qui permet à toute personne disposant d'un ensemble de données pertinent pour GBIF de recevoir un rapport sur la validité syntaxique et le contenu de l'ensemble de données. En soumettant un ensemble de données au validateur, vous pouvez passer par les procédures de validation et d'interprétation généralement associées à la publication sur GBIF et déterminer rapidement les problèmes potentiels dans les données - sans avoir à les publier.
+    background: /assets/images/tools/gbif-data-validator.png
+  - preTitle: Outil en ligne
+    title: Outil de correspondance des taxons WoRMS (World Register of Marine Species)
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Vous pouvez utiliser l'outil de correspondance des taxons WoRMS pour faire correspondre automatiquement votre liste d'espèces ou liste de taxons avec WoRMS. Après la correspondance, l'outil vous renverra votre fichier avec les AphiaID, les noms valides, les autorités, la classification WoRMS et/ou tout autre résultat que vous avez sélectionné.
+    background: /assets/images/tools/worms-taxon-match.png
+  - preTitle: Couches SIG téléchargeables
+    title: Quantarctica
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Quantarctica est une collection de jeux de données géographiques antarctiques pour la recherche, l'éducation, les opérations et la gestion en Antarctique, et vous permet d'explorer, d'importer, de visualiser et de partager des données antarctiques. Il inclut des données évaluées par des pairs et fournies par la communauté, provenant de dix thèmes scientifiques différents et une carte de base conçue professionnellement.
+    background: /assets/images/tools/quantarctica.png
+  - preTitle: Outil en ligne
+    title: Convertisseur de coordonnées
+    href: https://obis.shinyapps.io/coordinates/
+    description: Convertisseur de coordonnées par OBIS.
+    background: /assets/images/tools/obis-coordinate-converter.png
