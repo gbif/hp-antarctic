@@ -91,7 +91,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "post"
+      layout: "page"
       lang: en
   -
     scope:
@@ -106,6 +106,13 @@ defaults:
       lang: en
   -
     scope:
-      path: "da/"
+      path: "fr/"
     values:
-      lang: da
+      lang: fr
+  -
+    scope:
+      path: "_posts/fr/" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/fr/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
