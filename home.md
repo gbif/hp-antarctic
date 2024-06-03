@@ -27,7 +27,7 @@ composition:
     description: Recent Posts
     data: we_do_not_want_any_header 
   - type: stories
-    data: GBIFdataUse.dataUse
+    data: GBIFdataUse
   - type: stories
     data: GBIFevents
 ---
