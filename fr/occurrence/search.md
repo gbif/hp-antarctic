@@ -1,6 +1,6 @@
 ---
 title: Occurrence search
-permalink: /occurrence/search
+permalink: /fr/occurrence/search
 description: We publish open data
 layout: occurrence
 ---

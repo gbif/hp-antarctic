@@ -1,7 +1,7 @@
 ---
 title: Literature
 description: We publish open data
-permalink: /literature/search
+permalink: /fr/literature/search
 layout: literature
 ---
 
