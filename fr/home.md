@@ -17,7 +17,7 @@ navbar:
   floating: true
 cta:
   - text: Commencer à explorer
-    href: /occurrence/search
+    href: /fr/occurrence/search
     isPrimary: true
 composition:
   - type: heroImage
