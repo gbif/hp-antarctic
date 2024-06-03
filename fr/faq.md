@@ -5,7 +5,7 @@ title: Questions Fréquemment Posées
 description: Une liste de questions fréquemment posées et de réponses relatives au Portail de la biodiversité en Antarctique de SCAR
 background: /assets/images/faq_3446790392.jpeg
 imageLicense: |
-  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3446790392)
+  [*Leptonychotes weddellii* (Lesson, 1826)](/fr/occurrence/search/?entity=3446790392)
 ---
 
 ### Quelles données peuvent être partagées via le Portail de la biodiversité en Antarctique de SCAR ?
@@ -19,15 +19,15 @@ imageLicense: |
 
 ### Quelle est la portée de ce portail ?
 
-> Les [enregistrements d'occurrence](/occurrence/search) dans ce portail sont tous les occurrences dans GBIF **dans** le [polygone MEASO](https://github.com/gbif/hp-antarctic/blob/eea6740b87e477305107cf702055e01a0b4691d8/_includes/js/config.js#L32).
+> Les [enregistrements d'occurrence](/fr/occurrence/search) dans ce portail sont tous les occurrences dans GBIF **dans** le [polygone MEASO](https://github.com/gbif/hp-antarctic/blob/eea6740b87e477305107cf702055e01a0b4691d8/_includes/js/config.js#L32).
 
-### Quels sont les critères pour qu'un jeu de données soit ajouté au [réseau SCAR](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89) ?
+### Quels sont les critères pour qu'un jeu de données soit ajouté au [réseau SCAR](https://www.gbif.org/fr/network/8534dd20-c368-4a1f-bdaf-e6b390710f89) ?
 
-> Les jeux de données qui incluent des observations biologiques du continent antarctique, des îles subantarctiques et de l'océan Austral sont encouragés à être ajoutés au [réseau SCAR](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89). Il n'y a aucune restriction sur le type de données primaires sur la biodiversité.
+> Les jeux de données qui incluent des observations biologiques du continent antarctique, des îles subantarctiques et de l'océan Austral sont encouragés à être ajoutés au [réseau SCAR](https://www.gbif.org/fr/network/8534dd20-c368-4a1f-bdaf-e6b390710f89). Il n'y a aucune restriction sur le type de données primaires sur la biodiversité.
 
-### Quels sont les critères pour qu'un jeu de données soit ajouté au [réseau OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6) ?
+### Quels sont les critères pour qu'un jeu de données soit ajouté au [réseau OBIS](https://www.gbif.org/fr/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6) ?
 
-> Les jeux de données qui incluent des observations biologiques de l'océan Austral sont encouragés à être ajoutés au [réseau OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). Il n'y a aucune restriction sur le type de données primaires sur la biodiversité. Les données doivent adhérer aux lignes directrices pour contribuer à OBIS, pour plus de détails voir le [manuel OBIS](https://manual.obis.org/).
+> Les jeux de données qui incluent des observations biologiques de l'océan Austral sont encouragés à être ajoutés au [réseau OBIS](https://www.gbif.org/network/fr/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). Il n'y a aucune restriction sur le type de données primaires sur la biodiversité. Les données doivent adhérer aux lignes directrices pour contribuer à OBIS, pour plus de détails voir le [manuel OBIS](https://manual.obis.org/).
 
 ### Quelle est la base taxonomique des taxons dans ce portail ?
 

@@ -7,7 +7,7 @@ title: Programme de surveillance de l'écosystème de la CCAMLR (CEMP) espèces 
 description: Programme de surveillance de l'écosystème de la CCAMLR (CEMP) et les espèces indicatrices du CEMP
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
-  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=3994320758) observé en Antarctique par timhoffm (sous licence http://creativecommons.org/licenses/by-nc/4.0/)  
+  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/fr/occurrence/search?entity=3994320758) observé en Antarctique par timhoffm (sous licence http://creativecommons.org/licenses/by-nc/4.0/)  
 hasTextShadow: true
 height: 85vh
 parallax: true
@@ -17,7 +17,7 @@ navbar:
   floating: true
 cta:
 - text: En savoir plus sur le CEMP
-  href: https://www.ccamlr.org/en/science/ccamlr-ecosystem-monitoring-program-cemp
+  href: https://www.ccamlr.org/fr/science/programme-de-contr%C3%B4le-de-l%C3%A9cosyst%C3%A8me-de-la-ccamlr-cemp
 composition:
 - type: heroImage
 - type: pageMarkdown  # render markdown in this file

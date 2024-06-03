@@ -6,7 +6,7 @@ klass: contact
 description: Coordonnées du portail sur la biodiversité antarctique du SCAR
 background: /assets/images/contact_two-seals.jpeg
 imageLicense: |
-  [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3117363331)
+  [*Leptonychotes weddellii* (Lesson, 1826)](/fr/occurrence/search/?entity=3117363331)
 composition:
   - type: postHeader
   - type: media
