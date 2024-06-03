@@ -1,9 +1,10 @@
 ---
+lang-ref: external-db
+lang: en
+title: External databases
 layout: compose
 klass: compositionBlocks
-title: External databases
 description: External databases related to Antarctic and Southern Ocean biodiversity
-permalink: /external-db
 composition:
 - type: media
   data: external-db

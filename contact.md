@@ -1,5 +1,6 @@
 ---
 lang-ref: contact
+lang: en
 title: Contact
 klass: contact
 description: Contact information of the SCAR Antarctic Biodiversity Portal
@@ -15,8 +16,8 @@ composition:
 
 ## Mailing address
 
-Vautierstreet 29
-B-1000 Brussels
+Vautierstreet 29 \
+B-1000 Brussels\
 Belgium
 
 ## Direction
