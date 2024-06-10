@@ -1,4 +1,6 @@
 ---
+lang-ref: chordata
+lang: en
 layout: post
 title: Identification keys for Chordata
 background: /assets/images/identification-key/id-keys_06_chordata.png

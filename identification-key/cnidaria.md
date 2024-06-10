@@ -1,4 +1,6 @@
 ---
+lang-ref: cnidaria
+lang: en
 layout: post
 title: Identification keys for Cnidaria
 background: /assets/images/identification-key/id-keys_07_cnidaria.png

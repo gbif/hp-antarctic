@@ -1,4 +1,6 @@
 ---
+lang-ref: macroalgae
+lang: en
 layout: post
 title: Identification keys for macroalgae
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png

@@ -1,4 +1,6 @@
 ---
+lang-ref: multiple-taxa
+lang: en
 layout: post
 title: Identification keys for multiple taxa 
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png

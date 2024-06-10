@@ -1,4 +1,6 @@
 ---
+lang-ref: bryophyta-and-lichens
+lang: en
 layout: post
 title: Identification keys for Bryophyta and Lichens
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png

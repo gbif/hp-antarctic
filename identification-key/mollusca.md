@@ -1,4 +1,6 @@
 ---
+lang-ref: mollusca
+lang: en
 layout: post
 title: Identification keys for Mollusca
 background: /assets/images/identification-key/id-keys_09_mollusca.png

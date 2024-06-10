@@ -1,4 +1,6 @@
 ---
+lang-ref: crustacea
+lang: en
 layout: post
 title: Identification keys for Crustacea
 background: /assets/images/identification-key/id-keys_03_crustacea.png

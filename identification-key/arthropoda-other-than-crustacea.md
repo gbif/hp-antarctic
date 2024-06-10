@@ -1,4 +1,6 @@
 ---
+lang-ref: arthropoda-other-than-crustacea
+lang: en
 layout: post
 title: Identification keys for Arthropoda (other than Crustacea)
 background: /assets/images/identification-key/id-keys_04_arthropoda.png
