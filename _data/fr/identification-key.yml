@@ -4,56 +4,56 @@ features:
   - title: Taxons multiples
     description: Liste de clés d'identification/ressources taxonomiques pour plusieurs taxons.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-    href: /identification-key/multiple-taxa
+    href: /fr/identification-key/multiple-taxa
   - title: Annélides et Siponcles
     description: Liste de clés d'identification/ressources taxonomiques pour les Annélides et les Siponcles.
     background: /assets/images/identification-key/id-keys_02_annelida-sipuncula.png
-    href: /identification-key/annelida-and-sipuncula
+    href: /fr/identification-key/annelida-and-sipuncula
   - title: Arthropodes (autres que Crustacés)
     description: Liste de clés d'identification/ressources taxonomiques pour les Arthropodes (autres que les Crustacés).
     background: /assets/images/identification-key/id-keys_04_arthropoda.png
-    href: /identification-key/arthropoda-other-than-crustacea
+    href: /fr/identification-key/arthropoda-other-than-crustacea
   - title: Bryophytes et Lichens
     description: Liste de clés d'identification/ressources taxonomiques pour les Bryophytes et les Lichens.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-    href: /identification-key/bryophyta-and-lichens
+    href: /fr/identification-key/bryophyta-and-lichens
   - title: Bryozoaires
     description: Liste de clés d'identification/ressources taxonomiques pour les Bryozoaires.
     background: /assets/images/identification-key/id-keys_05_bryozoa.png
-    href: /identification-key/bryozoa
+    href: /fr/identification-key/bryozoa
   - title: Chordés
     description: Liste de clés d'identification/ressources taxonomiques pour les Chordés.
     background: /assets/images/identification-key/id-keys_06_chordata.png
-    href: /identification-key/chordata
+    href: /fr/identification-key/chordata
   - title: Cnidaires
     description: Liste de clés d'identification/ressources taxonomiques pour les Cnidaires.
     background: /assets/images/identification-key/id-keys_07_cnidaria.png
-    href: /identification-key/cnidaria
+    href: /fr/identification-key/cnidaria
   - title: Crustacés
     description: Liste de clés d'identification/ressources taxonomiques pour les Crustacés.
     background: /assets/images/identification-key/id-keys_03_crustacea.png
-    href: /identification-key/crustacea
+    href: /fr/identification-key/crustacea
   - title: Échinodermes
     description: Liste de clés d'identification/ressources taxonomiques pour les Échinodermes.
     background: /assets/images/identification-key/id-keys_08_echinodermata.png
-    href: /identification-key/echinodermata
+    href: /fr/identification-key/echinodermata
   - title: Macroalgues
     description: Liste de clés d'identification/ressources taxonomiques pour les Macroalgues.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-    href: /identification-key/macroalgae
+    href: /fr/identification-key/macroalgae
   - title: Mollusques
     description: Liste de clés d'identification/ressources taxonomiques pour les Mollusques.
     background: /assets/images/identification-key/id-keys_09_mollusca.png
-    href: /identification-key/mollusca
+    href: /fr/identification-key/mollusca
   - title: Nématodes
     description: Liste de clés d'identification/ressources taxonomiques pour les Nématodes.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-    href: /identification-key/nematoda
+    href: /fr/identification-key/nematoda
   - title: Porifères
     description: Liste de clés d'identification/ressources taxonomiques pour les Porifères.
     background: /assets/images/identification-key/id-keys_11_porifera.png
-    href: /identification-key/porifera
+    href: /fr/identification-key/porifera
   - title: Protistes
     description: Liste de clés d'identification/ressources taxonomiques pour les Protistes.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-    href: /identification-key/protists
+    href: /fr/identification-key/protists
