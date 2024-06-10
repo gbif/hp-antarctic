@@ -22,8 +22,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Online tools
     href: /tools
-  - text: R-packages
-    href: /R-packages
+  - text: rOpenSci
+    href: https://scar.github.io/ropensci/task_view/
 - text: Help
   menu: # Dropdown menu (one level deep only)
   - text: FAQ
