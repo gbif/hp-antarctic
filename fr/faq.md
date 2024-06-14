@@ -35,7 +35,7 @@ imageLicense: |
 
 ### Puis-je accéder aux données de ce portail par programme ?
 
-> Oui ! Toutes les occurrences d'espèces répertoriées sur ce protail proviennent de GBIF. Vous pouvez accéder aux données par programme en utilisant son API documentée [ici](https://www.gbif.org/developer/summary). Un guide pour débutants est disponible sur le [blog de données de GBIF](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
+> Oui ! Toutes les occurrences d'espèces répertoriées sur ce protail proviennent de GBIF. Vous pouvez accéder aux données par programme en utilisant son API documentée [ici](https://techdocs.gbif.org/en/openapi/). Un guide pour débutants est disponible sur le [blog de données de GBIF](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
 
 ### Le Portail de la biodiversité en Antarctique de SCAR (biodiversity.aq) est-il le même que SCAR MarBIN ?
 

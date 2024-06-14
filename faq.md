@@ -49,7 +49,7 @@ imageLicense: |
 ### Can I access the data of this portal programmatically?
 
 > Yes! All species occurrence records in this portal are from GBIF. You can access the data programmatically using its
-> API documented [here](https://www.gbif.org/developer/summary). A beginners guide is available
+> API documented [here](https://techdocs.gbif.org/en/openapi/). A beginners guide is available
 > at [GBIF data blog](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
 
 
