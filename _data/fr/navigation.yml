@@ -22,8 +22,8 @@
   menu: # Menu déroulant (un seul niveau de profondeur)
   - text: Outils en ligne
     href: /fr/tools
-  - text: R-packages
-    href: /fr/R-packages
+  - text: rOpenSci
+    href: https://scar.github.io/ropensci/task_view/
 - text: Aide
   menu: # Menu déroulant (un seul niveau de profondeur)
   - text: FAQ
