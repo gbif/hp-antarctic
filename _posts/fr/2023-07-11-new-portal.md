@@ -22,18 +22,18 @@ Nous tenons à exprimer notre sincère gratitude au GBIF pour nous avoir fourni 
 ## Changements Importants
 
 ### Intégration au GBIF
-Le nouveau portail est désormais intégré au [GBIF](https://www.gbif.org/), une plateforme mondialement reconnue pour les données sur la biodiversité. En créant un compte GBIF, vous pouvez facilement accéder et télécharger des données à partir de notre portail. Le GBIF offre un environnement sécurisé et fiable pour la gestion des données sur la biodiversité du monde entier. Si vous n'avez pas encore de compte GBIF, nous vous encourageons à en créer un pour un accès transparent à notre portail et à d'autres ressources précieuses dans le réseau GBIF.
+Le nouveau portail est désormais intégré à [GBIF](https://www.gbif.org/), une plateforme mondialement reconnue pour les données sur la biodiversité. En créant un compte GBIF, vous pouvez facilement accéder et télécharger des données à partir de notre portail. Le GBIF offre un environnement sécurisé et fiable pour la gestion des données sur la biodiversité du monde entier. Si vous n'avez pas encore de compte GBIF, nous vous encourageons à en créer un pour accéder facilement à notre portail et à d'autres ressources précieuses du réseau GBIF.
 
 ### Transition de Compte Simplifiée
-Pour assurer une transition transparente vers notre nouveau portail amélioré, nous utiliserons des comptes GBIF pour gérer les demandes de téléchargement. Nous vous demandons gentiment de créer un nouveau compte sur le portail hébergé par le GBIF pour continuer à bénéficier de nos services. Nous regrettons de vous informer que votre compte sur l'ancien portail, ainsi que toutes les données associées, ont été supprimés. Cette étape était nécessaire pour le processus de migration. Nous nous excusons pour tout inconvénient que cela pourrait causer.
+Pour assurer une transition en douceur vers notre nouveau portail, nous utiliserons des comptes GBIF pour gérer les demandes de téléchargement. Nous vous demandons de bien vouloir créer un nouveau compte sur le portail hébergé par GBIF pour continuer à bénéficier de nos services. Nous avons le regret de vous informer que votre compte sur l'ancien portail, ainsi que toutes les données associées, ont été supprimés. Cette étape était nécessaire pour le processus de migration. Nous vous prions de nous excuser pour les désagréments que cela pourrait occasionner. 
 
 ### Téléchargements Améliorés avec des DOI
-Contrairement à l'ancien portail, tous les téléchargements à partir du nouveau portail seront désormais accompagnés d'un Identifiant d'Objet Numérique (DOI). Ce DOI vous permet de citer les données téléchargées, assurant une attribution appropriée et favorisant la collaboration entre les chercheurs.
+Contrairement à l'ancien portail, tous les téléchargements à partir du nouveau portail seront désormais accompagnés d'un Identifiant d'Objet Numérique (DOI). Ce DOI vous permet de citer les données téléchargées, assurant une attribution correcte et favorisant la collaboration entre chercheurs.
 
-Nous comprenons que cette transition puisse nécessiter un certain ajustement, et nous nous excusons pour tout inconvénient causé pendant ce processus. Notre équipe est dédiée à vous aider tout au long de cette transition et à garantir une expérience fluide. Si vous rencontrez des difficultés ou si vous avez des questions, n'hésitez pas à contacter notre [service d'assistance](mailto:data-biodiversity-aq@naturalsciences.be).
+Nous comprenons que cette transition puisse nécessiter un certain temps d'adaptation, et nous nous excusons pour les désagréments occasionnés lors de ce processus. Notre équipe s'engage à vous aider tout au long de cette transition et à garantir une expérience fluide. Si vous rencontrez des difficultés ou si vous avez des questions, n'hésitez pas à contacter notre [service d'assistance](mailto:data-biodiversity-aq@naturalsciences.be).
 
-Nous tenons à exprimer notre gratitude sincère au GBIF pour leur collaboration et pour nous avoir offert ce service. Leur soutien a été essentiel pour rendre cette transition possible.
+Nous tenons à exprimer notre sincère gratitude au GBIF pour leur collaboration et pour nous avoir offert ce service. Leur soutien a été essentiel pour rendre cette transition possible.
 
-Nous vous sommes reconnaissants pour votre compréhension et votre soutien continu alors que nous nous efforçons de fournir une expérience utilisateur améliorée et de vous offrir un accès efficace aux données sur la biodiversité.
+Nous vous remercions de votre compréhension et votre soutien continu, nous nous efforçons d'améliorer l'expérience des utilisateurs et de vous offrir un accès efficace aux données sur la biodiversité.
 
 Merci de faire partie de la communauté du Portail de Biodiversité Antarctique du SCAR !

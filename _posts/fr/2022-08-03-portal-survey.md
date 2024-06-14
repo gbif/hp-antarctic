@@ -11,8 +11,8 @@ imageLicense: |
   Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-Pour améliorer l'expérience utilisateur de ce portail hébergé et découvrir comment nous pouvons tirer le meilleur parti des données sur la biodiversité antarctique, nous aimerions avoir votre avis.
-L'enquête ne vous prendra que 3 à 5 minutes à compléter. Merci beaucoup !
+Afin d'améliorer l'expérience des utilisateurs de ce portail hébergé et d'optimiser l'utilisation des données sur la biodiversité antarctique, nous aimerions avoir votre avis.
+L'enquête ne vous prendra que 3 à 5 minutes. Merci beaucoup !
 
 ### Lien vers l'enquête : [https://bit.ly/3zrdNqg](https://bit.ly/3zrdNqg)
 

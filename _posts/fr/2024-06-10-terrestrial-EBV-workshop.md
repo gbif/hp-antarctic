@@ -13,27 +13,27 @@ imageLicense: |
 ## Informations sur l'atelier
 
 **Dates** : 18-20 septembre 2024 \
-**Lieu** : Institut de recherche polaire Scott, Cambridge, Royaume-Uni (avec des options de participation en ligne disponibles)
+**Lieu** : Institut de recherche polaire Scott, Cambridge, Royaume-Uni (avec possibilité de participation en ligne)
 
 **Chers collègues,**
 
-Le Portail sur la Biodiversité Antarctique du SCAR, le Groupe d'experts sur l'informatique de la biodiversité antarctique (EGABI) et le Programme de recherche Ant-ICON du SCAR sont heureux d'annoncer un atelier axé sur l'élaboration d'un cadre normalisé pour le calcul des Variables Essentielles de la Biodiversité (VEB) pour les écosystèmes terrestres antarctiques et subantarctiques. Cet atelier se tiendra du 18 (midi) au 20 (midi) septembre 2024, avec des options de participation en personne et en ligne disponibles.
+Le Portail sur la Biodiversité Antarctique du SCAR, le Groupe d'experts sur l'informatique de la biodiversité antarctique (EGABI) et le Programme de recherche Ant-ICON du SCAR sont ravis d'annoncer un atelier axé sur l'élaboration d'un cadre normalisé pour le calcul des Variables Essentielles de la Biodiversité (VEB) pour les écosystèmes terrestres antarctiques et subantarctiques. Cet atelier se tiendra du 18 (midi) au 20 (midi) septembre 2024, avec des options de participation en personne et en ligne disponibles.
 
 ## Objectifs de l'atelier
 
 - Définir un ensemble commun de VEBs pertinentes pour la région, en tenant compte des cadres internationaux existants et des caractéristiques écologiques spécifiques.
-- Développer des protocoles normalisés pour le suivi de ces VEB, garantissant la qualité des données, leur comparabilité et leur durabilité à long terme.
+- Développer des protocoles standardisés pour le suivi de ces VEB, garantissant la qualité des données, leur comparabilité et leur durabilité à long terme.
 - Établir des flux de travail analytiques pour le calcul des VEB, en maintenant la qualité des données, leur comparabilité et leur viabilité à long terme.
 - Identifier les données VEB existantes et explorer les mécanismes de partage et d'intégration des données.
-- Combler les lacunes de connaissances clés grâce à des initiatives de recherche ciblées et de renforcement des capacités.
+- Combler les principales lacunes en matière de connaissances grâce à des initiatives ciblées de recherche et de renforcement des capacités.
 - Créer une feuille de route pour la mise en œuvre d'un programme de surveillance normalisé des VEB.
 - Promouvoir l'utilisation des VEB pour informer les politiques et la prise de décisions en matière de conservation de la biodiversité en Antarctique et en subantarctique.
 
 ## Objectifs de Diversité et d'Inclusion
 
-- **Environnement Accueillant et Inclusif** : Nous favoriserons une atmosphère respectueuse où chacun se sent à l'aise de contribuer des idées. L'atelier respectera un Code de Conduite basé sur les principes de l'initiative rOpenSci (https://ropensci.org/code-of-conduct/) ou un code similaire établi par le SCAR ou l'APECS. Nous encourageons l'utilisation d'un langage inclusif et visons à éviter le jargon ou les termes techniques qui pourraient exclure les participants.
-- **Diversité dans la Participation** : Nous recherchons activement la participation de personnes de divers horizons (sexe, origine ethnique, âge, capacité, stade de carrière). Nous offrirons un soutien aux déplacements pour les participants sélectionnés.
-- **Soutien aux Déplacements** : Un budget limité est disponible pour le soutien aux déplacements. Les personnes qui souhaitent participer en personne mais ont besoin d'un soutien aux déplacements doivent l'indiquer dans le formulaire d'inscription.
+- **Environnement Accueillant et Inclusif** : Nous favoriserons une atmosphère respectueuse où chacun se sentira à l'aise de contribuer. L'atelier respectera un Code de Conduite basé sur les principes de l'initiative rOpenSci (https://ropensci.org/code-of-conduct/) ou un code similaire établi par le SCAR ou l'APECS. Nous encourageons l'utilisation d'un langage inclusif et visons à éviter le jargon ou les termes techniques qui pourraient exclure les participants.
+- **Diversité dans la Participation** : Nous recherchons activement la participation de personnes de divers horizons (sexe, origine ethnique, âge, capacité, stade de carrière). Nous offrirons une aide aux déplacements pour les participants sélectionnés.
+- **Soutien aux Déplacements** : Un budget limité est disponible pour l'aide aux déplacements. Les personnes qui souhaitent participer en personne mais qui ont besoin d'une aide aux déplacements doivent l'indiquer dans le formulaire d'inscription.
 
 ## Inscription
 
@@ -41,4 +41,4 @@ Le Portail sur la Biodiversité Antarctique du SCAR, le Groupe d'experts sur l'i
 
 ## Appel à l'action
 
-Nous encourageons les chercheurs, les décideurs politiques et les parties prenantes intéressés par la conservation de la biodiversité en Antarctique et en subantarctique à participer à cet atelier important. Plus d'informations sur l'atelier, y compris les détails d'inscription et les opportunités de soutien aux déplacements, seront disponibles bientôt.
+Nous encourageons les chercheurs, les décideurs politiques et les parties prenantes intéressés par la conservation de la biodiversité en Antarctique et en subantarctique à participer à cet atelier important. Plus d'informations sur l'atelier, y compris les modalités d'inscription et les possibilités d'aide aux déplacements, seront disponibles bientôt.

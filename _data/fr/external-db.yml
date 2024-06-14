@@ -4,7 +4,7 @@ features:
   - preTitle: Liste des espèces
     title: Le Registre des Espèces Antarctiques (RAS)
     href: https://ras.biodiversity.aq/
-    description: Le Registre des Espèces Antarctiques (RAS) a pour objectif de fournir une liste autoritaire et complète des noms des espèces marines et terrestres de l'Antarctique et de l'océan Austral. Il sert de guide de référence pour les utilisateurs afin d'interpréter la littérature taxonomique, car les noms valides et d'autres noms en usage sont tous deux fournis. RAS est hébergé par [WoRMS](https://www.marinespecies.org/).
+    description: Le Registre des Espèces Antarctiques (RAS) a pour objectif de fournir une liste officielle et complète des noms des espèces marines et terrestres de l'Antarctique et de l'océan Austral. Il sert de guide de référence pour les utilisateurs afin d'interpréter la littérature taxonomique, car les noms valides et d'autres noms en usage sont tous deux fournis. RAS est hébergé par [WoRMS](https://www.marinespecies.org/).
     background: /assets/images/external-db/ras.png
   - preTitle: Base de données
     title: Base de données SCAR sur l'alimentation et la bioénergétique de l'océan Austral
