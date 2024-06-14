@@ -11,9 +11,9 @@ imageLicense: |
 
 Dans le cadre de la [10e Conférence scientifique ouverte du SCAR 2022](https://scar2022.org/) (1-10 août 2022), nous organisons un [événement satellite](https://scar2022.org/satellite-events/) sur **Structurer et gérer les données biologiques**. Cet événement aura lieu **lundi 8 août 2022, de 13h00 à 14h30 UTC**
 
-La région antarctique et subantarctique abrite une biodiversité unique. En raison de l'éloignement et des conditions difficiles, cette biodiversité reste souvent mal décrite malgré des menaces similaires à celles du reste du globe. Ainsi, les données sur la biodiversité collectées dans cette région sont de grande valeur scientifique.
+Les régions antarctique et subantarctique abritent une biodiversité unique. En raison de l'éloignement et des conditions difficiles, cette biodiversité reste souvent mal décrite malgré des menaces similaires à celles du reste du globe. Ainsi, les données sur la biodiversité collectées dans cette région ont une grande valeur scientifique.
 
-Cet atelier vise à former les scientifiques à structurer et à gérer leurs données biologiques plus efficacement et à se conformer aux formats de données sur la biodiversité utilisés internationalement, leur faisant ainsi gagner un temps précieux dans la préparation des données pour l'analyse ou l'archivage en ligne.
+Cet atelier vise à former des scientifiques à structurer et à gérer leurs données biologiques de manière plus efficace et à se conformer aux formats standarts de données sur la biodiversité utilisés au niveau international, leur faisant ainsi gagner un temps précieux dans la préparation des données pour l'analyse ou l'archivage en ligne.
 
 Cet atelier est organisé par le Portail de la biodiversité antarctique du SCAR dans le cadre de la [collection thématique "Biodiversité de l'Antarctique et de l'océan Austral"](https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) du "Biodiversity Data Journal" de Pensoft.
 

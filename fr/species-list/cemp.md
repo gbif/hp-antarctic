@@ -47,14 +47,14 @@ Afin de fournir des informations sur les effets de la pêche sur les espèces d�
 1. détecter et enregistrer les changements significatifs dans les composantes critiques de l'écosystème marin dans la zone de convention, afin de servir de base à la conservation des ressources marines vivantes de l'Antarctique
 2. distinguer entre les changements dus à la pêche des espèces commerciales et les changements dus à la variabilité environnementale, à la fois physique et biologique.
 
-La principale fonction du CEMP est de surveiller les principaux paramètres de l'histoire de vie des espèces dépendantes sélectionnées pour détecter les changements dans 
-l'abondance des espèces récoltées. Les "espèces dépendantes" sont des prédateurs marins pour lesquels les espèces ciblées par les pêcheries commerciales sont une composante majeure de leur alimentation. Dans le cas des "espèces dépendantes du krill" utilisées dans le CEMP, elles comprennent des espèces terrestres telles que les phoques et les pingouins.
+La principale fonction du CEMP est de surveiller les principaux paramètres du cycle de vie des espèces dépendantes sélectionnées afin de détecter les changements dans 
+l'abondance des espèces récoltées. Les "espèces dépendantes" sont des prédateurs marins pour lesquels les espèces ciblées par les pêcheries commerciales sont un élément majeur de leur alimentation. Dans le cas des "espèces dépendantes du krill" utilisées dans le CEMP, elles comprennent des espèces terrestres telles que les phoques et les pingouins.
 
 ## Espèces indicatrices
 
-Les "espèces indicatrices" appropriées devraient montrer des réponses mesurables aux changements dans la disponibilité des espèces récoltées, 
+Les "espèces indicatrices" appropriées devraient montrer des réactions mesurables aux changements dans la disponibilité des espèces récoltées, 
 par exemple dans les changements de taille de population, de succès de reproduction, de masse corporelle et de comportement de recherche de nourriture. 
-Les échelles spatiales et temporelles sur lesquelles différents paramètres du CEMP reflètent les changements dans l'état de l'écosystème 
-peuvent être de quelques jours dans une distance relativement petite du site de reproduction (par exemple la durée du voyage de recherche de nourriture et les taux de croissance des descendants) 
-à des mois (par exemple le succès de reproduction), tandis que les indices de taille de population reflètent une combinaison de facteurs pluriannuels, y compris 
-la survie/l'état des adultes et le recrutement des juvéniles.
+Les échelles spatiales et temporelles sur lesquelles les différents paramètres du CEMP reflètent les changements de l'état de l'écosystème 
+peuvent être de quelques jours à une distance relativement petite du site de reproduction (par exemple la durée du voyage de recherche de nourriture et les taux de croissance de la progéniture) 
+à des mois (par exemple le succès de reproduction), tandis que les indices de taille de la population reflètent une combinaison de facteurs pluriannuels, y compris 
+la survie/la condition des adultes et le recrutement des juvéniles.

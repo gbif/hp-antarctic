@@ -11,11 +11,11 @@ imageLicense: |
 ### Quelles données peuvent être partagées via le Portail de la biodiversité en Antarctique de SCAR ?
 
 > Nous pouvons aider et soutenir la publication de la biodiversité de l'Antarctique, des îles subantarctiques et de l'océan Austral sur [GBIF](https://www.gbif.org/) et [OBIS](https://www/obis.org/). Cela inclut les descriptions de jeux de données, les occurrences d'organismes, les listes de contrôle des espèces, les occurrences dérivées de l'ADN et les événements d'échantillonnage. Veuillez consulter ce [post de blog](https://data-blog.gbif.org/post/data-shareability/) pour plus de détails.
-> Si vous avez d'autres types de données, mais que vous ne savez pas où et comment les rendre disponibles, veuillez [nous envoyer un courriel](mailto:data-biodiversity-aq@naturalsciences.be) afin que nous puissions vous diriger vers des personnes susceptibles de pouvoir vous aider.
+> Si vous disposez d'autres types de données, mais que vous ne savez pas où et comment les mettre à disposition, veuillez [nous envoyer un courriel](mailto:data-biodiversity-aq@naturalsciences.be) afin que nous puissions vous diriger vers des personnes susceptibles de pouvoir vous aider.
 
 ### Quelle norme de données est utilisée pour partager les données sur la biodiversité ?
 
-> Nous utilisons la norme [Darwin Core (DwC)](https://dwc.tdwg.org/) et les extensions associées pour publier les données sur la biodiversité et les données associées (par exemple, les liens vers les médias, les séquences). Si vous souhaitez publier vos données sur la biodiversité avec nous, mais que vous ne savez pas comment mapper vos données sur Darwin Core et ses extensions, veuillez contacter notre [service d'assistance](mailto:data-biodiversity-aq@naturalsciences.be).
+> Nous utilisons la norme [Darwin Core (DwC)](https://dwc.tdwg.org/) et les extensions associées pour publier des données sur la biodiversité et les données associées (par exemple, les liens vers les médias, les séquences). Si vous souhaitez publier vos données sur la biodiversité avec nous, mais que vous ne savez pas comment mapper vos données sur Darwin Core et ses extensions, veuillez contacter notre [service d'assistance](mailto:data-biodiversity-aq@naturalsciences.be).
 
 ### Quelle est la portée de ce portail ?
 
@@ -35,8 +35,8 @@ imageLicense: |
 
 ### Puis-je accéder aux données de ce portail par programme ?
 
-> Oui ! Tous les enregistrements d'occurrence d'espèces dans ce portail proviennent de GBIF. Vous pouvez accéder aux données par programme en utilisant son API documentée [ici](https://www.gbif.org/developer/summary). Un guide pour débutants est disponible sur le [blog de données de GBIF](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
+> Oui ! Toutes les occurrences d'espèces répertoriées sur ce protail proviennent de GBIF. Vous pouvez accéder aux données par programme en utilisant son API documentée [ici](https://www.gbif.org/developer/summary). Un guide pour débutants est disponible sur le [blog de données de GBIF](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
 
 ### Le Portail de la biodiversité en Antarctique de SCAR (biodiversity.aq) est-il le même que SCAR MarBIN ?
 
->Avant biodiversity.aq, il y avait SCAR-MarBIN. SCAR-MarBIN avait un site web et une base de données, mais ils ne sont plus mis à jour. Lorsque SCAR-MarBIN a été créé, le portail GBIF n'avait pas autant d'options qu'il n'en a maintenant. À cette époque, SCAR-MarBIN pouvait répondre aux besoins de ses utilisateurs. Il n'est plus nécessaire depuis que GBIF a grandi et ajouté plus de fonctionnalités.
+>Avant biodiversity.aq, il y avait SCAR-MarBIN. SCAR-MarBIN avait un site web et une base de données, mais ils ne sont plus mis à jour. Lorsque SCAR-MarBIN a été créé, le portail GBIF n'avait pas autant d'options qu'il n'en a maintenant. À cette époque, SCAR-MarBIN pouvait répondre aux besoins de ses utilisateurs. Il n'est plus nécessaire depuis que GBIF s'est développé et a ajouté plus de fonctionnalités.

@@ -17,11 +17,11 @@ L'Institut Royal des Sciences Naturelles de Belgique recrute un collaborateur sc
 
 ## Contexte
 
-Nous recherchons actuellement un Analyste de Données sur la Biodiversité compétent et motivé, avec une expertise dans les langages de programmation tels que R et Python. En tant que membre de notre équipe, vous jouerez un rôle clé dans le développement de flux de travail analytiques pour la recherche sur la biodiversité en utilisant des référentiels de données publics comme OBIS (Ocean Biodiversity Information System) et GBIF (Global Biodiversity Information Facility).
-Cette fonction fait partie du Projet ADVANCE financé par BELSPO. ADVANCE travaillera à une coordination et une interopérabilité améliorées des outils et installations divers qui opèrent dans le monde entier et convertiront les données sur la biodiversité de l'océan Austral et de l'Antarctique en produits de données de recherche et de politique pertinents.
-ADVANCE est une collaboration entre SOOS, la Division Antarctique Australienne, EMODnet, WoRMS, ainsi que GBIF et OBIS pour créer une Infrastructure de Recherche Virtuelle (IRV) pour la région de l'Antarctique et de l'océan Austral, qui convertira les données sur la biodiversité en produits de données de recherche et de politique pertinents.
+Nous recherchons actuellement un Analyste de Données sur la Biodiversité compétent et motivé, ayant une expertise dans les langages de programmation tels que R et Python. En tant que membre de notre équipe, vous jouerez un rôle clé dans le développement de flux de travail analytiques pour la recherche sur la biodiversité en utilisant des référentiels de données publics comme OBIS (Ocean Biodiversity Information System) et GBIF (Global Biodiversity Information Facility).
+Cette fonction fait partie du Projet ADVANCE financé par BELSPO. ADVANCE vise à améliorer la coordination et l'interopérabilité des divers outils et installations qui opèrent dans le monde entier et qui convertissent les données sur la biodiversité de l'océan Austral et de l'Antarctique en produits de données utiles à la recherche et à la politique.
+ADVANCE est une collaboration entre SOOS, la Division Antarctique Australienne, EMODnet, WoRMS, ainsi que GBIF et OBIS pour créer une Infrastructure de Recherche Virtuelle (IRV) pour la région de l'Antarctique et de l'océan Austral, qui convertira les données sur la biodiversité en produits de données utiles à la recherche et à la politique.
 ADVANCE soutient la publication de tous les éléments du cycle de recherche conformément aux principes de la science ouverte tels que FAIR, TRUST et CARE : Findable, Accessible, Interoperable, and Reusable (FAIR), Transparency, Responsibility, User focus, Sustainability and Technology (TRUST), and Collective Benefit, Authority to Control, Responsibility, and Ethics (CARE).
-Il étendra une plate-forme de données en ligne bien établie (le Portail de Biodiversité Antarctique du SCAR, www.biodiversity.aq) pour répondre aux besoins croissants de la communauté de recherche sur la biodiversité de l'Antarctique et de l'océan Austral en matière d'accès à des données, services, protocoles, normes, flux de travail et logiciels/applications de haute qualité qui intègrent des données sur la biodiversité avec des données environnementales provenant de sources diverses et créer des produits de recherche et de politique pertinents.
+Il développera une plate-forme de données en ligne bien établie (le Portail de Biodiversité Antarctique du SCAR, www.biodiversity.aq) pour répondre aux besoins croissants de la communauté de recherche sur la biodiversité de l'Antarctique et de l'océan Austral en matière d'accès à des données, services, protocoles, normes, flux de travail et logiciels/applications de haute qualité qui intègrent des données sur la biodiversité avec des données environnementales provenant de sources diverses et créer des résultats pertinents pour la recherche et les politiques.
 Un élément clé sera le développement d'applications permettant la création de produits de données à partir de Variables Essentielles de la Biodiversité (VEB), de Variables Essentielles de l'Océan (VEO), de Variables Essentielles du Climat (VEC) et de Variables Essentielles de l'Océan des Écosystèmes (VEOE). Ceux-ci seront intégrés dans diverses plates-formes internationales, y compris SOOS et SOOSmap.
 
 ## Tâches
@@ -40,11 +40,11 @@ Master ou doctorat dans un domaine pertinent (par exemple, informatique, bioinfo
 ## Compétences Techniques
 
 * Maîtrise des langages de programmation tels que R et Python, et expérience dans le développement de flux de travail d'analyse de données.
-* Compréhension approfondie des concepts de biodiversité, des structures de données et des méthodes d'analyse écologique des données.
+* Compréhension approfondie des concepts de biodiversité, des structures de données et des méthodes d'analyse des données écologiques.
 
 ## Atouts
 
-* Connaissance des référentiels de biodiversité publics comme OBIS et GBIF, et expérience de travail avec leurs données.
+* Connaissance des référentiels publics de biodiversité  comme OBIS et GBIF, et expérience de travail avec leurs données.
 * Familiarité avec le développement de logiciels utilisant le contrôle de version et les plates-formes collaboratives telles que GitHub.
 * Connaissance des techniques de nettoyage et de manipulation de données, d'analyse statistique et de visualisation de données.
 * Excellentes compétences en résolution de problèmes et en analyse, avec la capacité de travailler de manière indépendante et en équipe.

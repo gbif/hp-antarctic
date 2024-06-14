@@ -13,6 +13,6 @@ imageLicense: |
 
 # Bulletin SCAR - Enquête sur les besoins généraux de la communauté de l'Antarctique / de l'océan Austral
 
-En recueillant vos commentaires via cette enquête, nous visons à obtenir des informations sur les types de produits de données les plus critiques pour votre travail. Vos contributions aideront à orienter le développement de ressources et d'infrastructures adaptées à la communauté ASO, améliorant ainsi l'accessibilité, la pertinence et l'efficacité des initiatives liées aux données dans cette région unique et importante.
+En recueillant vos commentaires via cette enquête, nous souhaitons obtenir des informations sur les types de produits de données les plus critiques pour votre travail. Vos contributions aideront à orienter le développement de ressources et d'infrastructures adaptées à la communauté ASO, améliorant ainsi l'accessibilité, la pertinence et l'efficacité des initiatives liées aux données dans cette région unique et importante.
 
 Veuillez partager vos informations avec nous [ici](https://forms.gle/XTZwFr1CWqEW5mKH7) !
