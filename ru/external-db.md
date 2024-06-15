@@ -4,7 +4,7 @@ lang: ru
 title: Внешние базы данных
 layout: compose
 klass: compositionBlocks
-description: Базы данных внешних ресурсов, относящихся к биоразнообразию Антарктиды и Южного океана.
+description: Базы данных внешних ресурсов, относящихся к биоразнообразию Антарктики и Южного океана.
 composition:
 - type: media
   data: ru.external-db
