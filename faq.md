@@ -10,8 +10,8 @@ imageLicense: |
 
 ### Which data can be shared through SCAR Antarctic Biodiversity Portal?
 
-> We can assist and support publication of biodiversity from Antarctica, sub Antarctic island(s) and in the Southern Ocean to [GBIF](https://www.gbif.org/) and [OBIS](https://www/obis.org/). This includes dataset descriptions, organism occurrences, species checklists, DNA-derived occurrences and sampling events in Please have a
-> look at this [blog post](https://data-blog.gbif.org/post/data-shareability/) for more details.
+> We can assist and support publication of biodiversity from Antarctica, sub Antarctic island(s) and in the Southern Ocean to [GBIF](https://www.gbif.org/) and [OBIS](https://www/obis.org/). This includes dataset descriptions, organism occurrences, species checklists, DNA-derived occurrences and sampling events. 
+> Please have a look at this [blog post](https://data-blog.gbif.org/post/data-shareability/) for more details.
 > If you have other data types, but you are not sure where and how to make it available,
 > please [email us](mailto:data-biodiversity-aq@naturalsciences.be) so that we can direct you to people who may be able to
 > help you.
@@ -55,6 +55,6 @@ imageLicense: |
 
 ### Is the SCAR Antarctic biodiversity Portal (biodiversity.aq) the same as SCAR MarBIN?
 
->Before biodiversity.aq, there was SCAR-MarBIN. SCAR-MarBIN had a website and a database, but they are no longer being updated. When SCAR-MarBIN was made, the GBIF portal didn't have as many options as it does now. During that time, SCAR-MarBIN was able to meet the wants of its users. It is no longer needed since GBIF has grown and added more features.
+>Before biodiversity.aq, there was SCAR-MarBIN. SCAR-MarBIN had a website and a database, but they are no longer being updated. When SCAR-MarBIN was made, the GBIF portal didn't have as many options as it does now. During that time, SCAR-MarBIN was able to meet the needs of its users. It is no longer needed since GBIF has grown and added more features.
 
 
