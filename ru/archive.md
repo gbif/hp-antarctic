@@ -1,8 +1,8 @@
 ---
 lang-ref: archive
 layout: archive
-title: Новости
-description: Новости и события
+title: News
+description: News and events
 permalink: /ru/news/
 published: true
 ---
