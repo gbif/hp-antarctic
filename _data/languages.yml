@@ -5,3 +5,11 @@ fr:
   label: Français
   languageCode: fr
   archive_permalink: /fr/news/
+es:
+  label: español
+  languageCode: es
+  archive_permalink: /es/news/
+ru:
+  label: русский язык
+  languageCode: ru
+  archive_permalink: /ru/news/
