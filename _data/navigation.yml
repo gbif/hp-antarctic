@@ -34,6 +34,12 @@
     href: https://www.gbif.org/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
+- text: About
+  menu:
+  - text: About us
+    href: /about
+  - text: Acknowledgement
+    href: /acknowledgement
 # - text: More
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo

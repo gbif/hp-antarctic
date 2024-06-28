@@ -34,3 +34,10 @@
     href: https://www.gbif.org/fr/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
+- text: À propos
+  menu:
+  - text: Qui sommes-nous
+    href: /about
+  - text: Remerciements
+    href: /acknowledgement
+
