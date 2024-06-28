@@ -3,7 +3,6 @@ lang-ref: about
 lang: fr
 title: Le portail SCAR sur la biodiversité en Antarctique
 description: Le portail SCAR sur la biodiversité de l'Antarctique est financé dans le cadre du projet ADVANCE.
-permalink: /about
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
