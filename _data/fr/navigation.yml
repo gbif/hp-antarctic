@@ -37,7 +37,7 @@
 - text: À propos
   menu:
   - text: Qui sommes-nous
-    href: /about
+    href: /fr/about
   - text: Remerciements
-    href: /acknowledgement
+    href: /fr/acknowledgement
 
