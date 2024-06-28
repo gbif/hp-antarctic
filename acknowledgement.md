@@ -3,7 +3,6 @@ lang-ref: acknowledgement
 lang: en
 title: Acknowledgement
 description: Acknowledging the invaluable support and contributions from our partners, collaborators, volunteers and funders.
-permalink: /acknowledgement
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
