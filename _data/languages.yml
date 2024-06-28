@@ -6,10 +6,10 @@ fr:
   languageCode: fr
   archive_permalink: /fr/news/
 es:
-  label: español
+  label: Español
   languageCode: es
   archive_permalink: /es/news/
 ru:
-  label: русский язык
+  label: Русский
   languageCode: ru
   archive_permalink: /ru/news/
