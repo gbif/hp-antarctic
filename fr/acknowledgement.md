@@ -3,7 +3,6 @@ lang-ref: acknowledgement
 lang: fr
 title: Remerciements
 description: Reconnaissance du soutien inestimable et des contributions de nos partenaires, collaborateurs, bénévoles et financeurs.
-permalink: /acknowledgement
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
   Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -28,6 +27,6 @@ Nous apprécions profondément le travail inestimable de nos traducteurs qui ont
 
 ### Liste des Traducteurs
 
-- **[Jehane Marchand-Boucheron](https://orcid.org/0009-0004-3688-874X)** : Français
+- **[Jehane Marchand--Boucheron](https://orcid.org/0009-0004-3688-874X)** : Français
 - **[Charlie Plasman](https://orcid.org/0009-0007-7519-7417)** : Français
 - **[Yi-Ming Gan](https://orcid.org/0000-0001-7087-2646)** : Français
