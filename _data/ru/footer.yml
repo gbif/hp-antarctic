@@ -26,7 +26,7 @@ columns:
   - name: Code
     description: Этот проект имеет открытый исходный код и доступен на [GitHub](https://github.com/gbif/hp-antarctic). Вы можете создать тикет на GitHub для сообщений об ошибках и предложений по улучшению.
     
-  - name: О портале
+  - name: О Портале
     links:
       - text: Контакт
         href: /ru/contact
