@@ -6,7 +6,7 @@ adelie-penguin:
   description: Пингвин Адели - один из самых распространенных видов пингвинов на побережье Антарктиды и, вероятно, наиболее изученный вид. Эти птицы являются постоянными обитателями паковых льдов, окружающих Антарктиду. Они размножаются с конца октября по начало марта в колониях, расположенных на свободных ото льда прибрежных территориях. В это время они чередуют кормовые походы в море с выходом на сушу для инкубации яиц и выкармливания птенцов. После размножения и линьки они зимуют в паковых льдах. Предоставлено [EG-BAMM, Anne-Mathilde Thierry](https://scar.org/science/eg-bamm/home/)
   background: /assets/images/cemp/adelie-penguin.jpg
   imageLicense: |
-   *Pygoscelis adeliae* - Time to take a leap of faith by Anne-Mathilde Thierry с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+   *Pygoscelis adeliae* - Time to take a leap of faith Анны-Матильды Тьерри с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Просмотр записей
       href: /ru/occurrence/search?taxonKey=2481663
@@ -15,10 +15,10 @@ adelie-penguin:
 chinstrap-penguin:
   reverse: true
   title: Антарктический пингвин (Pygoscelis antarcticus)
-  description: First described by Johan Reinhold Forster (1781), chinstrap penguins are an ice-intolerant species. They are one of the most easily recognisable penguin species, named for a distinctive, thin band of black feathers that runs across their chin, appearing as a chinstrap connecting black feathers across the crown of their skull and back against an otherwise white body. The penguin phylogenetic tree finds pygoscelid (“brush-tailed”) species branching off from a common ancestor of extant penguins anywhere between 20 and 38 million years ago, with chinstrap penguins diversifying from Adélies several million years later. [Provided by EG-BAMM, Alexander E. Thornton & Andres Barbosa](https://scar.org/science/eg-bamm/)
+  description: Впервые описанные Йоханом Рейнхольдом Форстером (1781 г.), антарктические пингвины относятся к ледостойким видам. Это один из самых легко узнаваемых видов пингвинов из-за характерной тонкой полосы черных перьев, проходящей через подбородок, которая выглядит как ремешок, соединяющий черные перья через макушку черепа и спину на фоне белого тела. Филогенетическое древо пингвинов показывает, что пигоскелиды ("кистехвостые") ответвились от общего предка пингвинов где-то между 20 и 38 миллионами лет назад, а антарктические пингвины диверсифицировались от пингвинов Адели на несколько миллионов лет позже. [Предоставлено EG-BAMM, Александром Е. Тортоном & Андресом Барбосой](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/chinstrap-penguin.jpg
   imageLicense: |
-    *Pygoscelis antarcticus* licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    *Pygoscelis antarcticus* с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Просмотр записей
       href: /ru/occurrence/search?taxonKey=2481664
@@ -27,10 +27,10 @@ chinstrap-penguin:
 gentoo-penguin:
   reverse: false
   title: Субантарктический пингвин (Pygoscelis papua)
-  description: Gentoo penguins belong to the pygoscelid or brush tail penguins that also include Chinstrap and Adélie penguins. Males and females look very much alike but females tend to be slightly smaller, particularly with regard to the beak depth and length. Gentoo penguins stand about 60 cm tall with both feet on the ground and their heads pulled in. The colouration of the sexes is identical; head, throat, back and flippers are dark bluish-black while the chest, belly and underside of the flippers are white. The black and white body parts are clearly separated. Above the eyes are two white patches that often join across the crown. A dusting of white feathers is sprinkled around their head, nape and upper back. The top of the beaks and their tips are black but the sides are orange to red. The feet are pinkish-orange to red and the irises are brown. Provided by [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)
+  description: Субантарктические, или папуанские, пингвины относятся к пигоскелидам, или кистехвостым пингвинам, к которым также относятся антарктические пингвины и пингвины Адели. Самцы и самки внешне очень похожи, но самки, как правило, чуть меньше, особенно в отношении глубины и длины клюва. Рост субантарктических пингвинов составляет около 60 см, если обе ноги стоят на земле, а голова втянута. Окраска полов одинакова: голова, шея, спина и ласты темного синевато-черного цвета, а грудь, живот и нижняя сторона ласт - белые. Черные и белые части тела четко разделены. Над глазами расположены два белых пятна, которые часто соединяются через макушку. На голове, затылке и в верхней части спины попадаются белые перья. Верхняя часть клюва и его края черные, а бока – оранжево-красные. Ноги от розовато-оранжевых до красных, а радужная оболочка глаз коричневая. Provided by [EG-BAMM, Б. Винеке](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/gentoo-penguin.jpg
   imageLicense: |
-    [*Pygoscelis papua* (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    [*Pygoscelis papua* (J.R.Forster, 1781)](/occurrence/search?entity=4029090741), снятый в Антарктиде msr (с лицензией http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Просмотр записей
       href: /ru/occurrence/search?taxonKey=2481666
