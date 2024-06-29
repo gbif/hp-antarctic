@@ -1,0 +1,48 @@
+title: Инструменты
+description: Инструменты для управления данными о биоразнообразии. Пожалуйста, не забывайте правильно ссылаться на инструмент(ы), который(-ые) вы используете в своей работе.
+features:
+  - preTitle: Онлайн-инструменты
+    title: Генератор шаблонов Darwin Core для Excel
+    href: https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core
+    description: Генератор шаблонов Darwin Core для Excel, разработанный проектом Nansen Legacy.
+    background: /assets/images/tools/dwc-excel-template-generator.png
+  - preTitle: Макрос в Excel
+    title: Конвертер из Excel в стандарт Darwin Core
+    href: https://doi.org/10.5281/zenodo.6453921
+    description: Макрос программы Excel для настройки, ввода данных, их проверки и экспорта в файлы DwC (Darwin Core Standard), отформатированные для GBIF [Integrated Publishing Toolkit](https://www.gbif.org/ipt). Разработано [Видаром Баккеном](https://orcid.org/0000-0002-4792-2059) из [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/excel-to-dwc-macro.png
+  - preTitle: Онлайн-инструмент
+    title: Конвертер перекрестных таблиц в списки
+    href: https://gbif-norway.github.io/crosstab2list/
+    description: Часто в полевых условиях данные о биоразнообразии вводятся в формате перекрестных таблиц. Чтобы опубликовать эти данные, необходимо преобразовать их в плоский список. Этот онлайн-конвертер поможет вам в этом. Разработан [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/crosstab2list.png
+  - preTitle: Онлайн-инструмент
+    title: Генератор UUID
+    href: https://www.uuidgenerator.net/version4
+    description: Онлайн-генератор случайных универсальных уникальных идентификаторов (UUID версии 4). Пригодится для создания таких идентификаторов, как eventID, occurrenceID и т. д.
+    background: /assets/images/tools/uuid.png
+  - preTitle: Онлайн-инструмент
+    title: MyGeodata Cloud coordinate conversion tool
+    href: https://mygeodata.cloud/cs2cs/
+    description: An online coordinate conversion tool.
+    background: /assets/images/tools/cs2cs.png
+  - preTitle: Онлайн-инструмент
+    title: GBIF data validator
+    href: https://www.gbif.org/tools/data-validator
+    description: The GBIF data validator is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset. By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it.
+    background: /assets/images/tools/gbif-data-validator.png
+  - preTitle: Онлайн-инструмент
+    title: World Register of Marine Species (WoRMS) Taxon match
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: You can use the WoRMS Taxon Match Tool to automatically match your species list or taxon list with WoRMS. After matching, the tool will return your file with the AphiaID's, valid names, authorities, WoRMS classification and/or any other output you selected.
+    background: /assets/images/tools/worms-taxon-match.png
+  - preTitle: Downloadable GIS layers
+    title: Quantarctica
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Quantarctica is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica, and let you explore, import, visualize, and share Antarctic data. It includes community-contributed, peer-reviewed data from ten different scientific themes and a professionally-designed basemap.
+    background: /assets/images/tools/quantarctica.png
+  - preTitle: Онлайн-инструмент
+    title: Coordinate converter
+    href: https://obis.shinyapps.io/coordinates/
+    description: Coordinate converter by OBIS
+    background: /assets/images/tools/obis-coordinate-converter.png
