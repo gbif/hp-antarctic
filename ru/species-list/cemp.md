@@ -7,7 +7,7 @@ title: Индикаторные виды Программы АНТКОМ по м
 description: Программа АНТКОМ по мониторингу экосистемы (CEMP) и индикаторные виды CEMP
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
-  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/ru/occurrence/search?entity=3994320758) в Антарктиде. Фото timhoffm (с лицензией http://creativecommons.org/licenses/by-nc/4.0/)  
+  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/ru/occurrence/search?entity=3994320758), снятый в Антарктиде. Фото timhoffm (с лицензией http://creativecommons.org/licenses/by-nc/4.0/)  
 hasTextShadow: true
 height: 85vh
 parallax: true
