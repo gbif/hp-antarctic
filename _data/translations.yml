@@ -1,32 +1,42 @@
 relatedPosts:
   en: "Related Posts"
   fr: "Articles connexes"
+  ru: "Другие статьи по теме"
 differentLanguage:
   en: "This page is available in the following languages"
   fr: "Cette page est disponible dans les langues suivantes"
+  ru: "Данная страница доступна на следующих языках"
 searchOccurrences:
   en: Search occurrences
   fr: Recherche d'occurrences
+  ru: Поиск находок
 tocTitle:
   en: "On this page"
   fr: "Sur cette page"
+  ru: "На данной странице"
 terms:
   en: |
     We use cookies on our website. Some are technically necessary, while others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
   fr: |
     Nous utilisons des cookies sur notre site Web. Certains sont techniquement nécessaires, tandis que d'autres nous aident à améliorer votre expérience utilisateur. Vous pouvez refuser les cookies non essentiels en sélectionnant « Rejeter ». Veuillez consulter notre [Politique de confidentialité](/privacy) pour plus d'informations sur nos pratiques de confidentialité et l'utilisation des cookies.
+    ru: |
+    Мы используем cookie-файлы. Какие-то из них необходимы технически, другие помогают нам подстроиться под ваши предпочтения. Вы можете отказаться от использования необязательных cookie-файлов, выбрав опцию "Отклонить". Пожалуйста, ознакомьтесь с нашей [Политикой конфиденциальности](/privacy) для получения дополнительной информации о нашей практике конфиденциальности и использовании cookie-файлов.
 acceptTerms:
   en: 'Accept'
   fr: 'J''accepte'
+  ru: 'Принять'
 rejectTerms:
   en: 'Reject'
   fr: 'Refuser'
+  ru: 'Отклонить'
 
 # Used by the stories block type
 contentTypes:
   DataUse:
     en: 'Data use'
     fr: 'Utilisation des données'
+    ru: 'Применение данных'
   Event:
     en: 'Event'
     fr: 'Événement'
+    ru: 'Мероприятие'
