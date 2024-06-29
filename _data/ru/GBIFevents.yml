@@ -1,5 +1,5 @@
 title: События GBIF.org
-description: Здесь освещены три самые недавние события из базы данных GBIF.org. Для просмотра более ранних событий, см. [gbif.org](https://www.gbif.org/resource/search?contentType=event)
+description: Обзор трех самых недавних событий из базы данных GBIF.org. Для просмотра более ранних событий, см. [gbif.org](https://www.gbif.org/resource/search?contentType=event)
 filters:
   contentType:
     - EVENT
