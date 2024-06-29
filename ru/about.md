@@ -5,7 +5,7 @@ title: Портал биоразнообразия Антарктики СКАР
 description: Портал биоразнообразия Антарктики СКАР финансирован в рамках проекта ADVANCE.
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
-  Фото Антона ан де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 height: 70vh
 ---
 
