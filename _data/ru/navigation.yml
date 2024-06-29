@@ -1,0 +1,42 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Новости
+  href: /ru/news/?category=news
+- text: Поиск данных
+  menu: # Dropdown menu (one level deep only)
+  - text: Находки
+    href: /ru/occurrence/search
+  - text: Литература
+    href: /ru/literature/search
+  - text: Внешние базы данных
+    href: /ru/external-db
+- text: Ресурсы
+  menu:
+  - text: Идентификационные ключи
+    href: /ru/identification-key
+  - text: Индикаторные виды Программы АНТКОМ по мониторингу экосистемы (CEMP)
+    href: /ru/species-list/cemp
+  - text: Биогеографический атлас Южного океана
+    href: https://github.com/biodiversity-aq/BASO/
+- text: Инструменты
+  menu: # Dropdown menu (one level deep only)
+  - text: Онлайн инструменты
+    href: /ru/tools
+  - text: rOpenSci
+    href: https://scar.github.io/ropensci/task_view/
+- text: Помощь
+  menu: # Dropdown menu (one level deep only)
+  - text: FAQ
+    href: /ru/faq
+  - text: Helpdesk
+    href: mailto:data-biodiversity-aq@naturalsciences.be
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+- text: About
+  menu:
+  - text: О нас
+    href: /ru/about
+  - text: Благодарности
+    href: /ru/acknowledgement
