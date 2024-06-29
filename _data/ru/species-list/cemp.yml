@@ -9,89 +9,89 @@ adelie-penguin:
    *Pygoscelis adeliae* - Time to take a leap of faith by Anne-Mathilde Thierry с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Просмотр записей
-      href: /occurrence/search?taxonKey=2481663
+      href: /ru/occurrence/search?taxonKey=2481663
       isPrimary: true
 
 chinstrap-penguin:
   reverse: true
-  title: Chinstrap penguin (Pygoscelis antarcticus)
+  title: Антарктический пингвин (Pygoscelis antarcticus)
   description: First described by Johan Reinhold Forster (1781), chinstrap penguins are an ice-intolerant species. They are one of the most easily recognisable penguin species, named for a distinctive, thin band of black feathers that runs across their chin, appearing as a chinstrap connecting black feathers across the crown of their skull and back against an otherwise white body. The penguin phylogenetic tree finds pygoscelid (“brush-tailed”) species branching off from a common ancestor of extant penguins anywhere between 20 and 38 million years ago, with chinstrap penguins diversifying from Adélies several million years later. [Provided by EG-BAMM, Alexander E. Thornton & Andres Barbosa](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/chinstrap-penguin.jpg
   imageLicense: |
     *Pygoscelis antarcticus* licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481664
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2481664
       isPrimary: true
 
 gentoo-penguin:
   reverse: false
-  title: Gentoo penguin (Pygoscelis papua)
+  title: Субантарктический пингвин (Pygoscelis papua)
   description: Gentoo penguins belong to the pygoscelid or brush tail penguins that also include Chinstrap and Adélie penguins. Males and females look very much alike but females tend to be slightly smaller, particularly with regard to the beak depth and length. Gentoo penguins stand about 60 cm tall with both feet on the ground and their heads pulled in. The colouration of the sexes is identical; head, throat, back and flippers are dark bluish-black while the chest, belly and underside of the flippers are white. The black and white body parts are clearly separated. Above the eyes are two white patches that often join across the crown. A dusting of white feathers is sprinkled around their head, nape and upper back. The top of the beaks and their tips are black but the sides are orange to red. The feet are pinkish-orange to red and the irises are brown. Provided by [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/gentoo-penguin.jpg
   imageLicense: |
     [*Pygoscelis papua* (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481666
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2481666
       isPrimary: true
 
 macaroni-penguin:
   reverse: true
-  title: Macaroni penguin (Eudyptes chrysolophus)
+  title: Золотоволосый пингвин (Eudyptes chrysolophus)
   description: Southern rockhopper penguins belong to the crested penguins, the largest genus of the Spheniciforms including seven other species of Eudyptes - eastern rockhopper penguin Eudyptes filholi, northern rockhopper penguin Eudyptes moseleyi, macaroni penguin Eudyptes chrysolophus, royal penguin Eudyptes schlegeli, Fiordland penguin Eudyptes pachyrhynchus, Snares penguin Eudyptes robustus and erect-crested penguin Eudyptes sclateri. Pprovided by [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/macaroni-penguin.jpg
   imageLicense: |
     *Eudyptes chrysolophus* - Southern rockhopper penguins in group by Laurent Demongin licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481643
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2481643
       isPrimary: true
 
 black-browed-albatross:
   reverse: false
-  title: Black-browed albatross (Thalassarche melanophris)
+  title: Чернобровый альбатрос (Thalassarche melanophris)
   description: Thalassarche melanophris (first named Diomedea melanophris by Coenraad Jacob Temminck), is a large seabird of the albatross family, Diomedeidae; it is the most numerous, widespread and common member of its family around the Southern Ocean (particularly in the Atlantic sector). [Provided by EG-BAMM, Richard Phillips & Jose Xavier](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/black-browed-albatross.jpg
   imageLicense: |
     *Thalassarche melanophris* - Black-browed albatross in flight by Jose Xavier licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481410
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2481410
       isPrimary: true
 
 antarctic-petrel:
   reverse: true
-  title: Antarctic petrel (Thalassoica antarctica)
+  title: Антарктический буревестник (Thalassoica antarctica)
   description: The Antarctic petrel is a medium-sized petrel with a dark brown and white plumage. The dark brown parts may fade during the breeding season to pale brown. Head, neck and back are chocolate brown. Bill is very dark to black. The upperwing is dark brown with a large white bar over the secondary and first primary feathers, which is visible in flight. The underwing and belly are largely white. The sexes are alike, although males are slightly larger. The weight of adult birds fluctuates throughout the year between 550-800g, with peak weight around egg laying. [Provided by EG-BAMM, Jeroen CS Creuwels & Øystein Varpe](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/antarctic-petrel.jpg
   imageLicense: |
     *Thalassoica antarctica* in flight by Sebastien Descamps licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481513
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2481513
       isPrimary: true
 
 cape-petrel:
   reverse: false
-  title: Cape petrel (Daption capense)
+  title: Капский голубок (Daption capense)
   description: During breeding season, Cape petrels feed around Antarctica's shelf and during the winter they range further north, as far as Angola and the Galapagos Islands. They breed on many islands of Antarctica and the subantarctic islands, some going as far as the Auckland Islands, the Chatham Islands, Campbell Island. Their main breeding grounds are on the Antarctic Peninsula, South Georgia, the Balleny Islands, the Kerguelen Islands, as well as islands in the Scotia Sea - [ZipCode Zoo (3 July 2009)](https://web.archive.org/web/20120609213137/http://zipcodezoo.com/Animals/D/Daption_capense_australe/)
   background: /assets/images/cemp/cape-petrel.png
   imageLicense: |
      [*Daption capense* subsp. *australe* Mathews, 1913](/occurrence/search?entity=4133913569) observed in Australia by Ian Melbourne (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=6178257
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=6178257
       isPrimary: true
 
 antarctic-fur-seal:
   reverse: true
-  title: Antarctic fur seal (Arctocephalus gazella)
+  title: Кергеленский морской котик (Arctocephalus gazella)
   description: Antarctic fur seals are one of the most numerous mammalian predators in the Antarctic. The population was hunted to near extinction at the start of the 20th Century for its pelt. It has subsequently recovered with the current population estimated to be in the region of 3-4 million. Around breeding beaches small groups or individuals can often be seen porpoising through the water and will often stop to investigate ships or small boats. On land they are often aggressive and, during the breeding season, large aggregations can make access to beaches difficult. [Provided by EG-BAMM, Ian Staniland](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/antarctic-fur-seal.png
   imageLicense: |
     [*Arctocephalus gazella* (Peters, 1875)](/occurrence/search?entity=4062893786) observed in Antarctica by Sebastián Lescano (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2433472
+    - text: Просмотр записей
+      href: /ru/occurrence/search?taxonKey=2433472
       isPrimary: true
