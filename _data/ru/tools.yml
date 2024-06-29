@@ -22,27 +22,27 @@ features:
     description: Онлайн-генератор случайных универсальных уникальных идентификаторов (UUID версии 4). Пригодится для создания таких идентификаторов, как eventID, occurrenceID и т. д.
     background: /assets/images/tools/uuid.png
   - preTitle: Онлайн-инструмент
-    title: MyGeodata Cloud coordinate conversion tool
+    title: Конвертор координат MyGeodata Cloud
     href: https://mygeodata.cloud/cs2cs/
-    description: An online coordinate conversion tool.
+    description: Онлайн-инструмент для преобразования координат.
     background: /assets/images/tools/cs2cs.png
   - preTitle: Онлайн-инструмент
-    title: GBIF data validator
+    title: Валидатор данных GBIF
     href: https://www.gbif.org/tools/data-validator
-    description: The GBIF data validator is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset. By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it.
+    description: Валидатор данных GBIF - это сервис, позволяющий любому человеку, имеющему набор данных, относящийся к GBIF, получить отчет о синтаксической корректности и достоверности данных, содержащихся в наборе. Отправив набор данных в валидатор, вы можете прогнать его через процедуры проверки и интерпретации, обычно связанные с публикацией в GBIF, и быстро определить потенциальные проблемы в данных - без необходимости их публикации.
     background: /assets/images/tools/gbif-data-validator.png
   - preTitle: Онлайн-инструмент
-    title: World Register of Marine Species (WoRMS) Taxon match
+    title: Соответствие таксонам Всемирного реестра морских видов (WoRMS)
     href: https://www.marinespecies.org/aphia.php?p=match
-    description: You can use the WoRMS Taxon Match Tool to automatically match your species list or taxon list with WoRMS. After matching, the tool will return your file with the AphiaID's, valid names, authorities, WoRMS classification and/or any other output you selected.
+    description: Вы можете использовать WoRMS Taxon Match Tool для автоматического сопоставления вашего списка видов или таксонов с WoRMS. После сопоставления инструмент вернет вам файл с AphiaID, действительными названиями, официальными источниками, классификацией WoRMS и/или любым другим результатом по вашему выбору.
     background: /assets/images/tools/worms-taxon-match.png
-  - preTitle: Downloadable GIS layers
+  - preTitle: Загружаемые уровни ГИС
     title: Quantarctica
     href: https://www.marinespecies.org/aphia.php?p=match
-    description: Quantarctica is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica, and let you explore, import, visualize, and share Antarctic data. It includes community-contributed, peer-reviewed data from ten different scientific themes and a professionally-designed basemap.
+    description: Quantarctica - это коллекция антарктических геонаборов данных для исследований, обучения, операций и управления в Антарктике, позволяющая исследовать, импортировать, визуализировать и обмениваться антарктическими данными. Она включает в себя внесенные сообществом и прошедшие рецензирование данные по десяти различным научным темам и профессионально разработанную базовую карту.
     background: /assets/images/tools/quantarctica.png
   - preTitle: Онлайн-инструмент
-    title: Coordinate converter
+    title: Преобразователь координат
     href: https://obis.shinyapps.io/coordinates/
-    description: Coordinate converter by OBIS
+    description: Преобразователь координат от OBIS
     background: /assets/images/tools/obis-coordinate-converter.png
