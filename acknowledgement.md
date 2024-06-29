@@ -30,4 +30,5 @@ We deeply appreciate the invaluable work of our translators who have made our in
 - **[Jehane Marchand--Boucheron](https://orcid.org/0009-0004-3688-874X)**: French
 - **[Charlie Plasman](https://orcid.org/0009-0007-7519-7417)**: French
 - **[Yi-Ming Gan](https://orcid.org/0000-0001-7087-2646)**: French
+- **Yulia Kallistratova**: Russian
 
