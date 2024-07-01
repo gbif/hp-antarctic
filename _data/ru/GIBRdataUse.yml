@@ -1,0 +1,10 @@
+dataUse:
+  title: Применение данных
+  description: Обзор трех самых недавних примеров применения данных, оказавших влияние на Антарктику с использованием данных о биоразнообразии.
+  useSiteLinkWhenPossible: false # requires a resourceKey page to be added on resource/[key] to work
+  filters:
+    contentType:
+      - DATA_USE
+    limit: 3
+    countriesOfCoverage:
+      - AQ

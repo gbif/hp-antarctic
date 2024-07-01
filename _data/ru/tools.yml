@@ -1,0 +1,48 @@
+title: Инструменты
+description: Инструменты для управления данными о биоразнообразии. Пожалуйста, не забывайте правильно ссылаться на инструмент(ы), который(-ые) вы используете в своей работе.
+features:
+  - preTitle: Онлайн-инструменты
+    title: Генератор шаблонов Darwin Core для Excel
+    href: https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core
+    description: Генератор шаблонов Darwin Core для Excel, разработанный проектом Nansen Legacy.
+    background: /assets/images/tools/dwc-excel-template-generator.png
+  - preTitle: Макрос в Excel
+    title: Конвертер из Excel в стандарт Darwin Core
+    href: https://doi.org/10.5281/zenodo.6453921
+    description: Макрос программы Excel для настройки, ввода данных, их проверки и экспорта в файлы DwC (Darwin Core Standard), отформатированные для GBIF [Integrated Publishing Toolkit](https://www.gbif.org/ipt). Разработано [Видаром Баккеном](https://orcid.org/0000-0002-4792-2059) из [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/excel-to-dwc-macro.png
+  - preTitle: Онлайн-инструмент
+    title: Конвертер перекрестных таблиц в списки
+    href: https://gbif-norway.github.io/crosstab2list/
+    description: Часто в полевых условиях данные о биоразнообразии вводятся в формате перекрестных таблиц. Чтобы опубликовать эти данные, необходимо преобразовать их в плоский список. Этот онлайн-конвертер поможет вам в этом. Разработан [GBIF Norway](https://www.gbif.no/).
+    background: /assets/images/tools/crosstab2list.png
+  - preTitle: Онлайн-инструмент
+    title: Генератор UUID
+    href: https://www.uuidgenerator.net/version4
+    description: Онлайн-генератор случайных универсальных уникальных идентификаторов (UUID версии 4). Пригодится для создания таких идентификаторов, как eventID, occurrenceID и т. д.
+    background: /assets/images/tools/uuid.png
+  - preTitle: Онлайн-инструмент
+    title: Конвертор координат MyGeodata Cloud
+    href: https://mygeodata.cloud/cs2cs/
+    description: Онлайн-инструмент для преобразования координат.
+    background: /assets/images/tools/cs2cs.png
+  - preTitle: Онлайн-инструмент
+    title: Валидатор данных GBIF
+    href: https://www.gbif.org/tools/data-validator
+    description: Валидатор данных GBIF - это сервис, позволяющий любому человеку, имеющему набор данных, относящийся к GBIF, получить отчет о синтаксической корректности и достоверности данных, содержащихся в наборе. Отправив набор данных в валидатор, вы можете прогнать его через процедуры проверки и интерпретации, обычно связанные с публикацией в GBIF, и быстро определить потенциальные проблемы в данных - без необходимости их публикации.
+    background: /assets/images/tools/gbif-data-validator.png
+  - preTitle: Онлайн-инструмент
+    title: Соответствие таксонам Всемирного реестра морских видов (WoRMS)
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Вы можете использовать WoRMS Taxon Match Tool для автоматического сопоставления вашего списка видов или таксонов с WoRMS. После сопоставления инструмент вернет вам файл с AphiaID, действительными названиями, официальными источниками, классификацией WoRMS и/или любым другим результатом по вашему выбору.
+    background: /assets/images/tools/worms-taxon-match.png
+  - preTitle: Загружаемые уровни ГИС
+    title: Quantarctica
+    href: https://www.marinespecies.org/aphia.php?p=match
+    description: Quantarctica - это коллекция антарктических геонаборов данных для исследований, обучения, операций и управления в Антарктике, позволяющая исследовать, импортировать, визуализировать и обмениваться антарктическими данными. Она включает в себя внесенные сообществом и прошедшие рецензирование данные по десяти различным научным темам и профессионально разработанную базовую карту.
+    background: /assets/images/tools/quantarctica.png
+  - preTitle: Онлайн-инструмент
+    title: Преобразователь координат
+    href: https://obis.shinyapps.io/coordinates/
+    description: Преобразователь координат от OBIS
+    background: /assets/images/tools/obis-coordinate-converter.png
