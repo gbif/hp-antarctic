@@ -1,7 +1,7 @@
 ---
 lang-ref: literature-search
 lang: ru
-title: Литература
+title: Literature
 description: We publish open data
 layout: literature
 ---
