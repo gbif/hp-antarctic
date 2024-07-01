@@ -13,11 +13,11 @@ height: 70vh
 
 We are thankful for all the support and contributions that have made our work possible. 
 
-## GBIF
+<img src="/assets/images/logo/gbif-standard-logo-green.png" alt="GBIF logo" width="200">
 
 We extend our gratitude to the Global Biodiversity Information Facility (GBIF) for providing us with a hosted portal and their continuous support. Their infrastructure and resources have been instrumental in advancing the works from our community and data accessibility.
 
-## BELSPO
+<img src="/assets/images/logo/belspo.jpg" alt="BELSPO logo" width="200">
 
 We are grateful to the Belgian Science Policy Office (BELSPO) for funding the ADVANCE project. Their financial support has enabled our research and development efforts, allowing us to create a robust Virtual Research Infrastructure to support research in the Antarctic and Southern Ocean regions.
 
