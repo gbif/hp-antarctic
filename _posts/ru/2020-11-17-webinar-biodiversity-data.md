@@ -1,14 +1,14 @@
 ---
-lang: en
+lang: ru
 lang-ref: webinar-biodiversity-data
-preTitle: November 17, 2020
-title: "Webinar series: Biodiversity data from the field to research"
-description: "Webinar series from 3 - 6 November 2020"
+preTitle: 17 ноября 2020 г.
+title: "Серия вебинаров: Путь данных о биоразнообразии от сбора до исследования"
+description: "Серия вебинаров с 3 по 6 ноября 2020 года"
 date: 2020-11-17
-categories: ["webinar"]
+categories: ["вебинар"]
 background: /assets/images/posts/2020-11-17_webinar-biodiversity-data_AVdP_SCAR_0201_TvSxEb7.jpg
 imageLicense: |
-  Fieldwork on the Southern Ocean by Anton Van de Putte licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  Полевые исследования в Южном океане. Фото Антона ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
 The SCAR Antarctic biodiversity portal and the SCAR Standing Committee of Antarctic Data Managers and expert group on Antarctic Biodiversity Informatics are excited to present a series of online webinars designed to help you to better integrate your biological field work and research cycle.
