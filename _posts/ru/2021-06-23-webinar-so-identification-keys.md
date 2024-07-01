@@ -1,14 +1,14 @@
 ---
 lang-ref: webinar-so-identification-keys/
-lang: en
-preTitle: June 23, 2021
-title: "Webinar: Increasing availability and digitization of SO identification keys"
-description: "Wednesday 23rd of June 2021 from 2 to 4PM (CET) - Registration required."
+lang: ru
+preTitle: 23 июня 2021 года
+title: "Вебинар: Повышение доступности и оцифровки идентификационных ключей Южного океана"
+description: "Среда 23 июня 2021 года с 14 до 16 часов (CET) - Регистрация обязательна."
 date: 2021-06-23
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2021-06-23_webinar-so-identification-keys.jpg
 imageLicense: |
-  Belgica 121 expedition by Quentin Jossart licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  Экспедиция Belgica 121. Фото Квентина Джоссара с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
 The Antarctic Biodiversity Portal organised a webinar “Increasing availability and digitization of identification keys for the Southern Ocean”.
