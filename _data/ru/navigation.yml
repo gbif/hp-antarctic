@@ -34,9 +34,9 @@
     href: https://www.gbif.org/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
-- text: About
+- text: О Портале
   menu:
-  - text: О Портале
+  - text: Кто мы
     href: /ru/about
   - text: Благодарности
     href: /ru/acknowledgement
