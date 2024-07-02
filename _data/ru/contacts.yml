@@ -9,7 +9,7 @@ features:
     # img required
     background: https://pbs.twimg.com/profile_images/1272613246084829186/KKn8S9Wd_400x400.jpg
   - preTitle: Эксперт по работе с данными  # optional
-    title: Yi-Ming Gan
+    title: Йи-Минг Ган
     href: https://orcid.org/0000-0001-7087-2646
     description: |      # required
       yi-ming.gan(a)naturalsciences.be <br />
