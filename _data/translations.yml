@@ -35,7 +35,7 @@ contentTypes:
   DataUse:
     en: 'Data use'
     fr: 'Utilisation des données'
-    ru: 'Применение данных'
+    ru: 'Использование данных'
   Event:
     en: 'Event'
     fr: 'Événement'
