@@ -1,14 +1,14 @@
 ---
 lang-ref: portal-survey
-lang: en
-preTitle: August 3, 2022
-title: "Portal user survey"
-description: "We want to hear from you!"
+lang: ru
+preTitle: 3 августа 2022 года
+title: "Опрос пользователей портала"
+description: "Мы хотим вас услушать!"
 date:  2022-08-03
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2022-08-03_20220417-IMG_3965.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 To improve the user experience of this hosted portal and how we can make the best use of antarctic biodiversity data, we would like to hear from you. 
