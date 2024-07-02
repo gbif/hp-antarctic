@@ -4,7 +4,7 @@ lang: en
 layout: post
 title: Ключи для определения нематод
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-imageLicense: Фото Квентина Джоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+imageLicense: Фото Квентина Жоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: Просмотр записей о нематодах
   href: /occurrence/search?&taxonKey=5967481
