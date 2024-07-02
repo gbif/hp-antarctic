@@ -1,13 +1,13 @@
 ---
 lang-ref: biodiversityaq-bdj-announcement
 lang: en
-preTitle: February 28, 2022
-title: "Antarctic and Southern Ocean biodiversity topical collection - Biodiversity Data Journal"
+preTitle: 28 февраля 2022 года
+title: "Тематическая коллекция по биоразнообразию Антарктики и Южного океана - Biodiversity Data Journal"
 date:  2022-02-28
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2022-02-28_biodiversityaq_BDJ_announcement.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 The SCAR Antarctic Biodiversity Portal in collaboration with Pensoft is happy to announce a dedicated topical collection of the [Pensoft "Biodiversity Data Journal"](https://bdj.pensoft.net/).
