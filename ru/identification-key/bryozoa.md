@@ -4,7 +4,7 @@ lang: en
 layout: post
 title: Ключи для определения мшанок
 background: /assets/images/identification-key/id-keys_05_bryozoa.png
-imageLicense: Фото Квентина Джоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+imageLicense: Фото Квентина Жоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: Просмотр записей о мшанках
   href: /ru/occurrence/search?&taxonKey=53
