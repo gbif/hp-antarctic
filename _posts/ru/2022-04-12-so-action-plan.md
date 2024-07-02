@@ -1,16 +1,16 @@
 ---
 lang-ref: so-action-plan
-lang: en
-title: "The Southern Ocean Action Plan"
-preTitle: April 12, 2022
-description: "In support of the United Nations Decade of Ocean Sceince for Sustainable Development"
+lang: ru
+title: "План действий по Южному океану"
+preTitle: 12 апреля 2022 года
+description: "В поддержку Десятилетия океанических исследований в интересах устойчивого развития Организации Объединенных Наций"
 date:  2022-04-12
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2022-04-12_so-action-plan_AVdP_SCAR_0121.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 cta:
-- text: Download the action plan
+- text: Скачать план действий
   href: https://doi.org/10.5281/zenodo.6412191
   isPrimary: true
 ---
