@@ -4,7 +4,7 @@ lang: fr
 layout: post
 title: Ключи для определения кольчатых червей и сипункулид
 background: /assets/images/identification-key/id-keys_02_annelida-sipuncula.png
-imageLicense: Фото Квентина Джоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+imageLicense: Фото Квентина Жоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 cta:
 - text: Просмотр записей о кольчатых червях
   href: /ru/occurrence/search?&taxonKey=42
