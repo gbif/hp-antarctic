@@ -1,6 +1,6 @@
 ---
 lang-ref: biodiversityaq-bdj-announcement
-lang: en
+lang: ru
 preTitle: 28 февраля 2022 года
 title: "Тематическая коллекция по биоразнообразию Антарктики и Южного океана - Biodiversity Data Journal"
 date:  2022-02-28
