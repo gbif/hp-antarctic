@@ -8,7 +8,7 @@ date: 2020-11-17
 categories: ["вебинар"]
 background: /assets/images/posts/2020-11-17_webinar-biodiversity-data_AVdP_SCAR_0201_TvSxEb7.jpg
 imageLicense: |
-  Полевые исследования в Южном океане. Фото Антона ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  Полевые исследования в Южном океане. Фото Антона Ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
 The SCAR Antarctic biodiversity portal and the SCAR Standing Committee of Antarctic Data Managers and expert group on Antarctic Biodiversity Informatics are excited to present a series of online webinars designed to help you to better integrate your biological field work and research cycle.
