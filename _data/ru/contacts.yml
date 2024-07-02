@@ -2,13 +2,13 @@
 # description: We would love to hear from you
 features:
   - preTitle: Руководитель проекта  # optional
-    title: Антон ван де Пютте # required
+    title: Антон Ван де Пютте # required
     href: https://orcid.org/0000-0003-1336-5554
     description: |      # required
       anton.vandeputte(a)naturalsciences.be <br />
     # img required
     background: https://pbs.twimg.com/profile_images/1272613246084829186/KKn8S9Wd_400x400.jpg
-  - preTitle: Специалист по работе с данными  # optional
+  - preTitle: Эксперт по работе с данными  # optional
     title: Yi-Ming Gan
     href: https://orcid.org/0000-0001-7087-2646
     description: |      # required
