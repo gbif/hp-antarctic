@@ -1,12 +1,12 @@
 ---
 lang-ref: scar-2022-satellite-event
-lang: en
-title: "SCAR 2022 Satellite event: Structuring and Managing biological data"
+lang: ru
+title: "Спутниковое мероприятие СКАР 2022: Структурирование и управление биологическими данными"
 date: 2022-08-02
-categories: ["news", "event"]
+categories: ["новости", "мероприятия"]
 background: /assets/images/posts/2022-08-02_scar2022-satellite-event_AVdP_SCAR_0037.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 As part of the [10th SCAR Open Science Conference of 2022](https://scar2022.org/) (1-10 august 2022) we are hosting a [satellite event](https://scar2022.org/satellite-events/) on **Structuring and Managing Biological Data.** That will take place **Monday, 8th August 2022, 13:00-14:30 UTC**
