@@ -4,7 +4,7 @@ lang: en
 layout: post
 title: Ключи для определения различных таксонов
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
-imageLicense: Фото Квентина Джоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+imageLicense: Фото Квентина Жоссара с лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ---
 
 Название | Автор(ы) | Формат | Открытый доступ |
