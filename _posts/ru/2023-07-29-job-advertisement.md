@@ -27,43 +27,43 @@ ADVANCE поддерживает публикацию всех элементо�
 
 ## Задачи
 
-* Design and develop efficient, reproducible and scalable analytical workflows for biodiversity research.
-* Extract, clean, and process large-scale biodiversity data from public repositories such as OBIS and GBIF.
-* Implement data analysis techniques and statistical models using R and Python to extract meaningful insights from biodiversity datasets.
-* Collaborate with researchers and stakeholders to understand their analytical needs and provide solutions using programming tools.
-* Develop data visualization tools and reports to effectively communicate findings and contribute to scientific publications.
-* Stay up-to-date with the latest developments in biodiversity data management, open data repositories, and programming techniques.
+* Проектировать и разрабатывать эффективные, воспроизводимые и масштабируемые аналитические рабочие процессы для исследований биоразнообразия.
+* Извлекать, очищать и обрабатывать крупномасштабные данные о биоразнообразии из публичных хранилищ, таких как OBIS и GBIF.
+* Внедрять методы анализа данных и статистические модели с использованием R и Python для извлечения значимой информации из наборов данных о биоразнообразии.
+* Сотрудничать с исследователями и заинтересованными сторонами, чтобы понять их аналитические потребности и предложить решения с помощью программных продуктов.
+* Разрабатывать инструменты визуализации данных и отчеты для эффективного представления результатов и использования их в научных публикациях.
+* Отслеживать последние события в области управления данными о биоразнообразии, открытых репозиториев данных и методов программирования.
 
 
-## Образование
+## Требуемое образование
 
-Master's degree or PhD in a relevant field (e.g., Computer Science, Bioinformatics, Ecology, or related disciplines) (holders of foreign Master diploma will have to apply for a diploma equivalence procedure).
+Степень магистра или доктора философии в соответствующей области (например, информатика, биоинформатика, экология или смежные дисциплины) (обладатели иностранного диплома магистра должны будут подать заявку на подтверждение эквивалентности диплома).
 
-## Технические требования
+## Технические навыки
 
-* Proficiency in programming languages such as R and Python, and experience in developing data analysis workflows
-* Strong understanding of biodiversity concepts, data structures, and ecological data analysis methods.
+* Знание языков программирования, таких как R и Python, и опыт разработки рабочих процессов анализа данных.
+* Глубокое понимание концепций биоразнообразия, структур данных и методов анализа экологических данных.
 
-## Преимущества
+## Дополнительные квалификации
 
-* Familiarity with public biodiversity repositories like OBIS and GBIF, and experience working with their data.
-* Familiarity with software development using version control and collaborative platforms such as GitHub.
-* Knowledge of data cleaning and manipulation techniques, statistical analysis, and data visualization.
-* Excellent problem-solving and analytical skills, with the ability to work independently and as part of a team.
-* Good communication skills to collaborate effectively with multidisciplinary teams and present findings to both technical and non-technical stakeholders.
-* Experience in scientific writing and contributing to research publications is a plus.
+* Умение работать с общедоступными ресурсами по биоразнообразию, такими как OBIS и GBIF, и опыт использования их данных.
+* Опыт разработки программного обеспечения с использованием платформ контроля версий и командной работы, таких как GitHub.
+* Знание методов очистки и манипулирования данными, статистического анализа и визуализации данных.
+* Отличные навыки решения проблем и аналитические способности, умение работать самостоятельно и в команде.
+* Хорошие коммуникативные навыки для эффективного сотрудничества с междисциплинарными командами и представления результатов как техническим, так и нетехническим заинтересованным сторонам.
+* Опыт написания научных статей и участия в подготовке научных публикаций является преимуществом.
 
 ## Мы предлагаем
 
-* The full time employment contract will start as soon as possible and be of fixed duration until December 2026
-* The salary is defined according to the standard scale for federal government scientists as published in the Moniteur Belge/Belgisch Staatsblad [http://www.ejustice.just.fgov.be/cgi/welcome.pl](http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (publication 10.6.2010), for grade SW1 (master) with index
-* The nominal workplace is Brussels 1000 (29 rue Vautierstraat), with typically 15-30 days per year abroad for workshops, conferences and other meetings.
-* Free home-to-work public transport
-* Some funds are available to support relocation to Belgium if required
+* Трудовой договор на полную ставку на срок до декабря 2026 года.
+* Оклад определяется в соответствии со стандартной шкалой для ученых федерального правительства, опубликованной в Moniteur Belge/Belgisch Staatsblad [http://www.ejustice.just.fgov.be/cgi/welcome.pl](http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (публикация 10.6.2010), для класса SW1 (мастер) с индексированием.
+* Номинальное место работы - Брюссель 1000 (29 rue Vautierstraat), при этом от 15 до 30 дней в году – заграничные коммандировки для проведения семинаров, конференций и других встреч.
+* Бесплатный общественный транспорт от дома до работы.
+* В случае необходимости может быть предоставлена некоторая помощь для переезда в Бельгию.
+  
+## Подача заявок
 
-## Как обращаться
-
-Applications, including a curriculum vitæ and a cover letter, should be addressed to Anton VAN DE PUTTE, and should be sent before 23:30 UTC 6th September 2023 by email to [avandeputte@naturalsciences.be](mailto:avandeputte@naturalsciences.be) with the heading ‘ADVANCE - job application’. Selected candidates will be invited for an oral interview in person, or by videoconference between the 27 to 29th of September 2023.
+Заявки, содержащие резюме и сопроводительное письмо, должны быть адресованы Антону Ван де Пютте и отправлены до 23:30 UTC 6 сентября 2023 года по электронной почте на адрес [avandeputte@naturalsciences.be](mailto:avandeputte@naturalsciences.be) с заголовком "ADVANCE - заявка на работу". Отобранные кандидаты будут приглашены на устное собеседование лично или в режиме видеоконференции в период с 27 по 29 сентября 2023 года.
 
 Есть вопросы? Отправьте и-мэйл по электронному адресу [avandeputte@naturalsciences.be](mailto:avandeputte@naturalsciences.be)
 
