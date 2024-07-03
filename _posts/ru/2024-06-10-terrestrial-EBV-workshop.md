@@ -1,13 +1,13 @@
 ---
 lang-ref: terrestrial-EBV-workshop
-lang: en
-preTitle: June 10, 2024
-title: "Workshop: Developing a Framework for Essential Biodiversity Variables (EBVs) in Terrestrial Antarctic and Sub-Antarctic Ecosystems"
+lang: ru
+preTitle: 10 июня 2024 года
+title: "Семинар: Разработка структуры основных переменных биоразнообразия (ОВБ) в наземных антарктических и субантарктических экосистемах"
 date: 2024-06-10
-categories: ["news", "workshop"]
+categories: ["новости", "семинар"]
 background: /assets/images/posts/2024-06-10_AVdP_SCAR_0485.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 ## Workshop Information
