@@ -1,14 +1,14 @@
 ---
 lang-ref: GBIF-OBIS-partnership
-lang: en
-preTitle: June 10, 2024
-title: "OBIS and GBIF endorse joint strategy and action plan for marine biodiversity data"
-description: Technical collaboration and capacity building activities to support shared objectives and ensure free and open access to comprehensive information about life in and around the world’s oceans
+lang: ru
+preTitle: 10 июнь 2024 года
+title: "OBIS и GBIF одобрили совместную стратегию и план действий для данных о морском биоразнообразии"
+description: Техническое сотрудничество и мероприятия по наращиванию потенциала для поддержки общих целей и обеспечения свободного и открытого доступа к всеобъемлющей информации о жизни в Мировом океане и вокруг него
 date: 2024-06-10
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2024-06-10_AVdP_SCAR_0325.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 
