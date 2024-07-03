@@ -5,7 +5,7 @@ title: Благодарности
 description: Признание неоценимой поддержки и вклада наших партнеров, сотрудников, волонтеров и спонсоров.
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
-  Фото Антона ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 height: 70vh
 ---
 
@@ -27,7 +27,7 @@ height: 70vh
 
 ### Список переводчиков
 
-- **[Jehane Marchand--Boucheron](https://orcid.org/0009-0004-3688-874X)** : Французский
-- **[Charlie Plasman](https://orcid.org/0009-0007-7519-7417)** : Французский
-- **[Yi-Ming Gan](https://orcid.org/0000-0001-7087-2646)** : Французский
-- **Yulia Kallistratova** : Русский
+- **[Жюан Маршан--Бушерон](https://orcid.org/0009-0004-3688-874X)** : Французский
+- **[Чарли Пласман](https://orcid.org/0009-0007-7519-7417)** : Французский
+- **[Йи-Минг Ган](https://orcid.org/0000-0001-7087-2646)** : Французский
+- **Юлия Каллистратоваa** : Русский

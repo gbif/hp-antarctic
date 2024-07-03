@@ -20,7 +20,7 @@
     href: https://github.com/biodiversity-aq/BASO/
 - text: Инструменты
   menu: # Dropdown menu (one level deep only)
-  - text: Онлайн инструменты
+  - text: Онлайн-инструменты
     href: /ru/tools
   - text: rOpenSci
     href: https://scar.github.io/ropensci/task_view/
@@ -34,9 +34,9 @@
     href: https://www.gbif.org/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
-- text: About
+- text: О портале
   menu:
-  - text: О Портале
+  - text: Кто мы
     href: /ru/about
   - text: Благодарности
     href: /ru/acknowledgement

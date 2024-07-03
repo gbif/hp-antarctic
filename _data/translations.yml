@@ -19,7 +19,7 @@ terms:
     We use cookies on our website. Some are technically necessary, while others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
   fr: |
     Nous utilisons des cookies sur notre site Web. Certains sont techniquement nécessaires, tandis que d'autres nous aident à améliorer votre expérience utilisateur. Vous pouvez refuser les cookies non essentiels en sélectionnant « Rejeter ». Veuillez consulter notre [Politique de confidentialité](/privacy) pour plus d'informations sur nos pratiques de confidentialité et l'utilisation des cookies.
-    ru: |
+  ru: |
     Мы используем cookie-файлы. Какие-то из них необходимы технически, другие помогают нам подстроиться под ваши предпочтения. Вы можете отказаться от использования необязательных cookie-файлов, выбрав опцию "Отклонить". Пожалуйста, ознакомьтесь с нашей [Политикой конфиденциальности](/privacy) для получения дополнительной информации о нашей практике конфиденциальности и использовании cookie-файлов.
 acceptTerms:
   en: 'Accept'
@@ -35,7 +35,7 @@ contentTypes:
   DataUse:
     en: 'Data use'
     fr: 'Utilisation des données'
-    ru: 'Применение данных'
+    ru: 'Использование данных'
   Event:
     en: 'Event'
     fr: 'Événement'
