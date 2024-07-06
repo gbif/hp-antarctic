@@ -9,15 +9,14 @@ imageLicense: |
   Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-As part of the [10th SCAR Open Science Conference of 2022](https://scar2022.org/) (1-10 august 2022) we are hosting a [satellite event](https://scar2022.org/satellite-events/) on **Structuring and Managing Biological Data.** That will take place **Monday, 8th August 2022, 13:00-14:30 UTC**
+В рамках [10-й Открытой научной конференции SCAR 2022 года](https://scar2022.org/) (1-10 августа 2022 года) мы проводим [сателлитное мероприятие](https://scar2022.org/satellite-events/) по **Структурированию и управлению биологическими данными**. Оно состоится **в понедельник, 8 августа 2022 года, 13:00-14:30 UTC**.
 
-The Antarctic and Sub Antarctic region are hosts to unique biodiversity. Due to the remoteness and harsh environment, this biodiversity often remains poorly described despite similar threats to the rest of the globe. As such The biodiversity data collected in this region is of high scientific value.
+Антарктида и субантарктический регион являются местом обитания уникального биоразнообразия. Из-за удаленности и сурового климата это биоразнообразие остается плохо изученным, несмотря на то, что подвергается тем же рискам, что и остальные части земного шара. Поэтому данные о биоразнообразии, собранные в этом регионе, имеют высокую научную ценность.
 
-This workshop aims to train scientists to structure and manage their biological data more effectively and conform to internationally used biodiversity data standard formats, saving precious time in preparing data for analysis or online archiving.
+Цель данного семинара - показать ученым, как эффективнее структурировать и управлять своими биологическими данными в соответствии с международными стандартными форматами данных о биоразнообразии, что позволит сэкономить драгоценное время на подготовку данных для анализа или архивирования онлайн.
 
-This workshop is organised by the SCAR Antarctic Biodiversity Portal in the framework of the [topical collection "Antarctic and Southern Ocean biodiversity"](https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) of the Pensoft "Biodiversity Data Journal".
+Семинар организован Порталом SCAR по биоразнообразию Антарктики в рамках [тематической коллекции "Биоразнообразие Антарктики и Южного океана"] (https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) журнала Pensoft "Biodiversity Data Journal".
+**Понедельник, 8 августа 2022 года, 13:00-14:30 UTC**
 
-**Monday, 8th August 2022, 13:00-14:30 UTC**
-
-Register in advance for this Satellite Meeting:
+Зарегестрируйтесь заранее по адресу:
 <https://us06web.zoom.us/meeting/register/tZMkd-2urjsiG9YEc4FVJRoTX-yuXVGDfZzO>
