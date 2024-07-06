@@ -1,7 +1,7 @@
 ---
 lang-ref: scar-2022-satellite-event
 lang: ru
-title: "Спутниковое мероприятие СКАР 2022: Структурирование и управление биологическими данными"
+title: "Спутниковое мероприятие SCAR 2022: Структурирование и управление биологическими данными"
 date: 2022-08-02
 categories: ["новости", "мероприятия"]
 background: /assets/images/posts/2022-08-02_scar2022-satellite-event_AVdP_SCAR_0037.jpg

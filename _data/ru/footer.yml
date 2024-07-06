@@ -20,10 +20,10 @@ columns:
       href: https://www.gbif.org/
     - text: OBIS
       href: https://obis.org/
-    - text: СКАР
+    - text: SCAR
       href: https://www.scar.org/
 
-  - name: Code
+  - name: Код
     description: Этот проект имеет открытый исходный код и доступен на [GitHub](https://github.com/gbif/hp-antarctic). Вы можете создать тикет на GitHub для сообщений об ошибках и предложений по улучшению.
     
   - name: О портале

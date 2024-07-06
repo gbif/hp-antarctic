@@ -8,7 +8,7 @@ date: 2024-02-27
 categories: ["новости"]
 background: /assets/images/posts/2024-02-28-hpai-database-hero_iceberg-pingu.png
 imageLicense: |
-  Пингвин в Антарктике. Фото СКАР с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  Пингвин в Антарктике. Фото SCAR с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
 
