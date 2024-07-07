@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Новости
-  href: /ru/news/?category=news
+  href: /ru/news/?category=новости
 - text: Поиск данных
   menu: # Dropdown menu (one level deep only)
   - text: Находки
@@ -31,7 +31,7 @@
   - text: Helpdesk
     href: mailto:data-biodiversity-aq@naturalsciences.be
   - text: GBIF
-    href: https://www.gbif.org/
+    href: https://www.gbif.org/ru
   - text: Darwin Core
     href: https://dwc.tdwg.org/
 - text: О портале
