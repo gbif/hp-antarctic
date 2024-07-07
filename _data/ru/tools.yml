@@ -44,5 +44,5 @@ features:
   - preTitle: Онлайн-инструмент
     title: Преобразователь координат
     href: https://obis.shinyapps.io/coordinates/
-    description: Преобразователь координат от OBIS
+    description: Преобразователь координат из OBIS
     background: /assets/images/tools/obis-coordinate-converter.png
