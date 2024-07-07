@@ -3,7 +3,7 @@ lang-ref: new-portal
 lang: ru
 title: "Анонс нового портала"
 preTitle: 11 июля 2023 года
-description: "Портал СКАР по биоразнообразию Антарктики размещен теперь на GBIF"
+description: "Портал SCAR по биоразнообразию Антарктики размещен теперь на GBIF"
 date: 2023-07-11
 categories: ["новости"]
 background: /assets/images/posts/2023-07-11_new-portal_AVDP_SCAR_0376.jpg
