@@ -11,7 +11,7 @@ imageLicense: |
   Полевые исследования в Южном океане. Фото Антона Ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-Портал SCAR по биоразнообразию Антарктики и Постоянный комитет SCAR по управлению антарктическими данными и экспертная группа по информатике биоразнообразия Антарктики представляют серию онлайн-вебинаров, призванных помочь вам лучше интегрировать биологические полевые работы в научно-исследовательский цикл.
+Портал SCAR по биоразнообразию Антарктики, Постоянный комитет SCAR по управлению антарктическими данными и Экспертная группа по информатике биоразнообразия Антарктики представляют серию онлайн-вебинаров, призванных помочь вам с интеграцией полевых работ в научно-исследовательский цикл.
 
 Даты: 3 - 6 ноября 2020 года
 Время: 09:00 UTC - 10:30 UTC и: 18:00 UTC - 19:30 UTC
@@ -20,7 +20,7 @@ imageLicense: |
 
 ## Формат
 
-Ежедневный онлайн-вебинар продолжительностью 45-60 минут по теме управления данными с последующей 30-минутной сессией вопросов и ответов. Вебинары будут проходить с 09:00 UTC до 10:30 UTC, а повторная сессия - с 18:00 UTC до 19:30 UTC.
+Четырехдневный онлайн-вебинар продолжительностью 45-60 минут по теме управления данными с последующей 30-минутной сессией вопросов и ответов. Вебинары будут проходить с 09:00 UTC до 10:30 UTC, а повторная сессия - с 18:00 UTC до 19:30 UTC.
 
 В дополнение к вебинарам мы предоставим возможность лично пообщаться с сотрудниками портала SCAR Antarctic Biodiversity, чтобы обсудить конкретные вопросы по управлению данными до начала полевых работ. Эти консультации будут организованы с 4 по 6 ноября и с 9 по 13 ноября, а таймслоты для бронирования доступны с 06:00 UTC до 23:00 UTC.
 
@@ -44,38 +44,37 @@ imageLicense: |
 
 ## Сессии
 
-### 3 ноября 2020 г.: S1 Before you go into the field: preparing how to collect data
+### 3 ноября 2020 г.: S1 Перед выездом на место: подготовка к сбору данных
 
-The first session will prepare you to go into the field to collect biological data. This introductory session will justify why it is important to manage your data, why data quality matters, the FAIR data principles, existing data standards and what documents you need to prepare to simplify and structure the way data is recorded.
+Первое занятие подготовит вас к тому, чтобы правильно собраться для сбора биологических данных. На этом вводном занятии вы узнаете, почему важно струкрурировать данные, почему их качество данных имеет значение, о принципах FAIR data, существующих стандартах данных и о том, какие документы необходимо подготовить, чтобы упростить и структурировать процесс записи данных.
 
 Запись: [https://vimeo.com/475838103](https://vimeo.com/476270315)
 
 Слайды: [pdf](https://nextcloud.bebif.be/s/psR5YXWHYyAdRBe) [pptx](https://nextcloud.bebif.be/s/p87Mbcfit5D6pdg)
 
-### 4 ноября 2020 г.: S2 Using a template to structure data: practical tips and tricks
+### 4 ноября 2020 г.: S2 Использование шаблона для структурирования данных: практические советы и рекомендации
 
-The biodiversity.aq team developed a simple and versatile data recording template based on the DarwinCore standard that can be taken into the field. This session will go into detail on how to use this template, explain the rationale behind it, and give practical tips that will smoothen your data archival process upon your return.
+Команда Портала biodiversity.aq разработала простой и универсальный шаблон для записи данных, основанный на стандарте DarwinCore, который можно брать с собой. На этой сессии будет подробно рассказано, как использовать этот шаблон, даны его обоснования и практические советы, которые облегчат процесс архивации данных после возвращения.
 
 Запись: [https://vimeo.com/475896857](https://vimeo.com/476270315)
 
 Слайды:
 
-- Combined [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
-- Part one [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
-- Part two [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
+- Целиком [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
+- Часть первая [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
+- Часть вторая [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
 
-### 5 ноября 2020 г.: S3 How to Quality Control your data
+### 5 ноября 2020 г.: S3 Как проверять качество данных
 
-Before working on data analysis or publishing data, whether it is your own data or data given to you, the data needs to undergo a thorough quality control (QC), to verify all data points are correct. This session aims to demonstrate what and how QC steps can be done to reduce errors in data. The examples include finding errors in geographic coordinates, errors in measurements, misuse of formats, etc etc.
+Прежде чем приступить к анализу данных или опубликовать их, будь то ваши собственные или предоставленные вам данные, они должны пройти тщательный контроль качества (QC), чтобы убедиться в правильности всех параметров. Цель этого занятия - продемонстрировать, какие шаги и как можно предпринять для уменьшения ошибок в данных. В качестве примера можно привести поиск ошибок в географических координатах, ошибок в измерениях, неправильное использование форматов и т. д. и т. п.
 
 Запись: [https://vimeo.com/476270315](https://vimeo.com/476270315)
 
 Слайды: [pdf](https://nextcloud.bebif.be/s/Xfgc59Dz6MX76j5) [pptx](https://nextcloud.bebif.be/s/Gs4KC45djYoLmxb)
 
-### 6 ноября 2020 г.: S4 Collecting public data: where and how to get open data
+### 6 ноября 2020 г.: S4 Сбор свободно доступных данных: где и как получить открытые данные
 
-Data collected in the field can be significantly enriched with open access data of previous studies, or a preliminary idea can be tested with open data before setting up expensive campaigns. This session will show where to find trustworthy biodiversity and other data, how to get it, and how to format it back into something usable for statistical analyses.
-
+Данные, собранные в полевых условиях, могут быть значительно обогащены за счет свободно доступных данных предыдущих исследований, или предварительная идея может быть проверена с помощью открытых данных до организации дорогостоящих кампаний. На этой сессии мы расскажем, где можно найти достоверные данные о биоразнообразии и другие данные, как их получить и как отформатировать, чтобы сделать их пригодными для статистического анализа.
 
 Запись: [https://vimeo.com/476400213](https://vimeo.com/476270315)
 
