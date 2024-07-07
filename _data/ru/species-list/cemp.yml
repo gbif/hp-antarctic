@@ -39,7 +39,7 @@ gentoo-penguin:
 macaroni-penguin:
   reverse: true
   title: Златовласый пингвин (Eudyptes chrysolophus)
-  description: Скалистые златовласые пингвины относятся к хохлатым пингвинам, самому крупному роду Spheniciforms, включающему семь других видов Eudyptes - скалистый хохлатый пингвин Eudyptes filholi, северный хохлатый пингвин Eudyptes moseleyi, златовласый пингвин Eudyptes chrysolophus, пингвин Шлегеля Eudyptes schlegeli, толстоклювый пингвин Eudyptes pachyrhynchus, снэрский хохлатый пингвин Eudyptes robustus и большой хохла́тый пингвин Eudyptes sclateri. Предоставлено [EG-BAMM, Мод Пуасблю & Лораном Демонжаном](https://scar.org/science/eg-bamm/)
+  description: Скалистые златовласые пингвины относятся к хохлатым пингвинам – самому крупному роду Spheniciforms, включающему семь видов Eudyptes: скалистый хохлатый пингвин Eudyptes filholi, северный хохлатый пингвин Eudyptes moseleyi, златовласый пингвин Eudyptes chrysolophus, пингвин Шлегеля Eudyptes schlegeli, толстоклювый пингвин Eudyptes pachyrhynchus, снэрский хохлатый пингвин Eudyptes robustus и большой хохла́тый пингвин Eudyptes sclateri. Предоставлено [EG-BAMM, Мод Пуасблю & Лораном Демонжаном](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/macaroni-penguin.jpg
   imageLicense: |
     *Eudyptes chrysolophus* - Группа скалистых златовласых пингвинов. Фото Лорана Деможина с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
