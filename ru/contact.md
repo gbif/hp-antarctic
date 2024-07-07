@@ -1,7 +1,7 @@
 ---
 lang-ref: contact
 lang: ru
-title: Contact
+title: Контакты
 klass: contact
 description: Контактная информация Портала SCAR по биоразнообразию Антарктики
 background: /assets/images/contact_two-seals.jpeg
@@ -10,7 +10,7 @@ imageLicense: |
 composition:
   - type: postHeader
   - type: media
-    data: contacts
+    data: ru.contacts
   - type: pageMarkdown
 ---
 

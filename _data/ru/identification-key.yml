@@ -1,59 +1,59 @@
-title: Идентификационные ключи
-description: Список идентификационных ключей и таксономических ресурсов для антарктических видов
+title: Ключи для определения
+description: Список ключей для определения и таксономических ресурсов для антарктических видов
 features:
   - title: Различные таксоны
-    description: Список идентификационных ключей и таксономических ресурсов для различных таксонов.
+    description: Список ключей для определения/таксономических ресурсов для различных таксонов.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
     href: /ru/identification-key/multiple-taxa
   - title: Кольчатые черви и сипункулиды
-    description: Список идентификационных ключей/таксономических ресурсов для кольчатых червей и сипункулид.
+    description: Список ключей для определения/таксономических ресурсов для кольчатых червей и сипункулид.
     background: /assets/images/identification-key/id-keys_02_annelida-sipuncula.png
     href: /ru/identification-key/annelida-and-sipuncula
   - title: Членистоногие (отличные от ракообразных)
-    description: Список идентификационных ключей/таксономических ресурсов для членистоногих (отличные от ракообразных).
+    description: Список ключей для определения/таксономических ресурсов для членистоногих (отличные от ракообразных).
     background: /assets/images/identification-key/id-keys_04_arthropoda.png
     href: /ru/identification-key/arthropoda-other-than-crustacea
   - title: Мхи и лишайники
-    description: писок идентификационных ключей/таксономических ресурсов для мхов и лишайников.
+    description: Список ключей для определения/таксономических ресурсов для мхов и лишайников.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
     href: /ru/identification-key/bryophyta-and-lichens
   - title: Мшанки
-    description: писок идентификационных ключей/таксономических ресурсов для мшанок.
+    description: Список ключей для определения/таксономических ресурсов для мшанок.
     background: /assets/images/identification-key/id-keys_05_bryozoa.png
     href: /ru/identification-key/bryozoa
   - title: Хордовые
-    description: писок идентификационных ключей/таксономических ресурсов для хордовых.
+    description: Список ключей для определения/таксономических ресурсов для хордовых.
     background: /assets/images/identification-key/id-keys_06_chordata.png
     href: /ru/identification-key/chordata
   - title: Стрекающие
-    description: писок идентификационных ключей/таксономических ресурсов для стрекающих.
+    description: Список ключей для определения/таксономических ресурсов для стрекающих.
     background: /assets/images/identification-key/id-keys_07_cnidaria.png
     href: /ru/identification-key/cnidaria
   - title: Ракообразные
-    description: писок идентификационных ключей/таксономических ресурсов для ракообразных.
+    description: Список ключей для определения/таксономических ресурсов для ракообразных.
     background: /assets/images/identification-key/id-keys_03_crustacea.png
     href: /ru/identification-key/crustacea
   - title: Иглокожие
-    description: писок идентификационных ключей/таксономических ресурсов для иглокожих.
+    description: Список ключей для определения/таксономических ресурсов для иглокожих.
     background: /assets/images/identification-key/id-keys_08_echinodermata.png
     href: /ru/identification-key/echinodermata
   - title: Макроводоросли
-    description: писок идентификационных ключей/таксономических ресурсов для макроводорослей.
+    description: Список ключей для определения/таксономических ресурсов для макроводорослей.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
     href: /ru/identification-key/macroalgae
   - title: Моллюски
-    description: писок идентификационных ключей/таксономических ресурсов для моллюсков.
+    description: Список ключей для определения/таксономических ресурсов для моллюсков.
     background: /assets/images/identification-key/id-keys_09_mollusca.png
     href: /ru/identification-key/mollusca
   - title: Нематоды
-    description: писок идентификационных ключей/таксономических ресурсов для нематод.
+    description: Список ключей для определения/таксономических ресурсов для нематод.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
     href: /ru/identification-key/nematoda
   - title: Губки
-    description: писок идентификационных ключей/таксономических ресурсов для губок.
+    description: Список ключей для определения/таксономических ресурсов для губок.
     background: /assets/images/identification-key/id-keys_11_porifera.png
     href: /ru/identification-key/porifera
   - title: Протисты
-    description: писок идентификационных ключей/таксономических ресурсов для протистов.
+    description: Список ключей для определения/таксономических ресурсов для протистов.
     background: /assets/images/identification-key/id-keys_01_multi-taxa.png
     href: /ru/identification-key/protists

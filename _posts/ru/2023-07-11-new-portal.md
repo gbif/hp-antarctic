@@ -11,29 +11,29 @@ imageLicense: |
   Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-# SCAR Antarctic Biodiversity Portal is now a GBIF Hosted Portal
+# Портал SCAR по биоразнообразию Антарктики размещен теперь на GBIF
 
-Welcome to the new SCAR Antarctic Biodiversity Portal!
+Добро пожаловать на Портал SCAR по биоразнообразию Антарктики !
 
-We are excited to introduce you to our brand new portal. As part of our ongoing commitment to providing you with the best possible experience, we have migrated to the [GBIF hosted portal](https://www.gbif.org/hosted-portals), offering enhanced features and improved performance.
+Мы рады представить вам наш новый портал. Для вашего удобства, мы переехали на портал [GBIF hosted portal](https://www.gbif.org/hosted-portals), предлагающий расширенные возможности и улучшенную производительность.
 
-We would like to express our sincere appreciation to GBIF for providing us with this exceptional service and hosting our new portal.
+Мы хотели бы выразить нашу искреннюю признательность GBIF за предоставление исключительных услуг и размещение нашего нового портала.
 
-## Important Changes
+## Важнейшие изменения
 
-### GBIF Integration
-The new portal is now integrated with [GBIF](https://www.gbif.org/), a globally recognized platform for biodiversity data. By creating a GBIF account, you can easily access and download data from our portal. GBIF offers a secure and reliable environment for managing biodiversity data from around the world. If you don't have a GBIF account yet, we encourage you to create one for seamless access to our portal and other valuable resources within the GBIF network.
+### Интеграция с GBIF
+Новый портал интегрирован с [GBIF](https://www.gbif.org/ru), всемирно признанной платформой данных о биоразнообразии. Создав учетную запись GBIF, вы получаете доступ к данным с нашего портала и можете их скачать. GBIF предлагает безопасную и надежную среду для управления данными о биоразнообразии со всего мира. Если у вас еще нет учетной записи GBIF, рекомендуем вам создать ее для беспрепятственного доступа к нашему порталу и другим ценным ресурсам в сети GBIF.
 
-### Streamlined Account Transition
-To ensure a seamless transition to our new and improved portal, we will be using GBIF accounts to manage the downloads request. We kindly request you to create a new account on the GBIF hosted portal to continue benefiting from our services. We regret to inform you that your account on the old portal, along with all associated data, has been deleted. This step was necessary for the migration process. We apologize for any inconvenience this may cause. 
+### Перенос учетной записи
+Чтобы обеспечить плавный переход на наш новый и усовершенствованный портал, мы вынуждены использовать учетные записи GBIF для управления запросами на загрузку. Мы просим вас создать новую учетную запись на портале GBIF, чтобы продолжать пользоваться нашими услугами. К сожалению, ваша учетная запись на старом портале вместе со всеми связанными с ней данными удалена. Этот шаг был необходим для процесса миграции. Мы приносим извинения за возможные неудобства.
 
-### Improved Downloads with DOIs
-Unlike the old portal, all downloads from the new portal will now come with a Digital Object Identifier (DOI). This DOI allows you to cite the downloaded data, ensuring proper attribution and fostering collaboration among researchers. 
+### Улучшенное скачивание с использованием DOI
+В отличие от старого портала, все скачиваемые с нового портала данные теперь будут сопровождаться цифровым идентификатором объекта (DOI). DOI позволит вам ссылаться на скаченные данные, обеспечив надлежащее присвоение авторства и способствуя сотрудничеству между исследователями. 
 
-We understand that this transition may require some adjustment, and we apologize for any inconvenience caused during this process. Our team is dedicated to assisting you throughout this transition and ensuring a smooth experience. Should you encounter any difficulties or have any questions, please don't hesitate to reach out to our [helpdesk](mailto:data-biodiversity-aq@naturalsciences.be).
+Мы понимаем, что переход на новую платформу может потребовать некоторой адаптации, и приносим извинения за любые неудобства, причиненные в ходе этого процесса. Наша команда готова оказать вам помощь на протяжении всего переходного периода и обеспечить бесперебойную работу. Если вы столкнетесь с какими-либо трудностями или у вас возникнут вопросы, пожалуйста, обращайтесь в нашу службу поддержки [helpdesk](mailto:data-biodiversity-aq@naturalsciences.be).
 
-We would like to extend our heartfelt gratitude to GBIF for their collaboration and for offering us this service. Their support has been instrumental in making this transition possible.
+Мы хотели бы выразить нашу искреннюю благодарность GBIF за сотрудничество и предоставление нам услуг. Их поддержка сыграла важную роль в осуществлении этого перехода.
 
-We are grateful for your understanding and continued support as we strive to deliver an improved user experience and provide you with efficient access to biodiversity data.
+Мы благодарны вам за понимание и постоянную поддержку, поскольку мы стремимся улучшить пользовательский опыт и предоставить вам эффективный доступ к данным о биоразнообразии.
 
-Thank you for being a part of the SCAR Antarctic Biodiversity Portal community!
+Спасибо за то, что присоедились к сообществу Портала  SCAR по биоразнообразию Антарктики!

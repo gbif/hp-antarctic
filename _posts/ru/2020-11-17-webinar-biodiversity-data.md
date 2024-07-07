@@ -11,73 +11,71 @@ imageLicense: |
   Полевые исследования в Южном океане. Фото Антона Ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-The SCAR Antarctic biodiversity portal and the SCAR Standing Committee of Antarctic Data Managers and expert group on Antarctic Biodiversity Informatics are excited to present a series of online webinars designed to help you to better integrate your biological field work and research cycle.
+Портал SCAR по биоразнообразию Антарктики, Постоянный комитет SCAR по управлению антарктическими данными и Экспертная группа по информатике биоразнообразия Антарктики представляют серию онлайн-вебинаров, призванных помочь вам с интеграцией полевых работ в научно-исследовательский цикл.
 
-Date: 3 - 6 November 2020
-Time: 09:00 UTC - 10:30 UTC and Time: 18:00 UTC - 19:30 UTC
+Даты: 3 - 6 ноября 2020 года
+Время: 09:00 UTC - 10:30 UTC и: 18:00 UTC - 19:30 UTC
 
-Registration is closed.
+Регистрация закончена.
 
-## Format
+## Формат
 
-A daily 45-60min online webinar about a data management topic followed by 30min Q&A session. The Webinars will run 09:00 UTC - 10:30 UTC, with a repeat session at 18:00 UTC - 19:30 UTC.
+Четырехдневный онлайн-вебинар продолжительностью 45-60 минут по теме управления данными с последующей 30-минутной сессией вопросов и ответов. Вебинары будут проходить с 09:00 UTC до 10:30 UTC, а повторная сессия - с 18:00 UTC до 19:30 UTC.
 
-In addition to our webinars we will allow the opportunity to have face to face discussion with staff from the SCAR Antarctic Biodiversity portal to discuss specific questions on data management prior to fieldwork. These consultation session will be organised 4-6 November and 9 to 13 November, with slots for booking available between 06:00 UTC and 23:00 UTC.
+В дополнение к вебинарам мы предоставим возможность лично пообщаться с сотрудниками портала SCAR Antarctic Biodiversity, чтобы обсудить конкретные вопросы по управлению данными до начала полевых работ. Эти консультации будут организованы с 4 по 6 ноября и с 9 по 13 ноября, а таймслоты для бронирования доступны с 06:00 UTC до 23:00 UTC.
 
-There are limited timeslots, but registration detail will shared during the meeting.
+Количество таймслотов ограничено, но подробности регистрации будут сообщены во время встречи.
 
-## Description
+## Описание
 
-This workshop aims to train scientists on how to structure and manage their biological data more effectively and conform internationally used biodiversity data standard formats, saving precious time in preparing data for analysis or online archiving. The workshop is organized in a number of short webinars that follow a typical research cycle. Each session will cover best practices and practical tips that the trainees can directly implement in their work. We will focus on biodiversity data, but will also cover other data types commonly found in ecology, such as environmental measurements or climatic data.
+Цель семинара - показать ученым, как эффективнее структурировать и управлять своими биологическими данными в соответствии с международными стандартными форматами данных о биоразнообразии, что позволит сэкономить драгоценное время на подготовку данных для анализа или архивирования онлайн. Семинар состоит из нескольких коротких вебинаров в соответствии с типичным научно-исследовательским циклом. На каждом занятии будут рассмотрены наилучшие методы работы и даны практические советы, которые слушатели смогут непосредственно применить в своей работе. Мы сосредоточимся на данных о биоразнообразии, но также рассмотрим и другие типы данных, часто встречающиеся в экологии, например, экологические измерения или климатические данные.
 
-## Course material
+## Учебные материалы
 
-The course material that will be covered in the sessions will be made available freely online.
+Учебные материалы, рассматриваемые на занятиях, будут выложены в свободном доступе в Интернете.
 
 {: .notification .is-danger } 
-Please note that the course material is from year 2020 and is considered outdated.
+Обратите внимание, что материалы относятся к 2020 году и считаются устаревшими.
 
-### Templates
+### Шаблоны
 
-Field and data templates are available at the [GitHub repository](https://github.com/biodiversity-aq/data-mgt-templates).
-
-
-## Sessions
-
-### 3 November 2020: S1 Before you go into the field: preparing how to collect data
-
-The first session will prepare you to go into the field to collect biological data. This introductory session will justify why it is important to manage your data, why data quality matters, the FAIR data principles, existing data standards and what documents you need to prepare to simplify and structure the way data is recorded.
-
-Recording: [https://vimeo.com/475838103](https://vimeo.com/476270315)
-
-Slides: [pdf](https://nextcloud.bebif.be/s/psR5YXWHYyAdRBe) [pptx](https://nextcloud.bebif.be/s/p87Mbcfit5D6pdg)
-
-### 4 November 2020: S2 Using a template to structure data: practical tips and tricks
-
-The biodiversity.aq team developed a simple and versatile data recording template based on the DarwinCore standard that can be taken into the field. This session will go into detail on how to use this template, explain the rationale behind it, and give practical tips that will smoothen your data archival process upon your return.
-
-Recording: [https://vimeo.com/475896857](https://vimeo.com/476270315)
-
-Slides:
-
-- Combined [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
-- Part one [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
-- Part two [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
-
-### 5 November 2020: S3 How to Quality Control your data
-
-Before working on data analysis or publishing data, whether it is your own data or data given to you, the data needs to undergo a thorough quality control (QC), to verify all data points are correct. This session aims to demonstrate what and how QC steps can be done to reduce errors in data. The examples include finding errors in geographic coordinates, errors in measurements, misuse of formats, etc etc.
+Полевые шаблоны и шаблоны данных доступны на [GitHub repository](https://github.com/biodiversity-aq/data-mgt-templates).
 
 
-Recording: [https://vimeo.com/476270315](https://vimeo.com/476270315)
+## Сессии
 
-Slides: [pdf](https://nextcloud.bebif.be/s/Xfgc59Dz6MX76j5) [pptx](https://nextcloud.bebif.be/s/Gs4KC45djYoLmxb)
+### 3 ноября 2020 г.: S1 Перед выездом на место: подготовка к сбору данных
 
-### 6 November 2020: S4 Collecting public data: where and how to get open data
+Первое занятие подготовит вас к тому, чтобы правильно собраться для сбора биологических данных. На этом вводном занятии вы узнаете, почему важно струкрурировать данные, почему их качество данных имеет значение, о принципах FAIR data, существующих стандартах данных и о том, какие документы необходимо подготовить, чтобы упростить и структурировать процесс записи данных.
 
-Data collected in the field can be significantly enriched with open access data of previous studies, or a preliminary idea can be tested with open data before setting up expensive campaigns. This session will show where to find trustworthy biodiversity and other data, how to get it, and how to format it back into something usable for statistical analyses.
+Запись: [https://vimeo.com/475838103](https://vimeo.com/476270315)
 
+Слайды: [pdf](https://nextcloud.bebif.be/s/psR5YXWHYyAdRBe) [pptx](https://nextcloud.bebif.be/s/p87Mbcfit5D6pdg)
 
-Recording: [https://vimeo.com/476400213](https://vimeo.com/476270315)
+### 4 ноября 2020 г.: S2 Использование шаблона для структурирования данных: практические советы и рекомендации
 
-Slides: [pdf](https://nextcloud.bebif.be/s/FSDpT6aWC4NT8gZ) [pptx](https://nextcloud.bebif.be/s/Zgg7KAPwxH3pwbZ)
+Команда Портала biodiversity.aq разработала простой и универсальный шаблон для записи данных, основанный на стандарте DarwinCore, который можно брать с собой. На этой сессии будет подробно рассказано, как использовать этот шаблон, даны его обоснования и практические советы, которые облегчат процесс архивации данных после возвращения.
+
+Запись: [https://vimeo.com/475896857](https://vimeo.com/476270315)
+
+Слайды:
+
+- Целиком [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
+- Часть первая [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
+- Часть вторая [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
+
+### 5 ноября 2020 г.: S3 Как проверять качество данных
+
+Прежде чем приступить к анализу данных или опубликовать их, будь то ваши собственные или предоставленные вам данные, они должны пройти тщательный контроль качества (QC), чтобы убедиться в правильности всех параметров. Цель этого занятия - продемонстрировать, какие шаги и как можно предпринять для уменьшения ошибок в данных. В качестве примера можно привести поиск ошибок в географических координатах, ошибок в измерениях, неправильное использование форматов и т. д. и т. п.
+
+Запись: [https://vimeo.com/476270315](https://vimeo.com/476270315)
+
+Слайды: [pdf](https://nextcloud.bebif.be/s/Xfgc59Dz6MX76j5) [pptx](https://nextcloud.bebif.be/s/Gs4KC45djYoLmxb)
+
+### 6 ноября 2020 г.: S4 Сбор свободно доступных данных: где и как получить открытые данные
+
+Данные, собранные в полевых условиях, могут быть значительно обогащены за счет свободно доступных данных предыдущих исследований, или предварительная идея может быть проверена с помощью открытых данных до организации дорогостоящих кампаний. На этой сессии мы расскажем, где можно найти достоверные данные о биоразнообразии и другие данные, как их получить и как отформатировать, чтобы сделать их пригодными для статистического анализа.
+
+Запись: [https://vimeo.com/476400213](https://vimeo.com/476270315)
+
+Слайды: [pdf](https://nextcloud.bebif.be/s/FSDpT6aWC4NT8gZ) [pptx](https://nextcloud.bebif.be/s/Zgg7KAPwxH3pwbZ)

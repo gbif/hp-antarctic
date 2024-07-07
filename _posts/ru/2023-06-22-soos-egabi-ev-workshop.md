@@ -10,25 +10,26 @@ imageLicense: |
   Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-The Southern Ocean is a unique environment that experiences rapid change in some areas while remaining relatively untouched by human activities. At the same time, these ecosystems are under severe threat from climate change and other stressors. While our understanding of Southern biological processes (e.g., species distributions, feeding ecology, reproduction) has greatly improved in recent years (CAML), biological data for the region remains patchy, sparse, and unstandardized depending on taxonomic group. Because of the scarcity of standardised observations and data, it is difficult to model and predict Antarctic marine ecosystem responses to climate change, which frequently occurs in conjunction with increasing anthropogenic pressures such as fishing and tourism. Standardised observations and data are required for ecosystem-based management in Antarctica, including the establishment of protected areas (such as Marine Protected Areas (MPAs), Antarctic Specially Protected Areas (ASPAs), and Antarctic Specially Managed Areas (ASMAs). Synergistic methods for identifying selected variables for (life) monitoring include Essential Biodiversity Variables (EBVs), Essential Ocean Variables (EOVs), Essential Climate Variables (ECVs), and ecosystem Essential Ocean Variables (eEOVs). EBVs, which could be integrated into SOOS and SOOSmap, but also global systems, bridge the gap between primary observations and biodiversity indicators by measuring the status of key indicators and their trends.
+Южный океан – уникальный регион, в некоторых областях которого происходят быстрые изменения, но в основном он остается относительно незатронутым человеческой деятельностью. В то же время его экосистемы находятся под серьезной угрозой из-за изменения климата и других стрессовых факторов. Хотя наше понимание биологических процессов в Южном регионе (например, распределения видов, экологии питания, размножения) значительно улучшилось за последние годы (CAML), биологические данные по региону остаются разрозненными, скудными и нестандартизированными в зависимости от таксономической группы. Из-за нехватки стандартизированных наблюдений и данных трудно моделировать и прогнозировать реакцию морских экосистем Антарктики на изменение климата, которое часто происходит в сочетании с возрастающей антропогенной нагрузкой, такой как рыболовство и туризм. Стандартизированные наблюдения и данные необходимы для экосистемно-ориентированного управления в Антарктике, включая создание охраняемых территорий (таких как Морские охраняемые природные акватории (MPAs), Антарктические особо охраняемые природные территории (ASPAs) и Особо управляемые районы Антарктики (ASMAs)).
+Синергетические методы определения отдельных переменных для мониторинга (в реальном времени) включают основные переменные биоразнообразия (EBVs), основные переменные океана (EOVs), основные климатические переменные (ECVs) и основные переменные экосистемы (eEOVs). EBVs, которые могут быть интегрированы в SOOS и SOOSmap, а также в мировые системы, устраняют разрыв между первичными наблюдениями и показателями биоразнообразия путем измерения состояния ключевых показателей и их тенденций.
 
-## Workshop details 
+## О семинаре 
 
-Date: 10-11 August 2023 <br/>
-Time: 9am-5pm AEST <br/>
-Location: Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) Wombat Room – 181 Macquarie Street, Hobart TAS <br/>
-Convenors: Anton Van de Putte, Alyce Hancock, Ben Raymond <br/>
+Даты: 10-11 августа 2023 года<br/>
+Время: 9:00-17:00 AEST <br/>
+Место: Комиссия по сохранению морских живых ресурсов Антарктики (CCAMLR), Wombat Room – 181 Macquarie Street, Хобарт TAS <br/>
+Координаторы: Антон Ван де Пютте, Элис Хэнкок, Бен Реймонд <br/>
 
-Hybrid (remote) participation to the workshop will be facilitated.
+Предусмотрено гибридное (удаленное) участие в семинаре.
 
-## Workshop goals
+## Цели семинара
 
-- Create an inventory of Essential variables relevant for the Southern Ocean based on existing efforts by GEO-BON and MBON.
-- Identify data requirements and data gaps for calculating such EVs
-- Prioritize EVs to work on
-- Identify existing workflows and tools
-- Develop a framework for developing the workflows required to turn public SO biodiversity data into relevant essential variables.
+- Создать перечень основных переменных, актуальных для Южного океана, на основе существующих усилий GEO-BON и MBON.
+- Определить требования к данным и пробелы в данных для расчета таких переменных.
+- Определить приоритетность переменных для работы с ними.
+- Выявить существующие рабочие процессы и инструменты.
+- Разработать структуру для создания рабочих процессов, необходимых для преобразования свободно доступных данных о биоразнообразии Южного океана в соответствующие основные переменные.
 
-## How to participate
+## Как присоединиться
 
-If you would like to join the workshop please contact Anton Van de Putte, avandeputte@naturalsciences.be
+Если вы хотите принять участие в семинаре, пожалуйста, свяжитесь с Антоном Ван де Пютте, avandeputte@naturalsciences.be
