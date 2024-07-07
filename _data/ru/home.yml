@@ -18,7 +18,7 @@ stats:
 
 dataUse:
   title: Использование данных
-  description: Три недавние случая использования данных о биоразнообразии, которые повлияли на Антарктику.
+  description: Три недавних случая использования данных о биоразнообразии, повлиявших на Антарктику.
   useSiteLinkWhenPossible: false # requires a resourceKey page to be added on resource/[key] to work
   filters:
     contentType:
