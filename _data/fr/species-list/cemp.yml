@@ -39,7 +39,7 @@ gentoo-penguin:
 macaroni-penguin:
   reverse: true
   title: Gorfou doré (Eudyptes chrysolophus)
-  description: Les gorfous sauteurs appartiennent aux manchots à crête, le plus grand genre des Spheniciformes comprenant sept autres espèces d'Eudyptes - le gorfou de l'Est Eudyptes filholi, le gorfou des îles du Nord Eudyptes moseleyi, le gorfou doré Eudyptes chrysolophus, le gorfou royal Eudyptes schlegeli, le gorfou des fjords Eudyptes pachyrhynchus, le gorfou des Snares Eudyptes robustus et le gorfou huppé Eudyptes sclateri. Fournie par [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
+  description: Les gorfous sauteurs appartiennent aux manchots à crête, le plus grand genre des Spheniciformes comprenant sept espèces d'Eudyptes - le gorfou de l'Est Eudyptes filholi, le gorfou des îles du Nord Eudyptes moseleyi, le gorfou doré Eudyptes chrysolophus, le gorfou royal Eudyptes schlegeli, le gorfou des fjords Eudyptes pachyrhynchus, le gorfou des Snares Eudyptes robustus et le gorfou huppé Eudyptes sclateri. Fournie par [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/macaroni-penguin.jpg
   imageLicense: |
     *Eudyptes chrysolophus* - Gorfous sauteurs en groupe par Laurent Demongin sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)

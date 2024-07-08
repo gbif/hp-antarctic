@@ -39,7 +39,7 @@ gentoo-penguin:
 macaroni-penguin:
   reverse: true
   title: Macaroni penguin (Eudyptes chrysolophus)
-  description: Southern rockhopper penguins belong to the crested penguins, the largest genus of the Spheniciforms including seven other species of Eudyptes - eastern rockhopper penguin Eudyptes filholi, northern rockhopper penguin Eudyptes moseleyi, macaroni penguin Eudyptes chrysolophus, royal penguin Eudyptes schlegeli, Fiordland penguin Eudyptes pachyrhynchus, Snares penguin Eudyptes robustus and erect-crested penguin Eudyptes sclateri. Pprovided by [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
+  description: Southern rockhopper penguins belong to the crested penguins, the largest genus of the Spheniciforms including seven species of Eudyptes - eastern rockhopper penguin Eudyptes filholi, northern rockhopper penguin Eudyptes moseleyi, macaroni penguin Eudyptes chrysolophus, royal penguin Eudyptes schlegeli, Fiordland penguin Eudyptes pachyrhynchus, Snares penguin Eudyptes robustus and erect-crested penguin Eudyptes sclateri. Pprovided by [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/macaroni-penguin.jpg
   imageLicense: |
     *Eudyptes chrysolophus* - Southern rockhopper penguins in group by Laurent Demongin licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
