@@ -25,19 +25,19 @@ imageLicense: |
 
 [GBIF](https://www.gbif.org/ru/what-is-gbif) - Глобальный информационный фонд биоразнообразия - был создан в 2001 году как добровольное сотрудничество между правительствами с целью предоставления любому человеку и в любом месте бесплатного и открытого доступа к данным обо всех видах жизни на Земле. Сеть стран и организаций, входящих в него, опирается на набор общих стандартов и инструментов с открытым исходным кодом, которые позволяют им объединять информацию из самых разных источников - образцы из музеев и гербариев, штрих-коды эДНК, результаты опросов и полевых исследований, записи волонтеров гражданской науки и проч.
 
-The history of collaboration between OBIS and GBIF extends to the adoption and refinement of common tools, such as GBIF’s [Integrated Publishing Toolkit](https://www.gbif.org/ipt), and the use of interoperable standards like [Darwin Core](https://dwc.tdwg.org/). More recently, the two networks have worked together to incorporate new streams of eDNA-based data, prompting the addition of [new co-authored guidance](https://www.gbif.org/news/2VXK7tpe7wM9J9lghWmxQh/) on how to publish DNA-derived data on marine life to their platforms.
+История сотрудничества между OBIS и GBIF включает в себя внедрение и совершенствование общих инструментов, таких как [Интегрированный набор инструментов для публикации GBIF](https://www.gbif.org/ru/ipt), и использование совместимых стандартов, таких как Darwin Core. Совсем недавно обе сети совместно работали над включением новых потоков данных на основе эДНК, что привело к добавлению на их платформы нового, [написанного в соавторстве руководства](https://www.gbif.org/ru/news/2VXK7tpe7wM9J9lghWmxQh/) по публикации данных о морских обитателях, полученных с помощью ДНК.
 
-> “By creating more frequent and consistent opportunities for GBIF nodes to work with OBIS nodes on marine and coastal biodiversity data, our network staff will be better prepared to support the specific needs and requirements of marine research,” said [Joe Miller](https://orcid.org/0000-0002-5788-9010), GBIF executive secretary. “Having OBIS share their knowledge and expertise will help us do our part to improve the quality of research-ready and policy-relevant information about the marine realm.”
+> "Благодаря более частым и последовательным возможностям для совместной работы ячеек GBIF и OBIS над данными о морском и прибрежном биоразнообразии, сотрудники нашей сети будут лучше подготовлены к поддержке конкретных потребностей морских исследований, - сказал [Джо Миллер] (https://orcid.org/0000-0002-5788-9010), исполнительный секретарь GBIF. – Опыт и знания OBIS помогут нам внести свой вклад в повышение качества информации, готовой для исследований и актуальной для научной политики".
 
-With the strategy guiding the collaboration, GBIF and OBIS will update the action plan annually through a joint implementation committee made up of staff from both networks’ nodes and the Secretariats. This committee will address technical and community components of the annual plans and make recommendations on the activities they outline. The partners will also explore the potential for organizing combined conferences and meetings to foster closer collaboration and host symposia and training workshops.
+Согласно стратегии сотрудничества, GBIF и OBIS будут ежегодно обновлять план действий через совместный комитет по реализации, состоящий из сотрудников ячеек обеих сетей и секретариатов. Этот комитет призван изучить техническую и общественную составляющие ежегодных планов и давать рекомендации по намеченным в них мероприятиям. Партнеры также рассмотрят возможность организации совместных конференций и встреч для содействия более тесному сотрудничеству и проведения симпозиумов и обучающих семинаров.
 
-Those interested in learning more about the strategy and action plan, what it means and how they can get involved can register to attend one of two joint webinars:
+Желающие узнать больше о стратегии и плане действий, а также о том, как в них поучаствовать, могут зарегистрироваться на один из совместных вебинаров:
 
-- for Asia, Africa and Europe \
-  **13 June 2024** @ 07:00 UTC \
-    [Register for webinar #1](https://us02web.zoom.us/webinar/register/WN_MGK5uCxcRG2dyHoOeul8iQ)
+- для Азии, Африки и Европы \
+  **13 июня 2024 г.** @ 07:00 UTC \
+    [Регистрация на вебинар #1](https://us02web.zoom.us/webinar/register/WN_MGK5uCxcRG2dyHoOeul8iQ)
 
-- for the Americas \
-    **13 June 2024** @ 21:00 UTC \
-    [Register for webinar #2](https://us02web.zoom.us/webinar/register/WN_JAyHic4xS1yx-TKYHsfVMg)
+- для Северной и Южной Америк \
+  **13 июня 2024** @ 21:00 UTC \
+  [Регистрация на вебинар #2](https://us02web.zoom.us/webinar/register/WN_JAyHic4xS1yx-TKYHsfVMg)
 
