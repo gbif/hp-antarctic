@@ -1,6 +1,6 @@
 ---
 lang-ref: arthropoda-other-than-crustacea
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения членистоногих (отличных от ракообразных)
 background: /assets/images/identification-key/id-keys_04_arthropoda.png
