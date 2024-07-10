@@ -1,6 +1,6 @@
 ---
 lang-ref: mollusca
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения моллюсков
 background: /assets/images/identification-key/id-keys_09_mollusca.png
