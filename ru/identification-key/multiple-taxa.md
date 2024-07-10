@@ -1,6 +1,6 @@
 ---
 lang-ref: multiple-taxa
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения различных таксонов
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
