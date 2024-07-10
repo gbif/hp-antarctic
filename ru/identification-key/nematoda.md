@@ -1,6 +1,6 @@
 ---
 lang-ref: nematoda
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения нематод
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
