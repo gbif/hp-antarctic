@@ -1,6 +1,6 @@
 ---
 lang-ref: chordata
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения хордовых
 background: /assets/images/identification-key/id-keys_06_chordata.png
