@@ -15,7 +15,7 @@ imageLicense: |
 
 Цель данного семинара - показать ученым, как эффективнее структурировать и управлять своими биологическими данными в соответствии с международными стандартными форматами данных о биоразнообразии, что позволит сэкономить драгоценное время на подготовку данных для анализа или архивирования онлайн.
 
-Семинар организован Порталом SCAR по биоразнообразию Антарктики в рамках [тематической коллекции "Биоразнообразие Антарктики и Южного океана"] (https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) журнала Pensoft "Biodiversity Data Journal".
+Семинар организован Порталом SCAR по биоразнообразию Антарктики в рамках [тематической коллекции "Биоразнообразие Антарктики и Южного океана"](https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) журнала Pensoft "Biodiversity Data Journal".
 **Понедельник, 8 августа 2022 года, 13:00-14:30 UTC**
 
 Зарегестрируйтесь заранее по адресу:
