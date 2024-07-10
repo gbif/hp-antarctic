@@ -1,6 +1,6 @@
 ---
 lang-ref: echinodermata
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения иглокожих
 background: /assets/images/identification-key/id-keys_08_echinodermata.png
