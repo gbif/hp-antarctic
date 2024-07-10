@@ -1,6 +1,6 @@
 ---
 lang-ref: annelida-and-sipuncula
-lang: fr
+lang: ru
 layout: post
 title: Ключи для определения кольчатых червей и сипункулид
 background: /assets/images/identification-key/id-keys_02_annelida-sipuncula.png
