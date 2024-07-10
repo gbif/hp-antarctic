@@ -10,22 +10,23 @@ imageLicense: |
   Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-The SCAR Antarctic Biodiversity Portal in collaboration with Pensoft is happy to announce a dedicated topical collection of the [Pensoft "Biodiversity Data Journal"](https://bdj.pensoft.net/).
+Портал SCAR по биоразнообразию Антарктики в сотрудничестве с компанией Pensoft рад объявить о выпуске специальной тематической коллекции [Pensoft "Biodiversity Data Journal"](https://bdj.pensoft.net/).
 
-The topical collection ["Antarctic and Southern Ocean biodiversity"](https://bdj.pensoft.net/topical_collection/143/) aims to celebrate the wide biodiversity of the Antarctic and Sub Antarctic region in the terrestrial and marine realms. The (sub)Antarctic and the Southern Ocean are hosts to unique biodiversity. Due to the remoteness and harsh environment, this biodiversity often remains poorly described despite similar threats as the rest of the globe.
+Тематическая коллекция ["Биоразнообразие Антарктики и Южного океана"] (https://bdj.pensoft.net/topical_collection/143/) призвана осветить широкое биоразнообразие Антарктики и субантарктического региона в наземной и морской средах. Антарктика и Южный океан отличаются уникальным биоразнообразием. Из-за удаленности и суровости климата это биоразнообразие часто остается малоописанным, несмотря на то, что подвержен тем же рискам, что и остальные части земного шара.
 
-The SCAR Antarctic Biodiversity Portal is a community effort that supports the publication of Biodiversity data in accordance with the FAIR principles (Findable, Accessible, Interoperable, Reusable) and the provisions of the Antarctic Treaty System (scientific observations and results from Antarctica shall be exchanged and made freely available).
+Портал SCAR по биоразнообразию Антарктики  - это работа сообщества, которое поддерживает публикацию данных о биоразнообразии в соответствии с принципами FAIR (Findable, Accessible, Interoperable, Reusable) и положениями Договора об Антарктике (научные наблюдения и результаты из Антарктики должны обмениваться и быть свободно доступными).
 
-Data papers submitted in this special issue should describe datasets that include biological observation of the Antarctic continent, Sub Antarctic island and in the Southern Ocean using the [TDWG Darwin Core standard](https://dwc.tdwg.org/). There is no restriction on the type of primary biodiversity data. Providing information on sampling sites and additional relevant measures are encouraged. Data submitted will have to be published to [Ocean Biodiversity Information System - OBIS](http://www.obis.org/) and/or the [Global Biodiversity Information Facility - GBIF](http://www.gbif.org/) as part of the manuscript publication process.
+Документы, представленные в этом специальном выпуске, должны содержать описание наборов данных, включающих биологические наблюдения на Антарктиде, субантарктических островах и в Южном океане с использованием [стандарта TDWG Darwin Core](https://dwc.tdwg.org/). Ограничений по типу первичных данных о биоразнообразии нет. Приветствуется в процессе публикации рукописи предоставление информации о местах отбора проб и сопутствующих измерениях. Представленные данные должны быть опубликованы в [Информационной системе по биоразнообразию океана - OBIS](http://www.obis.org/) и/или в [Глобальном информационном фонде по биоразнообразию - GBIF](http://www.gbif.org/ru).
 
-The SCAR Antarctic Biodiversity portal will provide tutoring through webinars and workshops on how to prepare the data in line with the Darwin Core standard and how to prepare the data paper in the Pensoft system. If required the SCAR Antarctic Biodiversity portal can actively support the publication of the dataset to OBIS and GBIF. To assess the support you may need please fill out this [Expression of Interest](https://forms.gle/zddVfPt3Bj7sZ4ya7).
+Портал SCAR по биоразнообразию Антарктики обеспечит обучение в рамках вебинаров и семинаров по подготовке данных в соответствии со стандартом Darwin Core и оформлению документов в системе Pensoft. При необходимости Портал может оказать активную поддержку в публикации набора данных в OBIS и GBIF. Чтобы правильно оценить необходимую вам поддержку, пожалуйста, заполните анкету [Выражение заинтересованности] (https://forms.gle/zddVfPt3Bj7sZ4ya7).
 
-The [Biodiversity Data Journal (BDJ)](https://bdj.pensoft.net/) is a community peer-reviewed, open-access journal, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. The Journal has Article Processing Charges (APCs) of 650 € but the charges can be waived for up to 10 papers. 
-If you would like to have these costs waived please indicate so in your [expression of interest](https://forms.gle/zddVfPt3Bj7sZ4ya7). Please submit your expression of interest by the end of April 2022 . These will be reviewed by the guest editors in May and we will contact you prior to the SCAR OSC. If funding is available after that then further applications  will be reviewed on a case by case basis.
+Журнал [Biodiversity Data Journal (BDJ)] (https://bdj.pensoft.net/) - это общественный рецензируемый журнал с открытым доступом, предназначенный для ускорения публикации, распространения и обмена данными о биоразнообразии любого типа. Плата за обработку статей (APCs) составляет 650 евро, но она может быть отменена при публикации менее 10 статей. 
 
-Guest editors
-Anton Van de Putte, Justine Shaw, Heather Lynch, Huw Griffiths
+Если вы хотите отказаться от этих расходов, пожалуйста, укажите это в своем [Выражении заинтересованности] (https://forms.gle/zddVfPt3Bj7sZ4ya7). Просьба присылать заявки до конца апреля 2022 года. Они будут рассмотрены приглашенными редакторами в мае, и мы свяжемся с вами до начала SCAR OSC. Если финансирование будет доступно после этого, то дальнейшие заявки будут рассматриваться в индивидуальном порядке.
 
-In case of questions you may contact Yi Ming Gan from the SCAR Antarctic Biodiversity Portal or Huw Griffiths <hjg (a) bas.ac.uk> from the British Antarctic Survey
+Приглашенные редакторы:
+Антон Ван де Пютте, Жюстин Шоу, Хезер Линч, Хью Гриффиц
+
+По всем вопросам обращайтесь к Йи-Минг Ган из Портала SCAR по биоразнообразию Антарктики или к Хью Гриффиц <hjg (a) bas.ac.uk> из Британской антарктической службы.
 
 
