@@ -1,5 +1,5 @@
 ---
-lang-ref: macroalgae.md
+lang-ref: macroalgae
 lang: ru
 layout: post
 title: Ключи для определения макроводорослей
