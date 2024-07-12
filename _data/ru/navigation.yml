@@ -26,9 +26,9 @@
     href: https://scar.github.io/ropensci/task_view/
 - text: Помощь
   menu: # Dropdown menu (one level deep only)
-  - text: FAQ
+  - text: Частые вопросы
     href: /ru/faq
-  - text: Helpdesk
+  - text: Поддержка
     href: mailto:data-biodiversity-aq@naturalsciences.be
   - text: GBIF
     href: https://www.gbif.org/ru

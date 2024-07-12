@@ -1,6 +1,6 @@
 ---
 lang-ref: bryophyta-and-lichens
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения мхов и лишайников
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png

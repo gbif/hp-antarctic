@@ -1,6 +1,6 @@
 ---
 lang-ref: cnidaria
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения стрекающих
 background: /assets/images/identification-key/id-keys_07_cnidaria.png

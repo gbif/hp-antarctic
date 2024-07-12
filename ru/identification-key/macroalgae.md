@@ -1,6 +1,6 @@
 ---
 lang-ref: макроводоросли
-lang: en
+lang: ru
 layout: post
 title: Ключи для определения макроводорослей
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
