@@ -5,7 +5,7 @@ preTitle: 17 ноября 2020 г.
 title: "Серия вебинаров: Путь данных о биоразнообразии от сбора до исследования"
 description: "Серия вебинаров с 3 по 6 ноября 2020 года"
 date: 2020-11-17
-categories: ["вебинар"]
+categories: ["новости", "мероприятие"]
 background: /assets/images/posts/2020-11-17_webinar-biodiversity-data_AVdP_SCAR_0201_TvSxEb7.jpg
 imageLicense: |
   Полевые исследования в Южном океане. Фото Антона Ван де Пютте с лицензией [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
