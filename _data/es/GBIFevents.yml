@@ -1,0 +1,6 @@
+title: Events from GBIF.org
+description: This shows the three most recent event items from GBIF.org. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=event)
+filters:
+  contentType:
+    - EVENT
+  limit: 3  # default is 6
