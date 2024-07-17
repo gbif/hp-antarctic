@@ -1,0 +1,48 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description: |
+      <a href="https://www.gbif.org/participant/306">
+        <img alt="GBIF node logo" src="/assets/images/logo/gbif-node-green-logo.png" width="100" />
+      </a>
+
+  - name: Partners
+    description: | 
+      [<img src="/assets/images/logo/rbins.png" width="120" height="60">](https://www.naturalsciences.be/)<br/><br/>
+      [<img src="/assets/images/logo/bbpf.png" width="120" height="60">](https://www.biodiversity.be/)<br/><br/>
+      [<img src="/assets/images/logo/worms.png" width="120" height="60">](https://www.marinespecies.org/)<br/><br/>
+      [<img src="/assets/images/logo/gbif-standard-green.svg" width="120" height="60">](https://www.gbif.org/)<br/><br/>
+      [<img src="/assets/images/logo/obis.svg" width="120" height="60">](https://obis.org/)<br/><br/>
+      [<img src="/assets/images/logo/scar.png" width="120" height="60">](https://scar.org/)<br/><br/>
+
+  - name: Code
+    description: This project is open source and available on [GitHub](https://github.com/gbif/hp-antarctic). You are welcome to create a GitHub issue for any bug reporting and suggestion for improvement.
+
+  - name: About
+    links:
+      - text: Contact
+        href: /contact
+    connectIcons: true
+  
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+
+other: |
+  [Privacy policy](/privacy)
+  
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+# Will be postfixed by "Powered by GBIF"
+# (Disabled by default, remove the '#' lines on the following two lines to enable.)
+#license: >
+#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).

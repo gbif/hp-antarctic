@@ -1,0 +1,54 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: News
+  href: /news/?category=news
+- text: Find Data
+  menu: # Dropdown menu (one level deep only)
+  - text: Occurrences
+    href: /occurrence/search
+  - text: Literature
+    href: /literature/search
+  - text: External databases
+    href: /external-db
+- text: Resources
+  menu:
+  - text: Identification keys
+    href: /identification-key
+  - text: CCAMLR ecosystem monitoring program (CEMP) indicator species
+    href: /species-list/cemp
+  - text: Biogeographic Atlas of the Southern Ocean
+    href: https://github.com/biodiversity-aq/BASO/
+- text: Tools
+  menu: # Dropdown menu (one level deep only)
+  - text: Online tools
+    href: /tools
+  - text: rOpenSci
+    href: https://scar.github.io/ropensci/task_view/
+- text: Help
+  menu: # Dropdown menu (one level deep only)
+  - text: FAQ
+    href: /faq
+  - text: Helpdesk
+    href: mailto:data-biodiversity-aq@naturalsciences.be
+  - text: GBIF
+    href: https://www.gbif.org/
+  - text: Darwin Core
+    href: https://dwc.tdwg.org/
+- text: About
+  menu:
+  - text: About us
+    href: /about
+  - text: Acknowledgement
+    href: /acknowledgement
+# - text: More
+#   menu: # Dropdown menu (one level deep only)
+#   - text: Base theme demo
+#     href: https://hp-base-theme.gbif-staging.org/
+#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#   - text: "Docs" # Title for block of menu items
+#   - text: Jekyll documentation
+#     href: https://jekyllrb.com/docs/pages/
+#   - text: Markdown tutorial
+#     href: https://guides.github.com/features/mastering-markdown/
+#   - text: YAML tutorial
+#     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
