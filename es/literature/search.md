@@ -1,6 +1,6 @@
 ---
 lang-ref: literature-search
-lang: en
+lang: es
 title: Literature
 description: We publish open data
 layout: literature
