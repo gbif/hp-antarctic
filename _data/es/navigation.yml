@@ -1,54 +1,54 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
+# Los enlaces listados a continuación se incluirán en el menú de navegación de tu sitio (navegación en la parte superior)
 
-- text: News
-  href: /news/?category=news
-- text: Find Data
-  menu: # Dropdown menu (one level deep only)
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Literature
-    href: /literature/search
-  - text: External databases
-    href: /external-db
-- text: Resources
+- text: Noticias
+  href: /es/news/?category=news
+- text: Buscar datos
+  menu: # Menú desplegable (solo un nivel de profundidad)
+  - text: Ocurrencias
+    href: /es/occurrence/search
+  - text: Literatura
+    href: /es/literature/search
+  - text: Bases de datos externas
+    href: /es/external-db
+- text: Recursos
   menu:
-  - text: Identification keys
-    href: /identification-key
-  - text: CCAMLR ecosystem monitoring program (CEMP) indicator species
-    href: /species-list/cemp
-  - text: Biogeographic Atlas of the Southern Ocean
+  - text: Claves de identificación
+    href: /es/identification-key
+  - text: Especies indicadoras del programa de monitoreo de ecosistemas (CEMP) del CCAMLR
+    href: /es/species-list/cemp
+  - text: Atlas biogeográfico del océano Austral
     href: https://github.com/biodiversity-aq/BASO/
-- text: Tools
-  menu: # Dropdown menu (one level deep only)
-  - text: Online tools
-    href: /tools
+- text: Herramientas
+  menu: # Menú desplegable (solo un nivel de profundidad)
+  - text: Herramientas en línea
+    href: /es/tools
   - text: rOpenSci
     href: https://scar.github.io/ropensci/task_view/
-- text: Help
-  menu: # Dropdown menu (one level deep only)
+- text: Ayuda
+  menu: # Menú desplegable (solo un nivel de profundidad)
   - text: FAQ
-    href: /faq
-  - text: Helpdesk
+    href: /es/faq
+  - text: Mesa de ayuda
     href: mailto:data-biodiversity-aq@naturalsciences.be
   - text: GBIF
     href: https://www.gbif.org/
   - text: Darwin Core
     href: https://dwc.tdwg.org/
-- text: About
+- text: Acerca de
   menu:
-  - text: About us
-    href: /about
-  - text: Acknowledgement
-    href: /acknowledgement
-# - text: More
-#   menu: # Dropdown menu (one level deep only)
-#   - text: Base theme demo
+  - text: Acerca de nosotros
+    href: /es/about
+  - text: Agradecimientos
+    href: /es/acknowledgement
+# - text: Más
+#   menu: # Menú desplegable (solo un nivel de profundidad)
+#   - text: Demostración del tema principal
 #     href: https://hp-base-theme.gbif-staging.org/
-#   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-#   - text: "Docs" # Title for block of menu items
-#   - text: Jekyll documentation
+#   - text: "---" # Divisor para separar bloques de elementos del menú (al menos 3 "-")
+#   - text: "Documentos" # Título para el bloque de elementos del menú
+#   - text: Documentación de Jekyll
 #     href: https://jekyllrb.com/docs/pages/
-#   - text: Markdown tutorial
+#   - text: Tutorial de Markdown
 #     href: https://guides.github.com/features/mastering-markdown/
-#   - text: YAML tutorial
+#   - text: Tutorial de YAML
 #     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
