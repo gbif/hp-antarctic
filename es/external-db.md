@@ -1,15 +1,15 @@
 ---
 lang-ref: external-db
-lang: en
-title: External databases
+lang: es
+title: Bases de datos externas
 layout: compose
 klass: compositionBlocks
-description: External databases related to Antarctic and Southern Ocean biodiversity
+description: Bases de datos externas relacionadas con la biodiversidad de la Antártida y el Océano Austral
 composition:
 - type: media
   data: external-db
 ---
 
 {% comment %}
-A separate page is made for external databases to distinguish what our portal is linking out and what we are hosting
+Se crea una página separada para bases de datos externas con el objetivo de distinguir lo que nuestro portal vincula y lo que estamos alojando.
 {% endcomment %}
