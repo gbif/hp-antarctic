@@ -4,7 +4,7 @@
   href: /es/news/?category=news
 - text: Buscar datos
   menu: # Menú desplegable (solo un nivel de profundidad)
-  - text: Ocurrencias
+  - text: Registros biológicos
     href: /es/occurrence/search
   - text: Literatura
     href: /es/literature/search
