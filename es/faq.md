@@ -1,60 +1,51 @@
 ---
 lang-ref: FAQ
+lang: es
 permalink: /faq
-title: Frequently Asked Questions
-description: A list of frequently asked questions and answers related to SCAR Antarctic Biodiversity Portal
+title: Preguntas frecuentes
+description: Una lista de preguntas y respuestas frecuentes relacionadas con el Portal de Biodiversidad Antártica del SCAR
 background: /assets/images/faq_3446790392.jpeg
 imageLicense: |
   [*Leptonychotes weddellii* (Lesson, 1826)](/occurrence/search/?entity=3446790392)
 ---
 
-### Which data can be shared through SCAR Antarctic Biodiversity Portal?
+### ¿Qué datos se pueden compartir a través del Portal de Biodiversidad Antártica del SCAR?
 
-> We can assist and support publication of biodiversity from Antarctica, sub Antarctic island(s) and in the Southern Ocean to [GBIF](https://www.gbif.org/) and [OBIS](https://www/obis.org/). This includes dataset descriptions, organism occurrences, species checklists, DNA-derived occurrences and sampling events. 
-> Please have a look at this [blog post](https://data-blog.gbif.org/post/data-shareability/) for more details.
-> If you have other data types, but you are not sure where and how to make it available,
-> please [email us](mailto:data-biodiversity-aq@naturalsciences.be) so that we can direct you to people who may be able to
-> help you.
+> Podemos asistir y apoyar la publicación de la biodiversidad de la Antártica, las islas subantárticas y el Océano Austral para [GBIF](https://www.gbif.org/) y [OBIS](https://www/obis.org/). Esto incluye la descripción de conjuntos de datos, registros biológicos, listas de especies, registros derivados del ADN y eventos de muestreo.
+> Por favor, revise esta [entrada de blog](https://data-blog.gbif.org/post/data-shareability/) para más información.
+> Si tiene otro tipo de datos, pero no está seguro de cómo y dónde publicarlo, por favor escríbanos un [correo electrónico](mailto:data-biodiversity-aq@naturalsciences.be) para ponerlo en contacto con personas que puedan ayudarlo.
 
-### Which data standard is used to share biodiversity data?
+### ¿Cuál estándar se utiliza para compartir datos sobre biodiversidad?
 
-> We use the [Darwin Core (DwC) standard](https://dwc.tdwg.org/) and associated extensions to publish biodiversity data
-> and associated data (e.g. links to media, sequences). If you would like to publish your biodiversity data with us but
-> unsure how to map your data to Darwin Core and its extensions, please contact
-> our [helpdesk](mailto:data-biodiversity-aq@naturalsciences.be).
+> Usamos el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/) y las extensiones asociadas para publicar datos de biodiversidad y demás datos relacionados (por ejemplo, enlaces a imágenes, sequencias, entre otros). Si desea publicar sus datos de biodiversidad con nosotros, pero no está seguro de cómo mapear sus datos en Darwin Core y sus extensiones, comuníquese con nuestra [mesa de ayuda](mailto:data-biodiversity-aq@naturalsciences.be).
 
-### What is the scope of this portal?
+### ¿Cuál es el alcance de este portal?
 
-> The [occurrence records](/occurrence/search) in this portal are all occurrences in GBIF **within**
-> the [MEASO polygon](https://github.com/gbif/hp-antarctic/blob/eea6740b87e477305107cf702055e01a0b4691d8/_includes/js/config.js#L32).
+> Los [registros biológicos](/occurrence/search) en este portal están todos consignados en GBIF **dentro** del [polígono MEASO](https://github.com/gbif/hp-antarctic/blob/eea6740b87e477305107cf702055e01a0b4691d8/_includes/js/config.js#L32).
 
-### What is the criteria for a dataset to be added to [SCAR network](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89)?
+### ¿Cuáles son los criterios para agregar un conjunto de datos a la [red del SCAR](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89)?
 
-> Dataset that includes biological observations of the Antarctic continent, sub Antarctic island(s) and in the Southern
-> Ocean are encouraged to be added to the [SCAR network](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89). 
-> There is no restriction on the type of primary biodiversity data.
+> Los conjuntos de datos que incluyen observaciones biológicas del continente antártico, las islas subantárticas y el Océano Austral son bienvenidos para agregarse a la [red del SCAR](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89). 
+> No hay restricciones sobre el tipo de datos primarios sobre biodiversidad.
 
-### What is the criteria for a dataset to be added to [OBIS network](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)?
+### ¿Cuáles son los criterios para agregar un conjunto de datos a la [red de OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6)?
 
-> Dataset that includes biological observations of the Southern Ocean are encouraged to be added to the [OBIS network](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). 
-> There is no restriction on the type of primary biodiversity data.
->Data must adhere to guidelines to contribute to OBIS, for more details see the [OBIS manual](https://manual.obis.org/).
+> Los conjuntos de datos que incluyen observaciones biológicas del Océano Austral son bienvenidos para agregarse a la [red de OBIS](https://www.gbif.org/network/2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6). 
+> No hay restricciones sobre el tipo de datos primarios sobre biodiversidad.
+> Los datos deben cumplir con los requisitos para contribuir a OBIS. Para mayor información, consultar el [manual de OBIS](https://manual.obis.org/).
  
-### What is the taxonomic backbone of the taxa in this portal?
+### ¿Cuál es base taxonómica de los taxones de este portal?
 
-> Since all occurrence records comes from [GBIF](https://www.gbif.org/), the scientific names and taxonomy are according
-> to [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei).
-> Where possible we encourage the use of the register of Antarctic species [RAS](https://ras.biodiversity.aq) and the register of Antarctic Marine Species [RAMS](https://www.marinespecies.org/rams/) for validating sceintific names and taxonomy.
+> Dado que todos los registros biológicos provienen de [GBIF](https://www.gbif.org/), los nombres científicos y la taxonomía corresponden a la [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei).
+> Siempre que sea posible, fomentamos el uso del Registro de Especies Antárticas [RAS](https://ras.biodiversity.aq) y el Registro de Especies Marinas Antárticas [RAMS](https://www.marinespecies.org/rams/) para validar nombres científicos y taxonomía.
 
-### Can I access the data of this portal programmatically?
+### ¿Puedo acceder a los datos de este portal mediante programación?
 
-> Yes! All species occurrence records in this portal are from GBIF. You can access the data programmatically using its
-> API documented [here](https://techdocs.gbif.org/en/openapi/). A beginners guide is available
-> at [GBIF data blog](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
+> ¡Sí! Todos los registros de ocurrencia de especies en este portal son de GBIF. Puede acceder a los datos de manera programática utilizando su API documentada [aquí](https://techdocs.gbif.org/en/openapi/). Hay una guía para principiantes disponible en [blog de datos de GBIF](https://data-blog.gbif.org/post/gbif-api-beginners-guide/).
 
 
-### Is the SCAR Antarctic biodiversity Portal (biodiversity.aq) the same as SCAR MarBIN?
+### ¿El Portal de Biodiversidad Antártica del SCAR (biodiversity.aq) es el mismo que el SCAR MarBIN?
 
->Before biodiversity.aq, there was SCAR-MarBIN. SCAR-MarBIN had a website and a database, but they are no longer being updated. When SCAR-MarBIN was made, the GBIF portal didn't have as many options as it does now. During that time, SCAR-MarBIN was able to meet the needs of its users. It is no longer needed since GBIF has grown and added more features.
+> Antes de la creación de la biodiversidad.aq, existía SCAR-MarBIN. SCAR-MarBIN tenía un sitio web y una base de datos, pero ya no se actualizan. Cuando se creó SCAR-MarBIN, el portal de GBIF no tenía tantas opciones como ahora. Durante ese tiempo, SCAR-MarBIN pudo satisfacer las necesidades de sus usuarios. Sin embargo, ya no es necesario porque GBIF ha crecido y ha añadido más funciones.
 
 
