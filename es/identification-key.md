@@ -1,11 +1,11 @@
 ---
 lang-ref: identification-key
-lang: en
-title: Identification keys
+lang: es
+title: Claves de identificación
 layout: post
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png
 imageLicense: Image taken by Quentin Jossart licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-description: A list of identification keys and taxonomic resources for antarctic species
+description: Lista de claves de identificación y recursos taxonómicos para las especies antárticas
 ---
 
 | taxa | title | author(s) | format | open access | language |
