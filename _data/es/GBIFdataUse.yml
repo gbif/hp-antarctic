@@ -1,6 +1,6 @@
-title: Data Use
-description: Spotlighting 3 most recent data use items that impacts Antarctica and is powered by biodiversity data.
-useSiteLinkWhenPossible: false # requires a resourceKey page to be added on resource/[key] to work
+title: Uso de datos
+description: Destacamos los tres elementos de uso de datos más recientes que impactan en la Antártida y que están impulsados ​​por datos de biodiversidad.
+useSiteLinkWhenPossible: false # requiere que se agregue una página resourceKey en resource/[key] para que funcione
 filters:
   contentType:
     - DATA_USE
