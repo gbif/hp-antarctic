@@ -12,9 +12,9 @@ features:
     description: Una hoja de cálculo macro de Excel para configuración, ingreso, validación de datos y exportación de archivos DwC (Darwin Core estándar) formateados para el [Kit de Herramientas de Publicación Integrada de GBIF](https://www.gbif.org/ipt). Desarrollado por [Vidar Bakken](https://orcid.org/0000-0002-4792-2059) de [GBIF Noruega](https://www.gbif.no/).
     background: /assets/images/tools/excel-to-dwc-macro.png
   - preTitle: Online tool
-    title: Crosstab to list converter
+    title: Convertidor de tabla cruzada a lista
     href: https://gbif-norway.github.io/crosstab2list/
-    description: Often biodiversity data is in input in crosstab format when in the field. In order to publish this data, you will need to convert it into a flattened list. This is a small tool to help you do that. Developed by [GBIF Norway](https://www.gbif.no/).
+    description: A menudo, los datos sobre biodiversidad se ingresan en formato de tabla cruzada cuando se toman en campo. Para publicar estos datos, deberá convertirlos en una lista aplanada. Esta es una pequeña herramienta que lo ayudará a hacerlo. Desarrollada por [GBIF Noruega](https://www.gbif.no/).
     background: /assets/images/tools/crosstab2list.png
   - preTitle: Herramienta en línea
     title: Generador de UUID
