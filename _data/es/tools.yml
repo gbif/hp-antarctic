@@ -1,48 +1,48 @@
-title: Tools
-description: Tools relevant for biodiversity data management. Please remember to properly cite the tool(s) whenever you use it in your work.
+title: Herramientas
+description: Herramientas relevantes para la gestión de datos sobre biodiversidad. Recuerde citar correctamente las herramientas siempre que las utilice en su trabajo.
 features:
-  - preTitle: Online tool
-    title: Darwin Core Excel template generator
+  - preTitle: Herramienta en línea
+    title: Generador de plantillas de Excel del Darwin Core
     href: https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core
-    description: A Darwin Core Excel template generator developed by the Nansen Legacy project.
+    description: Un generador de plantillas Excel de Darwin Core desarrollado por el proyecto Nansen Legacy.
     background: /assets/images/tools/dwc-excel-template-generator.png
-  - preTitle: Excel macro
-    title: Excel to Darwin Core Standard tool
+  - preTitle: Macro de Excel
+    title: Herramienta estándar de Excel a Darwin Core
     href: https://doi.org/10.5281/zenodo.6453921
-    description: A macro excel spreadsheet for setup, data entry, data validation and file export to DwC (Darwin Core Standard) files formatted for the GBIF [Integrated Publishing Toolkit](https://www.gbif.org/ipt). Developed by [Vidar Bakken](https://orcid.org/0000-0002-4792-2059) from [GBIF Norway](https://www.gbif.no/).
+    description: Una hoja de cálculo macro de Excel para configuración, ingreso, validación de datos y exportación de archivos DwC (Darwin Core estándar) formateados para el [Kit de Herramientas de Publicación Integrada de GBIF](https://www.gbif.org/ipt). Desarrollado por [Vidar Bakken](https://orcid.org/0000-0002-4792-2059) de [GBIF Noruega](https://www.gbif.no/).
     background: /assets/images/tools/excel-to-dwc-macro.png
   - preTitle: Online tool
     title: Crosstab to list converter
     href: https://gbif-norway.github.io/crosstab2list/
     description: Often biodiversity data is in input in crosstab format when in the field. In order to publish this data, you will need to convert it into a flattened list. This is a small tool to help you do that. Developed by [GBIF Norway](https://www.gbif.no/).
     background: /assets/images/tools/crosstab2list.png
-  - preTitle: Online tool
-    title: UUID generator
+  - preTitle: Herramienta en línea
+    title: Generador de UUID
     href: https://www.uuidgenerator.net/version4
-    description: Random universally unique identifier (Version 4 UUID) online generator. Useful for generating identifiers for eventID, occurrenceID, etc.
+    description: Generador en línea de Identificadores Únicos Universales Aleatorios (UUID versión 4). Útil para generar identificadores de eventID, occurrenceID, etc.
     background: /assets/images/tools/uuid.png
-  - preTitle: Online tool
-    title: MyGeodata Cloud coordinate conversion tool
+  - preTitle: Herramienta en línea
+    title: Herramienta de conversión de coordenadas de MyGeodata Cloud
     href: https://mygeodata.cloud/cs2cs/
-    description: An online coordinate conversion tool.
+    description: Una herramienta de conversión de coordenadas en línea.
     background: /assets/images/tools/cs2cs.png
-  - preTitle: Online tool
-    title: GBIF data validator
+  - preTitle: Herramienta en línea
+    title: Validador de datos de GBIF
     href: https://www.gbif.org/tools/data-validator
-    description: The GBIF data validator is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset. By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it.
+    description: El validador de datos de GBIF es un servicio que permite a cualquier persona que tenga un conjunto de datos relevante para GBIF recibir un informe sobre la corrección sintáctica y la validez del contenido de ese conjunto de datos. Al enviar un conjunto de datos al validador, es posible realizar los procedimientos de validación e interpretación que suelen asociarse con la publicación en GBIF y determinar rápidamente posibles problemas en los datos sin tener que publicarlos.
     background: /assets/images/tools/gbif-data-validator.png
-  - preTitle: Online tool
-    title: World Register of Marine Species (WoRMS) Taxon match
+  - preTitle: Herramienta en línea
+    title: Comparación de taxones del Registro Mundial de Especies Marinas (WoRMS)
     href: https://www.marinespecies.org/aphia.php?p=match
-    description: You can use the WoRMS Taxon Match Tool to automatically match your species list or taxon list with WoRMS. After matching, the tool will return your file with the AphiaID's, valid names, authorities, WoRMS classification and/or any other output you selected.
+    description: Se puede utilizar la herramienta de comparación de taxones de WoRMS para comparar automáticamente una lista de especies o taxones con WoRMS. Después de la comparación, la herramienta generará el archivo con los AphiaID, nombres válidos, autoridades, clasificación de WoRMS y/o cualquier otro resultado que haya sido seleccionado.
     background: /assets/images/tools/worms-taxon-match.png
-  - preTitle: Downloadable GIS layers
+  - preTitle: Capas SIG descargables
     title: Quantarctica
     href: https://www.marinespecies.org/aphia.php?p=match
-    description: Quantarctica is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica, and let you explore, import, visualize, and share Antarctic data. It includes community-contributed, peer-reviewed data from ten different scientific themes and a professionally-designed basemap.
+    description: Quantarctica es una colección de conjuntos de datos geográficos antárticos para investigación, educación, operaciones y gestión en la Antártida, que permite explorar, importar, visualizar y compartir datos antárticos. Incluye datos revisados ​​por pares y aportados por la comunidad sobre diez temas científicos diferentes y un mapa base diseñado por profesionales.
     background: /assets/images/tools/quantarctica.png
-  - preTitle: Online tool
-    title: Coordinate converter
+  - preTitle: Herramienta en línea
+    title: Convertidor de coordenadas
     href: https://obis.shinyapps.io/coordinates/
-    description: Coordinate converter by OBIS
+    description: Convertidor de coordenadas de OBIS.
     background: /assets/images/tools/obis-coordinate-converter.png
