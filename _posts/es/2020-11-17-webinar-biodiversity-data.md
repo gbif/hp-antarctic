@@ -8,7 +8,7 @@ date: 2020-11-17
 categories: ["webinar"]
 background: /assets/images/posts/2020-11-17_webinar-biodiversity-data_AVdP_SCAR_0201_TvSxEb7.jpg
 imageLicense: |
-  Fieldwork on the Southern Ocean by Anton Van de Putte licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+  Trabajo de campo en el Océano Austral por Anton Van de Putte bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
 El Portal de Biodiversidad Antártica del SCAR, el Comité Permanente de Administradores de Datos Antárticos y el grupo de expertos sobre Informática de la Biodiversidad Antártica del SCAR se complacen en presentar una serie de seminarios web en línea diseñados para ayudar a la comunidad científica a integrar mejor el trabajo de campo y el ciclo de investigación.
@@ -37,7 +37,7 @@ El material del curso que se usará en las sesiones estará disponible en línea
 {: .notification .is-danger } 
 Tenga en cuenta que el material del curso es del año 2020 y se considera obsoleto.
 
-### Templates
+### Plantillas
 
 Las plantillas de datos de campo están disponibles en el [repositorio de GitHub](https://github.com/biodiversity-aq/data-mgt-templates).
 
