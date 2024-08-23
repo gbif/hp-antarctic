@@ -1,9 +1,9 @@
 ---
-lang: en
+lang: es
 lang-ref: webinar-biodiversity-data
-preTitle: November 17, 2020
-title: "Webinar series: Biodiversity data from the field to research"
-description: "Webinar series from 3 - 6 November 2020"
+preTitle: Noviembre 17 de 2020
+title: "Serie de seminarios web: Datos sobre biodiversidad del campo a la investigación"
+description: "Serie de seminarios web del 3 al 6 de noviembre de 2020"
 date: 2020-11-17
 categories: ["webinar"]
 background: /assets/images/posts/2020-11-17_webinar-biodiversity-data_AVdP_SCAR_0201_TvSxEb7.jpg
@@ -11,73 +11,70 @@ imageLicense: |
   Fieldwork on the Southern Ocean by Anton Van de Putte licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-The SCAR Antarctic biodiversity portal and the SCAR Standing Committee of Antarctic Data Managers and expert group on Antarctic Biodiversity Informatics are excited to present a series of online webinars designed to help you to better integrate your biological field work and research cycle.
+El Portal de Biodiversidad Antártica del SCAR, el Comité Permanente de Administradores de Datos Antárticos y el grupo de expertos sobre Informática de la Biodiversidad Antártica del SCAR se complacen en presentar una serie de seminarios web en línea diseñados para ayudar a la comunidad científica a integrar mejor el trabajo de campo y el ciclo de investigación.
 
-Date: 3 - 6 November 2020
-Time: 09:00 UTC - 10:30 UTC and Time: 18:00 UTC - 19:30 UTC
+Fecha: Del 3 al 6 de noviembre de 2020
+Hora: 09:00 UTC - 10:30 UTC y 18:00 UTC - 19:30 UTC
 
-Registration is closed.
+La inscripción está cerrada.
 
-## Format
+## Formato
 
-A daily 45-60min online webinar about a data management topic followed by 30min Q&A session. The Webinars will run 09:00 UTC - 10:30 UTC, with a repeat session at 18:00 UTC - 19:30 UTC.
+Un seminario web diario en línea de 45 a 60 minutos sobre un tema de gestión de datos, seguido de una sesión de preguntas y respuestas de 30 minutos. Los seminarios web se realizarán de 09:00 UTC a 10:30 UTC y tendrán una sesión repetida de 18:00 UTC a 19:30 UTC.
 
-In addition to our webinars we will allow the opportunity to have face to face discussion with staff from the SCAR Antarctic Biodiversity portal to discuss specific questions on data management prior to fieldwork. These consultation session will be organised 4-6 November and 9 to 13 November, with slots for booking available between 06:00 UTC and 23:00 UTC.
+Además de nuestros seminarios web, brindaremos la oportunidad de tener una conversación cara a cara con el personal del portal de biodiversidad antártica del SCAR para analizar cuestiones específicas sobre la gestión de datos antes del trabajo de campo. Estas sesiones de consulta se organizarán del 4 al 6 de noviembre y del 9 al 13 de noviembre. Los horarios para reservar estarán disponibles entre 06:00 UTC y 23:00 UTC.
 
-There are limited timeslots, but registration detail will shared during the meeting.
+Hay cupos limitados, pero los detalles de registro se compartirán durante la reunión.
 
-## Description
+## Descripción
 
-This workshop aims to train scientists on how to structure and manage their biological data more effectively and conform internationally used biodiversity data standard formats, saving precious time in preparing data for analysis or online archiving. The workshop is organized in a number of short webinars that follow a typical research cycle. Each session will cover best practices and practical tips that the trainees can directly implement in their work. We will focus on biodiversity data, but will also cover other data types commonly found in ecology, such as environmental measurements or climatic data.
+Este taller tiene como objetivo capacitar a los científicos sobre cómo estructurar y gestionar sus datos biológicos de manera más eficaz y cumplir con los estándares de datos sobre biodiversidad utilizados a nivel internacional, ahorrando un tiempo valioso en la preparación de datos para su análisis o archivo en línea. El taller está organizado en una serie de seminarios web cortos que siguen un ciclo de investigación típico. Cada sesión cubrirá las mejores prácticas y consejos prácticos que los participantes pueden implementar directamente en su trabajo. Nos centraremos en los datos de biodiversidad, pero también cubriremos otros tipos de datos que se encuentran comúnmente en ecología, como mediciones ambientales o datos climáticos.
 
-## Course material
+## Material del curso
 
-The course material that will be covered in the sessions will be made available freely online.
+El material del curso que se usará en las sesiones estará disponible en línea de manera gratiuta.
 
 {: .notification .is-danger } 
-Please note that the course material is from year 2020 and is considered outdated.
+Tenga en cuenta que el material del curso es del año 2020 y se considera obsoleto.
 
 ### Templates
 
-Field and data templates are available at the [GitHub repository](https://github.com/biodiversity-aq/data-mgt-templates).
+Las plantillas de datos de campo están disponibles en el [repositorio de GitHub](https://github.com/biodiversity-aq/data-mgt-templates).
 
+## Sesiones
 
-## Sessions
+### 3 de noviembre de 2020: S1 Antes de salir a campo: preparación para la recolección de datos
 
-### 3 November 2020: S1 Before you go into the field: preparing how to collect data
+La primera sesión lo preparará para ir al campo a recolectar datos biológicos. Esta sesión introductoria justificará por qué es importante gestionar sus datos, por qué es importante la calidad de los datos, los principios de datos FAIR, los estándares de datos existentes y qué documentos se necesitan preparar para simplificar y estructurar la forma en que se registran los datos.
 
-The first session will prepare you to go into the field to collect biological data. This introductory session will justify why it is important to manage your data, why data quality matters, the FAIR data principles, existing data standards and what documents you need to prepare to simplify and structure the way data is recorded.
+Grabación: [https://vimeo.com/475838103](https://vimeo.com/476270315)
 
-Recording: [https://vimeo.com/475838103](https://vimeo.com/476270315)
+Diapositivas: [pdf](https://nextcloud.bebif.be/s/psR5YXWHYyAdRBe) [pptx](https://nextcloud.bebif.be/s/p87Mbcfit5D6pdg)
 
-Slides: [pdf](https://nextcloud.bebif.be/s/psR5YXWHYyAdRBe) [pptx](https://nextcloud.bebif.be/s/p87Mbcfit5D6pdg)
+### 4 de noviembre de 2020: S2 Uso de una plantillas para estructurar datos: consejos y trucos prácticos
 
-### 4 November 2020: S2 Using a template to structure data: practical tips and tricks
+El equipo de biodiversidad.aq desarrolló una plantilla de registro de datos simple y versátil con base en el estándar DarwinCore que se puede utilizar en campo. En esta sesión se demostrará en detalle cómo utilizar esta plantilla, se explicarán los motivos que la sustentan y se brindarán consejos prácticos para facilitar el proceso de archivo de datos al regresar.
 
-The biodiversity.aq team developed a simple and versatile data recording template based on the DarwinCore standard that can be taken into the field. This session will go into detail on how to use this template, explain the rationale behind it, and give practical tips that will smoothen your data archival process upon your return.
+Grabación: [https://vimeo.com/475896857](https://vimeo.com/476270315)
 
-Recording: [https://vimeo.com/475896857](https://vimeo.com/476270315)
+Diapositivas:
 
-Slides:
+- Completo: [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
+- Parte uno: [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
+- Parte dos: [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
 
-- Combined [pdf](https://nextcloud.bebif.be/s/9LadeECLpTD2N9e)
-- Part one [pptx](https://nextcloud.bebif.be/s/x4TS7MFYTxDeeqg)
-- Part two [pptx](https://nextcloud.bebif.be/s/8rqjRiMa7KR5Cib)
+### 5 de noviembre de 2020: S3 Cómo controlar la calidad de sus datos
 
-### 5 November 2020: S3 How to Quality Control your data
+Antes de trabajar en el análisis de datos o publicarlos, ya sean propios o de terceros, los datos deben someterse a un exhaustivo control de calidad (QC) para verificar que todos los puntos de datos sean correctos. Esta sesión tiene como objetivo demostrar qué pasos de control de calidad se pueden llevar a cabo para reducir los errores en los datos y cómo hacerlo. Los ejemplos incluyen la detección de imprecisiones en las coordenadas geográficas, errores en las mediciones, uso incorrecto de formatos, etc.
 
-Before working on data analysis or publishing data, whether it is your own data or data given to you, the data needs to undergo a thorough quality control (QC), to verify all data points are correct. This session aims to demonstrate what and how QC steps can be done to reduce errors in data. The examples include finding errors in geographic coordinates, errors in measurements, misuse of formats, etc etc.
+Grabación: [https://vimeo.com/476270315](https://vimeo.com/476270315)
 
-
-Recording: [https://vimeo.com/476270315](https://vimeo.com/476270315)
-
-Slides: [pdf](https://nextcloud.bebif.be/s/Xfgc59Dz6MX76j5) [pptx](https://nextcloud.bebif.be/s/Gs4KC45djYoLmxb)
+Diapositivas: [pdf](https://nextcloud.bebif.be/s/Xfgc59Dz6MX76j5) [pptx](https://nextcloud.bebif.be/s/Gs4KC45djYoLmxb)
 
 ### 6 November 2020: S4 Collecting public data: where and how to get open data
 
-Data collected in the field can be significantly enriched with open access data of previous studies, or a preliminary idea can be tested with open data before setting up expensive campaigns. This session will show where to find trustworthy biodiversity and other data, how to get it, and how to format it back into something usable for statistical analyses.
+Los datos recopilados en campo se pueden enriquecer considerablemente con datos de acceso abierto de estudios anteriores o se puede poner a prueba una idea preliminar con datos abiertos antes de poner en marcha proyectos costosos. En esta sesión se mostrará dónde encontrar datos fiables sobre biodiversidad y otros temas, cómo obtenerlos y cómo darles un formato que permita realizar análisis estadísticos.
 
+Grabación: [https://vimeo.com/476400213](https://vimeo.com/476270315)
 
-Recording: [https://vimeo.com/476400213](https://vimeo.com/476270315)
-
-Slides: [pdf](https://nextcloud.bebif.be/s/FSDpT6aWC4NT8gZ) [pptx](https://nextcloud.bebif.be/s/Zgg7KAPwxH3pwbZ)
+Diapositivas: [pdf](https://nextcloud.bebif.be/s/FSDpT6aWC4NT8gZ) [pptx](https://nextcloud.bebif.be/s/Zgg7KAPwxH3pwbZ)
