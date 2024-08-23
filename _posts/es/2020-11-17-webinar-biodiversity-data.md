@@ -2,7 +2,7 @@
 lang: es
 lang-ref: webinar-biodiversity-data
 preTitle: Noviembre 17 de 2020
-title: "Serie de seminarios web: Datos sobre biodiversidad del campo a la investigación"
+title: "Serie de seminarios web: Datos sobre biodiversidad desde campo para la investigación"
 description: "Serie de seminarios web del 3 al 6 de noviembre de 2020"
 date: 2020-11-17
 categories: ["webinar"]
