@@ -1,27 +1,26 @@
 ---
 lang-ref: so-action-plan
 lang: en
-title: "The Southern Ocean Action Plan"
-preTitle: April 12, 2022
-description: "In support of the United Nations Decade of Ocean Sceince for Sustainable Development"
+title: "El Plan de Acción para el Océano Austral"
+preTitle: Abril 12 de 2022
+description: "En apoyo del Decenio de las Naciones Unidas de las Ciencias Oceánicas para el Desarrollo Sostenible"
 date:  2022-04-12
 categories: ["news"]
 background: /assets/images/posts/2022-04-12_so-action-plan_AVdP_SCAR_0121.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 cta:
-- text: Download the action plan
+- text: Descargar el plan de acción
   href: https://doi.org/10.5281/zenodo.6412191
   isPrimary: true
 ---
 
-In 2017, the United Nations proclaimed a Decade of Ocean Science for Sustainable Development (hereafter referred to as the UN Ocean Decade) from 2021 until 2030 to support efforts to reverse the cycle of decline in ocean health. To achieve this ambitious goal, this initiative aims to gather ocean stakeholders worldwide behind a common framework that will ensure ocean science can fully support countries in creating improved conditions for sustainable development of the world’s oceans. The initiative strives to strengthen the international cooperation needed to develop the scientific research and innovative technologies that can connect ocean science with the needs of society at the global scale.
+En 2017 las Naciones Unidas proclamaron el Decenio de las Ciencias Oceánicas para el Desarrollo Sostenible (en adelante, el Decenio de las Naciones Unidas para los Océanos), desde 2021 hasta 2030, con el fin de apoyar los esfuerzos por revertir el ciclo de deterioro de la salud de los océanos. Para lograr este ambicioso objetivo, la iniciativa pretende reunir a las partes interesadas en los océanos de todo el mundo en torno a un marco común que garantice que las ciencias oceánicas puedan apoyar plenamente a los países en la creación de mejores condiciones para el desarrollo sostenible de los océanos del mundo. La iniciativa intenta fortalecer la cooperación internacional necesaria para desarrollar la investigación científica y las tecnologías innovadoras que puedan conectar las ciencias oceánicas con las necesidades de la sociedad a escala mundial.
 
-Based on the recommendations in the Implementation Plan of the United Nations Decade of Ocean Science for Sustainable Development (Version 2.0, July 2021), the Southern Ocean community engaged in a stakeholder- oriented process to develop the Southern Ocean Action Plan. The Southern Ocean process engaged a broad community, which includes the scientific research community, the business and industry sector, and governance and management bodies.
+Con base en las recomendaciones del Plan de Implementación del Decenio de las Naciones Unidas de las Ciencias Oceánicas para el Desarrollo Sostenible (versión 2.0, julio de 2021), la comunidad del Océano Austral participó en un proceso orientado a las partes interesadas para desarrollar el Plan de Acción del Océano Austral. El proceso del Océano Austral involucró a una amplia comunidad, que incluye la comunidad de investigación científica, el sector empresarial e industrial y los órganos de gobernanza y gestión.
 
-As part of this global effort, the Southern Ocean Task Force identified the needs of the Southern Ocean community to address the challenges related to the unique environmental characteristics and governance structure of the Southern Ocean. Through this community-driven process, we identified synergies within the Southern Ocean community and beyond in order to elaborate an Action Plan that provides a framework for Southern Ocean stakeholders to formulate and develop tangible actions and deliverables that support the UN Ocean Decade vision.
+Como parte de este esfuerzo global, el Grupo de Trabajo del Océano Austral identificó las necesidades de la comunidad del Océano Austral para abordar los desafíos relacionados con las características ambientales y la estructura de gobernanza únicas del Océano Austral. A través de este proceso impulsado por la comunidad, identificamos sinergias dentro de la comunidad del Océano Austral y fuera de ella para elaborar un Plan de Acción que proporcione un marco y permita que las partes interesadas en el Océano Austral propongan y desarrollen acciones y resultados tangibles que respalden la visión del Decenio de los Océanos de las Naciones Unidas.
 
-Through the publication of this Action Plan, the Southern Ocean Task Force aims to mobilise the Southern Ocean community and inspire all stakeholders to seek engagement and leverage opportunities to deliver innovative solutions that maintain and foster the unique conditions of the Southern Ocean. This framework provides an initial roadmap to strengthen links between science, industry and policy, as well as to encourage internationally collaborative activities in order to address existing gaps in our knowledge and data coverage.
+Mediante la publicación de este Plan de Acción, el Grupo de Trabajo del Océano Austral pretende movilizar a la comunidad del Océano Austral e inspirar a todas las partes interesadas para que participen y aprovechen las oportunidades de ofrecer soluciones innovadoras que mantengan y fomenten las condiciones únicas del Océano Austral. Este marco proporciona una hoja de ruta inicial para fortalecer los vínculos entre la ciencia, la industria y las políticas, así como para fomentar las actividades de colaboración internacional con el fin de abordar los vacíos existentes en nuestro conocimiento y cobertura de datos.
 
-
-Text obtained from: [https://www.sodecade.org/action-plan/southern-ocean-action-plan/](https://www.sodecade.org/action-plan/southern-ocean-action-plan/)
+Texto obtenido de: [https://www.sodecade.org/action-plan/southern-ocean-action-plan/](https://www.sodecade.org/action-plan/southern-ocean-action-plan/)
