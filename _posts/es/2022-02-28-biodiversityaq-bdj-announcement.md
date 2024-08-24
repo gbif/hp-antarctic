@@ -10,7 +10,7 @@ imageLicense: |
   Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-El Portal de Biodiversidad Antártica del SCAR, en colaboración con Pensoft, se complace en anunciar la colección temática de la ["Revista de datos sobre biodiversidad" Pensoft](https://bdj.pensoft.net/).
+El Portal de Biodiversidad Antártica del SCAR, en colaboración con Pensoft, se complace en anunciar la colección temática de la ["Revista de datos sobre biodiversidad Pensoft"](https://bdj.pensoft.net/).
 
 La colección temática ["Biodiversidad de la Antártida y el Océano Austral"] tiene como objetivo celebrar la amplia biodiversidad de la región antártica y subantártica en los biomas terrestres y marinos. La región (sub)antártica y el océano Austral albergan una biodiversidad única. Debido a la lejanía y al duro entorno, la biodiversidad de esta región se encuentra mal descrita recurrentemente a pesar de que tiene amenazas similares a las del resto del mundo.
 
