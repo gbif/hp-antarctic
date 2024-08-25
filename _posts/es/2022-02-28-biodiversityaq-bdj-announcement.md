@@ -1,10 +1,10 @@
 ---
 lang-ref: biodiversityaq-bdj-announcement
-lang: en
+lang: es
 preTitle: February 28, 2022
 title: "Colección temática sobre biodiversidad de la Antártida y el Océano Austral - Revista de Datos sobre Biodiversidad"
 date:  2022-02-28
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2022-02-28_biodiversityaq_BDJ_announcement.jpg
 imageLicense: |
   Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
