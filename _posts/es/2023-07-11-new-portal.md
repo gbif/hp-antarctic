@@ -28,9 +28,9 @@ El nuevo portal ahora está integrado con [GBIF](https://www.gbif.org/), una pla
 Para garantizar una transición sin problemas a nuestro nuevo y mejorado portal, utilizaremos cuentas de GBIF para gestionar las solicitudes de descargas. Le solicitamos que cree una nueva cuenta en el portal alojado en GBIF para seguir beneficiándose de nuestros servicios. Lamentamos informarle que su cuenta en el antiguo portal, junto con todos los datos asociados, ha sido eliminada. Este paso era necesario para el proceso de migración. Le pedimos disculpas por cualquier inconveniente que esto pueda ocasionar.
 
 ### Descargas mejoradas con DOI
-A diferencia del portal anterior, todas las descargas del nuevo portal ahora contarán con un identificador de objeto digital (DOI). Este DOI permite citar los datos descargados, lo que garantiza una atribución adecuada y fomenta la colaboración entre investigadores
+A diferencia del portal anterior, todas las descargas del nuevo portal contarán con un identificador de objeto digital (DOI). Este DOI permite citar los datos descargados, lo que garantiza una atribución adecuada y fomenta la colaboración entre investigadores
 
-Entendemos que esta transición puede requerir algunos ajustes y pedimos disculpas por cualquier inconveniente que esto pueda ocasionar. Nuestro equipo está dedicado a ayudarlo durante esta transición y garantizar una experiencia sin problemas. Si tiene alguna dificultad o alguna pregunta, no dude en comunicarse con nuestra [mesa de ayuda](mailto:data-biodiversity-aq@naturalsciences.be).
+Entendemos que esta transición puede requerir algunos ajustes y pedimos disculpas por cualquier inconveniente que esto pueda ocasionar. Nuestro equipo está dedicado a ayudarlo durante esta transición para garantizar una experiencia positiva. Si tiene alguna dificultad o alguna pregunta, no dude en comunicarse con nuestra [mesa de ayuda](mailto:data-biodiversity-aq@naturalsciences.be).
 
 Queremos expresar nuestro más sincero agradecimiento a GBIF por su colaboración y por ofrecernos este servicio. Su apoyo ha sido fundamental para hacer posible esta transición.
 
