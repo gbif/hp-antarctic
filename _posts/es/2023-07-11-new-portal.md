@@ -1,39 +1,39 @@
 ---
 lang-ref: new-portal
-lang: en
-title: "New Portal Announcement"
-preTitle: July 11, 2023
-description: "SCAR Antarctic Biodiversity Portal is now a GBIF Hosted Portal"
+lang: es
+title: "Anuncio del nuevo portal"
+preTitle: Julio 11 de 2023
+description: "El Portal de Biodiversidad Antártica del SCAR es ahora un portal alojado por GBIF"
 date: 2023-07-11
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2023-07-11_new-portal_AVDP_SCAR_0376.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Foto de Anton Van de Putte licenciada con [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-# SCAR Antarctic Biodiversity Portal is now a GBIF Hosted Portal
+# El Portal de Biodiversidad Antártica del SCAR es ahora un portal alojado por GBIF
 
-Welcome to the new SCAR Antarctic Biodiversity Portal!
+¡Bienvenido al nuevo Portal de Biodiversidad Antártica del SCAR!
 
-We are excited to introduce you to our brand new portal. As part of our ongoing commitment to providing you with the best possible experience, we have migrated to the [GBIF hosted portal](https://www.gbif.org/hosted-portals), offering enhanced features and improved performance.
+Nos complace presentarles nuestro nuevo portal. Como parte de nuestro compromiso continuo de brindarles la mejor experiencia posible, hemos migrado al [portal alojado en GBIF](https://www.gbif.org/hosted-portals), que ofrece funciones mejoradas y un mejor rendimiento.
 
-We would like to express our sincere appreciation to GBIF for providing us with this exceptional service and hosting our new portal.
+Nos gustaría expresar nuestro más sincero agradecimiento a GBIF por brindarnos este servicio excepcional y alojar nuestro nuevo portal.
 
-## Important Changes
+## Cambios importantes
 
-### GBIF Integration
-The new portal is now integrated with [GBIF](https://www.gbif.org/), a globally recognized platform for biodiversity data. By creating a GBIF account, you can easily access and download data from our portal. GBIF offers a secure and reliable environment for managing biodiversity data from around the world. If you don't have a GBIF account yet, we encourage you to create one for seamless access to our portal and other valuable resources within the GBIF network.
+### Integración de GBIF
+El nuevo portal ahora está integrado con [GBIF](https://www.gbif.org/), una plataforma de datos sobre biodiversidad reconocida mundialmente. Al crear una cuenta de GBIF, es posible acceder y descargar fácilmente datos de nuestro portal. GBIF ofrece un entorno seguro y confiable para gestionar datos sobre biodiversidad de todo el mundo. Si aún no tiene una cuenta de GBIF, lo invitamos a crear una para acceder sin problemas a nuestro portal y a otros recursos valiosos dentro de la red de GBIF.
 
-### Streamlined Account Transition
-To ensure a seamless transition to our new and improved portal, we will be using GBIF accounts to manage the downloads request. We kindly request you to create a new account on the GBIF hosted portal to continue benefiting from our services. We regret to inform you that your account on the old portal, along with all associated data, has been deleted. This step was necessary for the migration process. We apologize for any inconvenience this may cause. 
+### Transición de cuenta optimizada
+Para garantizar una transición sin problemas a nuestro nuevo y mejorado portal, utilizaremos cuentas de GBIF para gestionar las solicitudes de descargas. Le solicitamos que cree una nueva cuenta en el portal alojado en GBIF para seguir beneficiándose de nuestros servicios. Lamentamos informarle que su cuenta en el antiguo portal, junto con todos los datos asociados, ha sido eliminada. Este paso era necesario para el proceso de migración. Le pedimos disculpas por cualquier inconveniente que esto pueda ocasionar.
 
-### Improved Downloads with DOIs
-Unlike the old portal, all downloads from the new portal will now come with a Digital Object Identifier (DOI). This DOI allows you to cite the downloaded data, ensuring proper attribution and fostering collaboration among researchers. 
+### Descargas mejoradas con DOI
+A diferencia del portal anterior, todas las descargas del nuevo portal ahora contarán con un identificador de objeto digital (DOI). Este DOI permite citar los datos descargados, lo que garantiza una atribución adecuada y fomenta la colaboración entre investigadores
 
-We understand that this transition may require some adjustment, and we apologize for any inconvenience caused during this process. Our team is dedicated to assisting you throughout this transition and ensuring a smooth experience. Should you encounter any difficulties or have any questions, please don't hesitate to reach out to our [helpdesk](mailto:data-biodiversity-aq@naturalsciences.be).
+Entendemos que esta transición puede requerir algunos ajustes y pedimos disculpas por cualquier inconveniente que esto pueda ocasionar. Nuestro equipo está dedicado a ayudarlo durante esta transición y garantizar una experiencia sin problemas. Si tiene alguna dificultad o alguna pregunta, no dude en comunicarse con nuestra [mesa de ayuda](mailto:data-biodiversity-aq@naturalsciences.be).
 
-We would like to extend our heartfelt gratitude to GBIF for their collaboration and for offering us this service. Their support has been instrumental in making this transition possible.
+Queremos expresar nuestro más sincero agradecimiento a GBIF por su colaboración y por ofrecernos este servicio. Su apoyo ha sido fundamental para hacer posible esta transición.
 
-We are grateful for your understanding and continued support as we strive to deliver an improved user experience and provide you with efficient access to biodiversity data.
+Agradecemos su comprensión y continuo apoyo mientras nos esforzamos por brindar una mejor experiencia de usuario y brindarle un acceso eficiente a los datos de biodiversidad.
 
-Thank you for being a part of the SCAR Antarctic Biodiversity Portal community!
+¡Gracias por ser parte de la comunidad del Portal de Biodiversidad Antártica del SCAR!
