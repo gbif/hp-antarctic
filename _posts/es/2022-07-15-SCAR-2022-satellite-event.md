@@ -1,23 +1,23 @@
 ---
 lang-ref: scar-2022-satellite-event
-lang: en
-title: "SCAR 2022 Satellite event: Structuring and Managing biological data"
+lang: es
+title: "Evento satélite SCAR 2022: Estructuración y gestión de datos biológicos"
 date: 2022-08-02
-categories: ["news", "event"]
+categories: ["noticias", "eventos"]
 background: /assets/images/posts/2022-08-02_scar2022-satellite-event_AVdP_SCAR_0037.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Foto de Anton Van de Putte lincenciada con [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-As part of the [10th SCAR Open Science Conference of 2022](https://scar2022.org/) (1-10 august 2022) we are hosting a [satellite event](https://scar2022.org/satellite-events/) on **Structuring and Managing Biological Data.** That will take place **Monday, 8th August 2022, 13:00-14:30 UTC**
+Como parte de la [10ª Conferencia Científica Abierta SCAR de 2022](https://scar2022.org/) (del 1 al 10 de agosto de 2022), estamos organizando un [evento satélite](https://scar2022.org/satellite-events/) en **estructuración y gestión de datos biológicos** que se  llevará a cabo el **lunes 8 de agosto de 2022 a las 13:00-14:30 UTC**.
 
-The Antarctic and Sub Antarctic region are hosts to unique biodiversity. Due to the remoteness and harsh environment, this biodiversity often remains poorly described despite similar threats to the rest of the globe. As such The biodiversity data collected in this region is of high scientific value.
+La región antártica y subantártica alberga una biodiversidad única. Sin embargo, debido a la lejanía y a su entorno hostil, la biodiversidad de esta región suele estar mal descrita a pesar de que tiene amenazas similares a las del resto del mundo. Por esta razón, los datos sobre biodiversidad recopilados en esta región tienen un gran valor científico.
 
-This workshop aims to train scientists to structure and manage their biological data more effectively and conform to internationally used biodiversity data standard formats, saving precious time in preparing data for analysis or online archiving.
+Este taller tiene como objetivo capacitar a los científicos para estructurar y gestionar sus datos biológicos de manera más efectiva y ajustarse a los formatos estándar de datos de biodiversidad utilizados internacionalmente, ahorrando un tiempo valioso en la preparación de datos para archivo o análisis en línea.
 
-This workshop is organised by the SCAR Antarctic Biodiversity Portal in the framework of the [topical collection "Antarctic and Southern Ocean biodiversity"](https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) of the Pensoft "Biodiversity Data Journal".
+Este taller está organizado por el Portal de Biodiversidad Antártica del SCAR en el marco de la [colección temática "Biodiversidad de la Antártida y del Océano Austral"](https://www.biodiversity.aq/news/antarctic-and-southern-ocean-biodiversity-topical-collection-biodiversity-data-journal/) de la "evista de datos sobre biodiversidad" de Pensoft.
 
-**Monday, 8th August 2022, 13:00-14:30 UTC**
+**Lunes 8 de agosto de 2022 a las 13:00-14:30 UTC**
 
-Register in advance for this Satellite Meeting:
+Regístrese con anticipación para esta reunión satélite:
 <https://us06web.zoom.us/meeting/register/tZMkd-2urjsiG9YEc4FVJRoTX-yuXVGDfZzO>
