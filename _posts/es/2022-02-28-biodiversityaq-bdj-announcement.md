@@ -10,9 +10,9 @@ imageLicense: |
   Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-El Portal de Biodiversidad Antártica del SCAR, en colaboración con Pensoft, se complace en anunciar la colección temática de la ["Revista de datos sobre biodiversidad de Pensoft"](https://bdj.pensoft.net/).
+El Portal de Biodiversidad Antártica del SCAR, en colaboración con Pensoft, se complace en anunciar la colección temática de la ["Revista de datos sobre biodiversidad" de Pensoft](https://bdj.pensoft.net/).
 
-La colección temática ["Biodiversidad de la Antártida y el Océano Austral"](https://bdj.pensoft.net/topical_collection/143/) tiene como objetivo celebrar la amplia biodiversidad de la región antártica y subantártica en los biomas terrestres y marinos. La región (sub)antártica y el océano Austral albergan una biodiversidad única. Sin embargo, debido a la lejanía y a au entorno hostil, la biodiversidad de esta región suele estar mal descrita a pesar de que tiene amenazas similares a las del resto del mundo.
+La colección temática ["Biodiversidad de la Antártida y el Océano Austral"](https://bdj.pensoft.net/topical_collection/143/) tiene como objetivo celebrar la amplia biodiversidad de la región antártica y subantártica en los biomas terrestres y marinos. La región (sub)antártica y el océano Austral albergan una biodiversidad única. Sin embargo, debido a la lejanía y a su entorno hostil, la biodiversidad de esta región suele estar mal descrita a pesar de que tiene amenazas similares a las del resto del mundo.
 
 El Portal de Biodiversidad Antártica del SCAR es un esfuerzo comunitario que apoya la publicación de datos sobre biodiversidad de acuerdo con los principios FAIR (Encontrables, Accesibles, Interoperables, Reutilizables) y las disposiciones del Sistema del Tratado Antártico (las observaciones y los resultados científicos de la Antártida se intercambiarán y se pondrán a disposición de forma gratuita).
 
