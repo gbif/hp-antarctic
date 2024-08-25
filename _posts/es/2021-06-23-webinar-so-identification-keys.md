@@ -1,11 +1,11 @@
 ---
 lang-ref: webinar-so-identification-keys/
-lang: en
+lang: es
 preTitle: Junio 23 de 2021
 title: "Webinar: Aumento de la disponibilidad y digitalización de las claves de identificación del Océano Austral"
 description: "Miércoles 23 de junio de 2021 desde las 14:00 hasta las 16.00 horas (CET) - La inscripción es necesaria"
 date: 2021-06-23
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2021-06-23_webinar-so-identification-keys.jpg
 imageLicense: |
   Expedición 121 de Bélgica 121 por Quentin Jossart, licenciada bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
