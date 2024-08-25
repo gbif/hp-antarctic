@@ -9,7 +9,7 @@ imageLicense: |
   Foto de Anton Van de Putte lincenciada con [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-Como parte de la [10ª Conferencia Científica Abierta SCAR de 2022](https://scar2022.org/) (del 1 al 10 de agosto de 2022), estamos organizando un [evento satélite](https://scar2022.org/satellite-events/) en **estructuración y gestión de datos biológicos** que se  llevará a cabo el **lunes 8 de agosto de 2022 a las 13:00-14:30 UTC**.
+Como parte de la [10ª Conferencia Científica Abierta SCAR de 2022](https://scar2022.org/) (del 1 al 10 de agosto de 2022), estamos organizando un [evento satélite](https://scar2022.org/satellite-events/) en **estructuración y gestión de datos biológicos**, el cual se  llevará a cabo el **lunes 8 de agosto de 2022 a las 13:00-14:30 UTC**.
 
 La región antártica y subantártica alberga una biodiversidad única. Sin embargo, debido a la lejanía y a su entorno hostil, la biodiversidad de esta región suele estar mal descrita a pesar de que tiene amenazas similares a las del resto del mundo. Por esta razón, los datos sobre biodiversidad recopilados en esta región tienen un gran valor científico.
 
