@@ -5,7 +5,7 @@ title: "El Plan de Acción para el Océano Austral"
 preTitle: Abril 12 de 2022
 description: "En apoyo del Decenio de las Naciones Unidas de las Ciencias Oceánicas para el Desarrollo Sostenible"
 date:  2022-04-12
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2022-04-12_so-action-plan_AVdP_SCAR_0121.jpg
 imageLicense: |
   Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -23,4 +23,4 @@ Como parte de este esfuerzo global, el Grupo de Trabajo del Océano Austral iden
 
 Mediante la publicación de este Plan de Acción, el Grupo de Trabajo del Océano Austral pretende movilizar a la comunidad del Océano Austral e inspirar a todas las partes interesadas para que participen y aprovechen las oportunidades de ofrecer soluciones innovadoras que mantengan y fomenten las condiciones únicas del Océano Austral. Este marco proporciona una hoja de ruta inicial para fortalecer los vínculos entre la ciencia, la industria y las políticas, así como para fomentar las actividades de colaboración internacional con el fin de abordar los vacíos existentes en nuestro conocimiento y cobertura de datos.
 
-Texto obtenido de: [https://www.sodecade.org/action-plan/southern-ocean-action-plan/](https://www.sodecade.org/action-plan/southern-ocean-action-plan/)
+Texto obtenido de: [https://www.sodecade.org/action-plan/southern-ocean-action-plan/](https://www.sodecade.org/action-plan/southern-ocean-action-plan/).
