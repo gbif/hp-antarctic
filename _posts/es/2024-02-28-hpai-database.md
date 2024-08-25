@@ -18,6 +18,6 @@ La Red de Salud de la Vida Silvestre Antártica ([AWHN](https://scar.org/science
 
 Esta base de datos constituye una base de datos central para recopilar información científica detallada sobre todos los brotes sospechosos y confirmados en toda la región subantártica y la Antártida.
 [EG-ABI](https://scar.org/science/life/egabi) ayudó a desarrollar una aplicación web para visualizar los casos sospechosos y confirmados.
-La AWHN también proporcionará actualizaciones periódicas sobre los casos actuales y recomendaciones. 
+La AWHN también proporcionará actualizaciones periódicas y recomendaciones sobre los casos actuales. 
 
 Para más información, visite el [sitio web del SCAR](https://scar.org/library-data/avian-flu).
