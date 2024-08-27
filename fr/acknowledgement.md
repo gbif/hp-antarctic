@@ -34,3 +34,4 @@ Nous apprécions profondément le travail inestimable de nos traducteurs qui ont
 - **[Charlie Plasman](https://orcid.org/0009-0007-7519-7417)** : Français
 - **[Yi-Ming Gan](https://orcid.org/0000-0001-7087-2646)** : Français
 - **Yulia Kallistratova** : Russe
+- **Juan Sebastián Lozano**: Espagnol
