@@ -17,17 +17,17 @@ navbar:
   floating: true
 cta:
   - text: Start exploring
-    href: /occurrence/search
+    href: /es/occurrence/search
     isPrimary: true
 composition:
   - type: heroImage
   - type: stats
-    data: home.stats
+    data: es.home.stats
   - type: latestPosts
     description: Recent Posts
     data: we_do_not_want_any_header 
   - type: stories
-    data: GBIFdataUse
+    data: es.GBIFdataUse
   - type: stories
-    data: GBIFevents
+    data: es.GBIFevents
 ---

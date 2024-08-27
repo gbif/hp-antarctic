@@ -7,7 +7,7 @@ title: Especies indicadoras del Programa de Monitoreo de Ecosistemas (CEMP)
 description: Programa de Monitoreo de Ecosistemas de la CCAMLR (CEMP) y las especies indicadoras del CEMP
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
-  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
+  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/es/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
 hasTextShadow: true
 height: 85vh
 parallax: true

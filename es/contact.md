@@ -10,7 +10,7 @@ imageLicense: |
 composition:
   - type: postHeader
   - type: media
-    data: contacts
+    data: es.contacts
   - type: pageMarkdown
 ---
 

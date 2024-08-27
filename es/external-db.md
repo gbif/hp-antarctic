@@ -7,7 +7,7 @@ klass: compositionBlocks
 description: Bases de datos externas relacionadas con la biodiversidad de la Antártida y el Océano Austral
 composition:
 - type: media
-  data: external-db
+  data: es.external-db
 ---
 
 {% comment %}
