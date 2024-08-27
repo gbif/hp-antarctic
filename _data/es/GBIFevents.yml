@@ -1,5 +1,5 @@
-title: Events from GBIF.org
-description: This shows the three most recent event items from GBIF.org. To see older items go to [gbif.org](https://www.gbif.org/resource/search?contentType=event)
+title: Eventos de GBIF.org
+description: Aquí se muestran los tres elementos de eventos más recientes de GBIF.org. Para ver elementos más antiguos, visite [gbif.org](https://www.gbif.org/resource/search?contentType=event)
 filters:
   contentType:
     - EVENT

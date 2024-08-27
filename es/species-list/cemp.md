@@ -1,13 +1,13 @@
 ---
 lang-ref: cemp
-lang: en
+lang: es
 layout: home
 klass: home
-title: CCAMLR Ecosystem Monitoring Program (CEMP) indicator species
-description: CCAMLR Ecosystem Monitoring Program (CEMP) and the CEMP indicator species 
+title: Especies indicadoras del Programa de Monitoreo de Ecosistemas (CEMP)
+description: Programa de Monitoreo de Ecosistemas de la CCAMLR (CEMP) y las especies indicadoras del CEMP
 background: /assets/images/cemp/banner_chinstrap-penguin.jpg
 imageLicense: | 
-  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
+  [*Pygoscelis antarcticus* (Hombron & Jacquinot, 1841)](/es/occurrence/search?entity=3994320758) observed in Antarctica by timhoffm (licensed under http://creativecommons.org/licenses/by-nc/4.0/)  
 hasTextShadow: true
 height: 85vh
 parallax: true
@@ -16,7 +16,7 @@ navbar:
   hasWhiteText: true
   floating: true
 cta:
-- text: Learn more about CEMP
+- text: Más información sobre el CEMP
   href: https://www.ccamlr.org/en/science/ccamlr-ecosystem-monitoring-program-cemp
 composition:
 - type: heroImage
@@ -39,25 +39,18 @@ composition:
   data: species-list.cemp.antarctic-fur-seal
 ---
 
-# CCAMLR Ecosystem Monitoring Program (CEMP)
+# Programa de Monitoreo de Ecosistemas de la CCAMLR (CEMP)
 
-## Objective
+## Objetivo
 
-In order to provide information of the effects of fishing on dependent species, CCAMLR set up the CCAMLR Ecosystem Monitoring Program (CEMP) in 1989. The two aims of CEMP are to:
-1. detect and record significant changes in critical components of the marine ecosystem within the Convention Area, to serve as a basis for the conservation of Antarctic marine living resources
-2. distinguish between changes due to harvesting of commercial species and changes due to environmental variability, both physical and biological.
+Para proporcionar información sobre los efectos de la pesca en las especies dependientes, la CCAMLR creó el Programa de Monitoreo de Ecosistemas (CEMP) en 1989. Los dos propósitos del CEMP son:
+1. Detectar y registrar los cambios significativos en los componentes críticos de los ecosistemas marinos dentro del área de la convención para que sirvan como base de la conservación de los recursos bióticos marinos de la Antártida.
+2. Distinguir entre cambios ocasionados por la captura de especies comerciales y los cambios ocasionados por la variabilidad ambiental, tanto física como biológica.
 
-CEMP's major function is to monitor the key life-history parameters of selected dependent species to detect changes in 
-the abundance of harvested species. ‘Dependent species’ are marine predators for which species targeted by commercial 
-fisheries are a major component of their diet. In the case of ‘krill-dependent species’ used in CEMP they include land-based 
-species such as seals and penguins.
+La función principal del CEMP es monitorear los parámetros clave del ciclo de vida de las especies dependientes seleccionadas para detectar cambios en la abundancia de las especies capturadas. Las "especies dependientes" son depredadores marinos cuya dieta está compuesta en gran parte por las especies objetivo de la pesca comercial. En el caso de las "especies dependientes de krill" utilizadas en el CEMP, se incluyen especies terrestres como focas y pingüinos.
 
-## Indicator species
+## Especies indicadoras
 
-Suitable ‘indicator species’ should show measurable responses to changes in the availability of the harvested species, 
-for example in changes in population size, breeding success, body mass and foraging behaviour. 
-The spatial and temporal scales over which different CEMP parameters reflect changes in the status of the ecosystem 
-may be over a few days within a relatively small distance from the breeding site (e.g. foraging trip duration and offspring growth rates) 
-to months (e.g. breeding success) whereas indices of population size reflect a combination of multi-year factors including 
-adult survival/condition and juvenile recruitment.
+Una “especies indicadora” adecuada muestra respuestas medibles a los cambios en la disponibilidad de las especies capturadas. Por ejemplo, cambios en el tamaño de la población, el éxito reproductivo, la masa corporal y el comportamiento de búsqueda de alimento.
+Las escalas espaciales y temporales en las que los diferentes parámetros del CEMP reflejan cambios en el estado del ecosistema pueden abarcar desde unos pocos días, dentro de una distancia relativamente pequeña del sitio de reproducción (por ejemplo, duración del viaje de alimentación y tasa de crecimiento de las crías), hasta meses (por ejemplo, éxito reproductivo). Por otro lado, los índices del tamaño de la población reflejan una combinación de factores multianuales que incluyen la condición y supervivencia de los adultos y el reclutamiento de juveniles.
 

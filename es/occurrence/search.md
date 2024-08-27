@@ -1,7 +1,7 @@
 ---
 lang-ref: occurrence-search
-lang: en
-title: Occurrence search
+lang: es
+title: Búsqueda de ocurrencias
 description: We publish open data
 layout: occurrence
 ---

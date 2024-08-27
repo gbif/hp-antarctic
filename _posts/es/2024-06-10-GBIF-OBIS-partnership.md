@@ -1,43 +1,41 @@
 ---
 lang-ref: GBIF-OBIS-partnership
-lang: en
-preTitle: June 10, 2024
-title: "OBIS and GBIF endorse joint strategy and action plan for marine biodiversity data"
-description: Technical collaboration and capacity building activities to support shared objectives and ensure free and open access to comprehensive information about life in and around the world’s oceans
+lang: es
+preTitle: Junio 10, 2024
+title: "OBIS y GBIF aprueban estrategia y plan de acción conjuntos para datos sobre biodiversidad marina"
+description: Actividades de colaboración técnica y desarrollo de capacidades para apoyar objetivos compartidos y garantizar el acceso libre y abierto a información completa sobre la vida en los océanos del mundo y sus alrededores.
 date: 2024-06-10
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2024-06-10_AVdP_SCAR_0325.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Foto de Anton Van de Putte licenciada con [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
+Dos redes mundiales de datos han acordado una [estrategia conjunta](https://doi.org/10.35035/doc-kcqs-5h52) y un [plan de acción](https://doi.org/10.35035/doc-e52v-5875) que profundizarán su colaboración, mejorarán los flujos y servicios de datos de alta calidad sobre la biodiversidad marina y costera. Además, apoyarán la investigación y la toma de decisiones sobre los océanos del mundo.
 
+Aprovechando su [acuerdo de colaboración de 2020](https://www.gbif.org/news/6M8YYYirX3bK57bHaIpd0U/), OBIS [Sistema Oceánico de información sobre Biodiversidad](https://obis.org/) y GBIF [Sistema Global de Información sobre Biodiversidad](https://www.gbif.org/) se centrarán en una colaboración técnica más amplia y en actividades compartidas para el desarrollo de capacidades. Las acciones combinadas ampliarán y profundizarán la asociación al aumentar la cooperación entre redes, manteniendo al mismo tiempo las identidades de ambas comunidades y reforzando su capacidad para cumplir con sus respectivas funciones.
 
-Two global data networks have agreed to a [joint strategy](https://doi.org/10.35035/doc-kcqs-5h52) and [action plan](https://doi.org/10.35035/doc-e52v-5875) that will deepen their collaboration, improve the flows and services of high-quality data about marine and coastal biodiversity, and support research and decision-making on the world's oceans.
+> “Esperamos que este compromiso renovado con nuestra asociación promueva la colaboración directa entre los nodos de GBIF y OBIS en todas las escalas, desde la nacional hasta la regional y la global”, afirmó [Ward Appeltans](https://orcid.org/0000-0002-3237-4547), gerente del programa OBIS. "Ambas organizaciones comparten objetivos y desafíos similares. Ha llegado el momento de ayudarnos mutuamente y trabajar como una sola comunidad para hacer avanzar la ciencia y las políticas".
 
-Leveraging their [2020 collaboration agreement](https://www.gbif.org/news/6M8YYYirX3bK57bHaIpd0U/), OBIS—the [Ocean Biodiversity Information System](https://obis.org/)—and GBIF—the [Global Biodiversity Information Facility](https://www.gbif.org/)—will focus on wider technical collaboration and shared capacity-building activities. The combined actions will extend and deepen the partnership by increasing cross-network cooperation while maintaining both communities’ identities and reinforcing their capacity to fulfil their respective mandates.
+El enfoque en la biodiversidad marina incluye datos de todos los taxones que se encuentran en el [Registro Mundial de Especies Marinas](https://www.marinespecies.org/about.php) (WoRMS), el cual proporciona una lista completa y autorizada de nombres de organismos marinos e información sobre sinónimos. El plan apunta a aumentar la disponibilidad de datos adicionales para estos taxones a través de OBIS.org, GBIF.org y sus servicios asociados.
 
-> “We expect this renewed commitment to our partnership will promote direct collaboration between GBIF and OBIS nodes at every scale, from national to regional to global,” said [Ward Appeltans](https://orcid.org/0000-0002-3237-4547), OBIS programme manager. "Both organizations share similar objectives as well as similar challenges. Time has come to help each other and deliver as one community to advance science and policy.“
+OBIS, que en un principio se denominó Sistema de Información Biogeográfica de los Océanos y se fundó en mayo de 2000, en el marco del Censo de la Vida Marina, es ahora un componente fundamental del programa de [Intercambio Internacional de Datos e Información Oceanográfica](https://iode.org/) (IODE) de la [Comisión Oceanográfica Intergubernamental](https://www.ioc.unesco.org/en) (COI) de la [UNESCO](https://www.unesco.org/en). Su objetivo es proporcionar la información y los datos más completos sobre la diversidad, la distribución y la abundancia de la vida marina, apoyando así los esfuerzos de sus 150 estados miembros para lograr un ecosistema oceánico saludable y resiliente.
 
-The focus on marine biodiversity includes data for all taxa listed in [the World Register of Marine Species](https://www.marinespecies.org/about.php) (WoRMS), which provides a comprehensive, authoritative list of names of marine organisms along with information on synonyms. The plan aims to increase the availability of additional data for these taxa through OBIS.org, GBIF.org and their associated services.
+[GBIF](https://www.gbif.org/what-is-gbif) —el Sistema Global de Información sobre Biodiversidad— se creó en 2001 como una colaboración voluntaria entre gobiernos con el objetivo de proporcionar a cualquier persona, en cualquier lugar, acceso libre y gratuito a datos sobre todos los tipos de vida en la Tierra. Su red de países y organizaciones se basa en un conjunto de estándares comunes y herramientas de código abierto que les permiten reunir información de fuentes muy diferentes: especímenes de museos y herbarios, códigos de barras de ADN ambiental, encuestas y estudios de campo, así como registros de ciencia ciudadana, entre otros.
 
-Originally called the Ocean Biogeographic Information System and founded in May 2000 under the Census of Marine Life, OBIS is now a core component of the [International Oceanographic Data and Information Exchange](https://iode.org/) (IODE) programme of the [Intergovernmental Oceanographic Commission](https://www.ioc.unesco.org/en) (IOC) of [UNESCO](https://www.unesco.org/en). Its aim is to provide the most comprehensive data and information on the diversity, distribution and abundance of marine life, supporting the efforts of its 150 Member States to achieve a healthy and resilient ocean ecosystem.
+La historia de colaboración entre OBIS y GBIF se extiende a la adopción y el perfeccionamiento de herramientas comunes, como el [Kit de Herramientas de Publicación Integrado](https://www.gbif.org/ipt) de GBIF, y el uso de estándares interoperables como el [Darwin Core](https://dwc.tdwg.org/). Más recientemente, las dos redes han trabajado juntas para incorporar nuevos flujos de datos basados ​​en ADN ambiental, lo que impulsó la adición de [nuevas directrices de autoría conjunta](https://www.gbif.org/news/2VXK7tpe7wM9J9lghWmxQh/) sobre cómo publicar datos derivados del ADN sobre la vida marina en sus plataformas.
 
-[GBIF](https://www.gbif.org/what-is-gbif)—the Global Biodiversity Information Facility—was established in as a voluntary collaboration between governments in 2001, with the aim of providing anyone, anywhere free and open access to data about all types of life on Earth. Its network of countries and organizations relies on a set of common standards and open-source tools that enable them to bring together information from widely different sources—museum and herbarium specimens, eDNA barcodes, surveys and field studies, and citizen science records, among others.
+> “Al crear oportunidades más frecuentes y consistentes para que los nodos de GBIF trabajen con los nodos de OBIS en datos sobre biodiversidad marina y costera, el personal de nuestra red estará mejor preparado para respaldar las necesidades y requisitos específicos de la investigación marina”, afirmó [Joe Miller](https://orcid.org/0000-0002-5788-9010), secretario ejecutivo de GBIF. “El hecho de que OBIS comparta sus conocimientos y experiencia nos ayudará a hacer nuestra parte para mejorar la calidad de la información sobre el ámbito marino que sea relevante para la investigación y la formulación de políticas”.
 
-The history of collaboration between OBIS and GBIF extends to the adoption and refinement of common tools, such as GBIF’s [Integrated Publishing Toolkit](https://www.gbif.org/ipt), and the use of interoperable standards like [Darwin Core](https://dwc.tdwg.org/). More recently, the two networks have worked together to incorporate new streams of eDNA-based data, prompting the addition of [new co-authored guidance](https://www.gbif.org/news/2VXK7tpe7wM9J9lghWmxQh/) on how to publish DNA-derived data on marine life to their platforms.
+Con la estrategia que guía la colaboración, GBIF y OBIS actualizarán el plan de acción anualmente a través de un comité de implementación conjunto integrado por personal de los nodos de ambas redes y de las secretarías. Este comité abordará los componentes técnicos y comunitarios de los planes anuales y hará recomendaciones sobre las actividades que se describen en ellos. Los socios también explorarán la posibilidad de organizar conferencias y reuniones combinadas para fomentar una colaboración más estrecha y organizar simposios y talleres de capacitación.
 
-> “By creating more frequent and consistent opportunities for GBIF nodes to work with OBIS nodes on marine and coastal biodiversity data, our network staff will be better prepared to support the specific needs and requirements of marine research,” said [Joe Miller](https://orcid.org/0000-0002-5788-9010), GBIF executive secretary. “Having OBIS share their knowledge and expertise will help us do our part to improve the quality of research-ready and policy-relevant information about the marine realm.”
+Los interesados ​​en conocer más sobre la estrategia y el plan de acción, qué implica y cómo participar pueden registrarse para asistir a uno de los dos seminarios web conjuntos:
 
-With the strategy guiding the collaboration, GBIF and OBIS will update the action plan annually through a joint implementation committee made up of staff from both networks’ nodes and the Secretariats. This committee will address technical and community components of the annual plans and make recommendations on the activities they outline. The partners will also explore the potential for organizing combined conferences and meetings to foster closer collaboration and host symposia and training workshops.
+- Para Asia, África y Europa \
+  **13 de junio de 2024** @ 07:00 UTC \
+    [Registrarse para el seminario web #1](https://us02web.zoom.us/webinar/register/WN_MGK5uCxcRG2dyHoOeul8iQ)
 
-Those interested in learning more about the strategy and action plan, what it means and how they can get involved can register to attend one of two joint webinars:
-
-- for Asia, Africa and Europe \
-  **13 June 2024** @ 07:00 UTC \
-    [Register for webinar #1](https://us02web.zoom.us/webinar/register/WN_MGK5uCxcRG2dyHoOeul8iQ)
-
-- for the Americas \
-    **13 June 2024** @ 21:00 UTC \
-    [Register for webinar #2](https://us02web.zoom.us/webinar/register/WN_JAyHic4xS1yx-TKYHsfVMg)
+- Para América \
+    **13 de junio de 2024** @ 21:00 UTC \
+    [Registrarse para el seminario web #2](https://us02web.zoom.us/webinar/register/WN_JAyHic4xS1yx-TKYHsfVMg)
 

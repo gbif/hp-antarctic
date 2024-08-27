@@ -1,25 +1,25 @@
-title: External databases
-description: External databases related to Antarctic and Southern Ocean biodiversity
+title: Bases de datos externas
+description: Bases de datos externas relacionadas con la biodiversidad de la Antártida y el Océano Austral
 features:
-  - preTitle: Species checklist
-    title: The Register of Antarctic Species (RAS)
+  - preTitle: Lista de especies
+    title: El Registro de Especies Antárticas (RAS)
     href: https://ras.biodiversity.aq/
-    description: Register of Antarctic Species (RAS) aims to provide an authoritative and comprehensive list of names of marine and terrestrial species in Antarctica and the Southern Ocean. It serves as a reference guide for users to interpret taxonomic literature, as valid names and other names in use are both provided. RAS is hosted by [WoRMS](https://www.marinespecies.org/).
+    description: El Registro de Especies Antárticas (RAS) tiene como objetivo proporcionar una lista completa y fidedigna de nombres de especies marinas y terrestres de la Antártida y el Océano Austral. Sirve como guía de referencia para que los usuarios interpreten la literatura taxonómica, ya que se proporcionan tanto nombres válidos como otros nombres en uso. El RAS se encuentra en [WoRMS](https://www.marinespecies.org/).
     # image required
     background: /assets/images/external-db/ras.png
-  - preTitle: Database
-    title: SCAR Southern Ocean Diet and Energetics Database
-    description: This database includes data related to diet and energy flow from conventional (e.g. gut content) and modern (e.g. molecular) studies, stable isotopes, fatty acids, and energetic content.
+  - preTitle: Base de datos
+    title: Base de datos del SCAR sobre dieta y energía en el océano Austral
+    description: Esta base de datos incluye datos relacionados con la dieta y el flujo de energía de estudios convencionales (por ejemplo, contenido intestinal) y modernos (por ejemplo, moleculares), isótopos estables, ácidos grasos y contenido energético.
     background: /assets/images/external-db/diet.png
     href: https://diet.apps.aq/
-  - preTitle: Database
-    title: Persistent Organic Pollutants in Antarctica and the Southern Ocean
+  - preTitle: Base de datos
+    title: Contaminantes orgánicos persistentes en la Antártida y el océano Austral
     href: https://pops.apps.aq/
     description: |
-      A data explorer app of Persistent Organic Pollutants in Antarctica and the Southern Ocean.
+      Una aplicación de exploración de datos de contaminantes orgánicos persistentes en la Antártida y el Océano Austral.
     background: /assets/images/external-db/pops.png
-  - preTitle: Database
-    title: Mapping Application for Penguin Populations and Projected Dynamics (MAPPPD)
+  - preTitle: Base de datos
+    title: Aplicación de Mapeo de Poblaciones de Pingüinos y Dinámicas Proyectadas (MAPPPD)
     href: https://www.penguinmap.com/mapppd/
-    description: MAPPPD (Mapping Application for Penguin Populations and Projected Dynamics) is an open access decision support tool designed for managers, scientists and the general public. Scientists from all corners of the Antarctic have collaborated to create a database of penguin population counts with data from four charismatic Sphenisciformes.
+    description: La MAPPPD (Aplicación de Mapeo de Poblaciones de Pingüinos y Dinámicas Proyectadas) es una herramienta de acceso abierto para la toma de decisiones diseñada para administradores, científicos y el público en general. Científicos de todos los rincones de la Antártida han colaborado para crear una base de datos de recuentos de poblaciones de pingüinos con datos de cuatro carismáticos Sphenisciformes.
     background: /assets/images/external-db/mapppd.png

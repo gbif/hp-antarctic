@@ -1,31 +1,31 @@
 ---
 lang-ref: biodiversityaq-bdj-announcement
-lang: en
+lang: es
 preTitle: February 28, 2022
-title: "Antarctic and Southern Ocean biodiversity topical collection - Biodiversity Data Journal"
+title: "Colección temática sobre biodiversidad de la Antártida y el Océano Austral - Revista de Datos sobre Biodiversidad"
 date:  2022-02-28
-categories: ["news"]
+categories: ["noticias"]
 background: /assets/images/posts/2022-02-28_biodiversityaq_BDJ_announcement.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Foto de Anton Van de Putte con licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-The SCAR Antarctic Biodiversity Portal in collaboration with Pensoft is happy to announce a dedicated topical collection of the [Pensoft "Biodiversity Data Journal"](https://bdj.pensoft.net/).
+El Portal de Biodiversidad Antártica del SCAR, en colaboración con Pensoft, se complace en anunciar la colección temática de la ["Revista de datos sobre biodiversidad" de Pensoft](https://bdj.pensoft.net/).
 
-The topical collection ["Antarctic and Southern Ocean biodiversity"](https://bdj.pensoft.net/topical_collection/143/) aims to celebrate the wide biodiversity of the Antarctic and Sub Antarctic region in the terrestrial and marine realms. The (sub)Antarctic and the Southern Ocean are hosts to unique biodiversity. Due to the remoteness and harsh environment, this biodiversity often remains poorly described despite similar threats as the rest of the globe.
+La colección temática ["Biodiversidad de la Antártida y el Océano Austral"](https://bdj.pensoft.net/topical_collection/143/) tiene como objetivo celebrar la amplia biodiversidad de la región antártica y subantártica en los biomas terrestres y marinos. La región (sub)antártica y el océano Austral albergan una biodiversidad única. Sin embargo, debido a la lejanía y a su entorno hostil, la biodiversidad de esta región suele estar mal descrita a pesar de que tiene amenazas similares a las del resto del mundo.
 
-The SCAR Antarctic Biodiversity Portal is a community effort that supports the publication of Biodiversity data in accordance with the FAIR principles (Findable, Accessible, Interoperable, Reusable) and the provisions of the Antarctic Treaty System (scientific observations and results from Antarctica shall be exchanged and made freely available).
+El Portal de Biodiversidad Antártica del SCAR es un esfuerzo comunitario que apoya la publicación de datos sobre biodiversidad de acuerdo con los principios FAIR (Encontrables, Accesibles, Interoperables, Reutilizables) y las disposiciones del Sistema del Tratado Antártico (las observaciones y los resultados científicos de la Antártida se intercambiarán y se pondrán a disposición de forma gratuita).
 
-Data papers submitted in this special issue should describe datasets that include biological observation of the Antarctic continent, Sub Antarctic island and in the Southern Ocean using the [TDWG Darwin Core standard](https://dwc.tdwg.org/). There is no restriction on the type of primary biodiversity data. Providing information on sampling sites and additional relevant measures are encouraged. Data submitted will have to be published to [Ocean Biodiversity Information System - OBIS](http://www.obis.org/) and/or the [Global Biodiversity Information Facility - GBIF](http://www.gbif.org/) as part of the manuscript publication process.
+Los documentos de datos presentados en este número especial deben describir conjuntos de datos que incluyan observaciones biológicas del continente antártico, las islas subantárticas y el Océano Austral usando el [estándar Darwin Core del TDWG](https://dwc.tdwg.org/). No hay restricciones sobre el tipo de datos primarios sobre biodiversidad. Se recomienda proporcionar información sobre sitios de muestreo y medidas adicionales pertinentes. Los datos presentados deberán publicarse en el [Sistema de información sobre biodiversidad oceánica - OBIS](http://www.obis.org/) y/o en el [Sistema Global de Información sobre Biodiversidad - GBIF](http://www.gbif.org/) como parte del proceso de publicación del manuscrito.
 
-The SCAR Antarctic Biodiversity portal will provide tutoring through webinars and workshops on how to prepare the data in line with the Darwin Core standard and how to prepare the data paper in the Pensoft system. If required the SCAR Antarctic Biodiversity portal can actively support the publication of the dataset to OBIS and GBIF. To assess the support you may need please fill out this [Expression of Interest](https://forms.gle/zddVfPt3Bj7sZ4ya7).
+El Portal de Biodiversidad Antártica del SCAR brindará tutoría a través de seminarios web y talleres sobre cómo preparar los datos de acuerdo con el estándar Darwin Core y cómo preparar el documento de datos en el sistema Pensoft. Si es necesario, el Portal de Biodiversidad Antártica del SCAR puede respaldar activamente la publicación del conjunto de datos en OBIS y GBIF. Para evaluar el apoyo que pueda necesitar, complete esta [Expresión de interés](https://forms.gle/zddVfPt3Bj7sZ4ya7).
 
-The [Biodiversity Data Journal (BDJ)](https://bdj.pensoft.net/) is a community peer-reviewed, open-access journal, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. The Journal has Article Processing Charges (APCs) of 650 € but the charges can be waived for up to 10 papers. 
-If you would like to have these costs waived please indicate so in your [expression of interest](https://forms.gle/zddVfPt3Bj7sZ4ya7). Please submit your expression of interest by the end of April 2022 . These will be reviewed by the guest editors in May and we will contact you prior to the SCAR OSC. If funding is available after that then further applications  will be reviewed on a case by case basis.
+La [Revista de Datos sobre Biodiversidad (BDJ)](https://bdj.pensoft.net/) es una revista de acceso abierto y revisada por pares, diseñada para acelerar la publicación, difusión y compartición de datos relacionados con la biodiversidad de cualquier tipo. La revista tiene un coste de procesamiento de artículos (APC) de 650 €, pero se puede eximir de este coste para hasta 10 artículos.
+Si desea que se eximan estos costos, indíquelo en su [expresión de interés](https://forms.gle/zddVfPt3Bj7sZ4ya7). Envíe su expresión de interés antes del final de abril de 2022. Los editores invitados la revisarán en mayo y nos comunicaremos con usted antes de la OSC de SCAR. Si hay fondos disponibles después de esa fecha, se revisarán las solicitudes posteriores caso por caso.
 
-Guest editors
+Editores invitados
 Anton Van de Putte, Justine Shaw, Heather Lynch, Huw Griffiths
 
-In case of questions you may contact Yi Ming Gan from the SCAR Antarctic Biodiversity Portal or Huw Griffiths <hjg (a) bas.ac.uk> from the British Antarctic Survey
+Si tiene preguntas, puede ponerse en contacto con Yi Ming Gan del Portal de Biodiversidad Antártica del SCAR o con Huw Griffiths <hjg (a) bas.ac.uk> del British Antarctic Survey.
 
 

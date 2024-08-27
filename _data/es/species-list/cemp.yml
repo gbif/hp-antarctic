@@ -2,96 +2,96 @@
 
 adelie-penguin:
   reverse: false
-  title: Adélie penguin (Pygoscelis adeliae)
-  description: Adélie penguin is one of the most common penguin species along the Antarctic coast, and it is probably also the most studied species. They are obligate inhabitants of the pack ice that surrounds the Antarctic continent. They breed from late October to early March in colonies that are found on ice-free coastal areas. During this time, they alternate between foraging trips at sea and sojourns on land to incubate the egg or rear their two chicks. After breeding and moulting, they spend the winter in the pack ice. Provided by [EG-BAMM, Anne-Mathilde Thierry](https://scar.org/science/eg-bamm/home/)
+  title: Pingüino de Adelia (Pygoscelis adeliae)
+  description: El pingüino Adelia es una de las especies de pingüinos más comunes en la costa antártica y probablemente también la especie más estudiada. Son habitantes comunes de la banquisa que rodea el continente antártico. Se reproducen desde finales de octubre hasta principios de marzo en colonias que se encuentran en zonas costeras sin hielo. Durante este tiempo, alternan entre viajes de alimentación en el mar y estancias en tierra para incubar sus huevos o criar a sus dos polluelos. Después de reproducirse y mudar, pasan el invierno en la banquisa. Proporcionado por [EG-BAMM, Anne-Mathilde Thierry](https://scar.org/science/eg-bamm/home/)
   background: /assets/images/cemp/adelie-penguin.jpg
   imageLicense: |
-   *Pygoscelis adeliae* - Time to take a leap of faith by Anne-Mathilde Thierry licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+   *Pygoscelis adeliae* - Time to take a leap of faith por Anne-Mathilde Thierry licenciada bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481663
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481663
       isPrimary: true
 
 chinstrap-penguin:
   reverse: true
-  title: Chinstrap penguin (Pygoscelis antarcticus)
-  description: First described by Johan Reinhold Forster (1781), chinstrap penguins are an ice-intolerant species. They are one of the most easily recognisable penguin species, named for a distinctive, thin band of black feathers that runs across their chin, appearing as a chinstrap connecting black feathers across the crown of their skull and back against an otherwise white body. The penguin phylogenetic tree finds pygoscelid (“brush-tailed”) species branching off from a common ancestor of extant penguins anywhere between 20 and 38 million years ago, with chinstrap penguins diversifying from Adélies several million years later. [Provided by EG-BAMM, Alexander E. Thornton & Andres Barbosa](https://scar.org/science/eg-bamm/)
+  title: Pingüino barbijo (Pygoscelis antarcticus)
+  description: Descritos en primera instancia por Johan Reinhold Forster (1781), los pingüinos de barbijo son una especie intolerante al hielo. Son una de las especies de pingüinos más fácilmente reconocibles, llamada así por la distintiva y delgada banda de plumas negras que recorre su barbilla, la cual parece una correa de barbijo que conecta las plumas negras a lo largo de la corona y la espalda, contrastando con el resto del cuerpo que es es blanco. El árbol filogenético de los pingüinos muestra que las especies de pigoscélidos (“con cola de cepillo”) se separaron de un ancestro común de los pingüinos actuales entre 20 y 38 millones de años atrás y los pingüinos de barbijo se diversificaron a partir de los pingüinos Adelia varios millones de años después. Proporcionado por [EG-BAMM, Alexander E. Thornton & Andres Barbosa](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/chinstrap-penguin.jpg
   imageLicense: |
-    *Pygoscelis antarcticus* licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    *Pygoscelis antarcticus* licenciado bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481664
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481664
       isPrimary: true
 
 gentoo-penguin:
   reverse: false
-  title: Gentoo penguin (Pygoscelis papua)
-  description: Gentoo penguins belong to the pygoscelid or brush tail penguins that also include Chinstrap and Adélie penguins. Males and females look very much alike but females tend to be slightly smaller, particularly with regard to the beak depth and length. Gentoo penguins stand about 60 cm tall with both feet on the ground and their heads pulled in. The colouration of the sexes is identical; head, throat, back and flippers are dark bluish-black while the chest, belly and underside of the flippers are white. The black and white body parts are clearly separated. Above the eyes are two white patches that often join across the crown. A dusting of white feathers is sprinkled around their head, nape and upper back. The top of the beaks and their tips are black but the sides are orange to red. The feet are pinkish-orange to red and the irises are brown. Provided by [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)
+  title: Pingüino papúa (Pygoscelis papua)
+  description: "Los pingüinos papúa pertenecen a la familia de los pigoscélidos o pingüinos de cola de cepillo, que también incluye a los pingüinos de barbijo y adelia. Los machos y las hembras se parecen mucho, pero las hembras generalmente tienen un pico menos profundo y largo. Los pingüinos papúa miden unos 60 cm de alto con ambos pies en el suelo y la cabeza recogida. La coloración de los sexos es idéntica: la cabeza, la garganta, la espalda y las aletas son de un negro azulado oscuro, mientras que el pecho, el vientre y la parte inferior de las aletas son de color blanco. Las partes del cuerpo negras y blancas están claramente separadas. Sobre los ojos hay dos manchas blancas que a menudo se unen a lo largo de la coronilla. Una capa de plumas blancas se esparce alrededor de la cabeza, la nuca y la parte superior de la espalda. La parte superior de los picos y sus puntas son negras, pero los lados son de un tono entre naranja y rojo. Las patas son entre color naranja-rosado hasta rojo y el iris es marrón. Proporcionado por [EG-BAMM, B. Wienecke](https://scar.org/science/eg-bamm/)"
   background: /assets/images/cemp/gentoo-penguin.jpg
   imageLicense: |
-    [*Pygoscelis papua* (J.R.Forster, 1781)](/occurrence/search?entity=4029090741) observed in Antarctica by msr (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    [*Pygoscelis papua* (J.R.Forster, 1781)](/es/occurrence/search?entity=4029090741) observado en la Antárctica por msr (licenciado bajo http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481666
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481666
       isPrimary: true
 
 macaroni-penguin:
   reverse: true
-  title: Macaroni penguin (Eudyptes chrysolophus)
-  description: Southern rockhopper penguins belong to the crested penguins, the largest genus of the Spheniciforms including seven species of Eudyptes - eastern rockhopper penguin Eudyptes filholi, northern rockhopper penguin Eudyptes moseleyi, macaroni penguin Eudyptes chrysolophus, royal penguin Eudyptes schlegeli, Fiordland penguin Eudyptes pachyrhynchus, Snares penguin Eudyptes robustus and erect-crested penguin Eudyptes sclateri. Pprovided by [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)
+  title: Pingüino macaroni (Eudyptes chrysolophus)
+  description: "Los pingüinos de penacho amarillo del sur pertenecen a los pingüinos crestados, el género más grande de los esfeniciformes, que incluye siete especies de Eudyptes: el pingüino de penacho amarillo oriental (Eudyptes filholi), el pingüino saltarrocas norteño (Eudyptes moseleyi), el pingüino macaroni (Eudyptes chrysolophus), el pingüino real (Eudyptes schlegeli), el pingüino de Fiordland (Eudyptes pachyrhynchus), el pingüino de las Snares (Eudyptes robustus) y el pingüino de Sclater (Eudyptes sclateri). Proporcionado por [EG-BAMM, Maud Poisbleau & Laurent Demongin](https://scar.org/science/eg-bamm/)"
   background: /assets/images/cemp/macaroni-penguin.jpg
   imageLicense: |
-    *Eudyptes chrysolophus* - Southern rockhopper penguins in group by Laurent Demongin licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    *Eudyptes chrysolophus* - Pingüinos de penacho amarillo del sur en grupo por Laurent Demongin, licenciado bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481643
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481643
       isPrimary: true
 
 black-browed-albatross:
   reverse: false
-  title: Black-browed albatross (Thalassarche melanophris)
-  description: Thalassarche melanophris (first named Diomedea melanophris by Coenraad Jacob Temminck), is a large seabird of the albatross family, Diomedeidae; it is the most numerous, widespread and common member of its family around the Southern Ocean (particularly in the Atlantic sector). [Provided by EG-BAMM, Richard Phillips & Jose Xavier](https://scar.org/science/eg-bamm/)
+  title: Albatros de ceja negra (Thalassarche melanophris)
+  description: Thalassarche melanophris (primero nombrados Diomedea melanophris por Coenraad Jacob Temminck) es un ave marina de gran tamaño de la familia de los albatros, Diomedeidae. También es el miembro más numeroso, extendido y común de su familia alrededor del Océano Austral (particularmente en el sector Atlántico). Proporcionado por [EG-BAMM, Richard Phillips & Jose Xavier](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/black-browed-albatross.jpg
   imageLicense: |
-    *Thalassarche melanophris* - Black-browed albatross in flight by Jose Xavier licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    *Thalassarche melanophris* - Albatros de ceja negra en vuelo por Jose Xavier, licenciado bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481410
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481410
       isPrimary: true
 
 antarctic-petrel:
   reverse: true
-  title: Antarctic petrel (Thalassoica antarctica)
-  description: The Antarctic petrel is a medium-sized petrel with a dark brown and white plumage. The dark brown parts may fade during the breeding season to pale brown. Head, neck and back are chocolate brown. Bill is very dark to black. The upperwing is dark brown with a large white bar over the secondary and first primary feathers, which is visible in flight. The underwing and belly are largely white. The sexes are alike, although males are slightly larger. The weight of adult birds fluctuates throughout the year between 550-800g, with peak weight around egg laying. [Provided by EG-BAMM, Jeroen CS Creuwels & Øystein Varpe](https://scar.org/science/eg-bamm/)
+  title: Petrel antártico (Thalassoica antarctica)
+  description: El petrel antártico es un petrel de tamaño mediano con plumaje de color marrón oscuro y blanco. Las partes de color marrón oscuro pueden cambiar a marrón pálido durante la temporada de reproducción. La cabeza, el cuello y la espalda son de color marrón chocolate. El pico es de un tono muy oscuro, similar al negro. La parte superior del ala es de color marrón oscuro con una gran línea blanca sobre las plumas secundarias y las primeras primarias, la cual es visible en vuelo. La parte inferior del ala y el vientre son blancas casi en su totalidad. Los sexos son similares, aunque los machos son ligeramente más grandes. El peso de las aves adultas fluctúa a lo largo del año entre 550 y 800 g, con un peso máximo en la etapa de puesta de huevos. Proporcionado por [EG-BAMM, Jeroen CS Creuwels & Øystein Varpe](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/antarctic-petrel.jpg
   imageLicense: |
-    *Thalassoica antarctica* in flight by Sebastien Descamps licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+    *Thalassoica antarctica* en vuelo por Sebastien Descamps, licenciada bajo [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2481513
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2481513
       isPrimary: true
 
 cape-petrel:
   reverse: false
-  title: Cape petrel (Daption capense)
-  description: During breeding season, Cape petrels feed around Antarctica's shelf and during the winter they range further north, as far as Angola and the Galapagos Islands. They breed on many islands of Antarctica and the subantarctic islands, some going as far as the Auckland Islands, the Chatham Islands, Campbell Island. Their main breeding grounds are on the Antarctic Peninsula, South Georgia, the Balleny Islands, the Kerguelen Islands, as well as islands in the Scotia Sea - [ZipCode Zoo (3 July 2009)](https://web.archive.org/web/20120609213137/http://zipcodezoo.com/Animals/D/Daption_capense_australe/)
+  title: Petrel damero (Daption capense)
+  description: Durante la temporada de cría, los petreles dameros se alimentan en la plataforma continental de la Antártida y durante el invierno se desplazan más al norte, hasta Angola y las islas Galápagos. Se reproducen en muchas islas de la Antártida y las islas subantárticas, incluso algunos llegan hasta las islas Auckland, las islas Chatham y la isla Campbell. Sus principales zonas de cría se encuentran en la península Antártica, Georgia del Sur, las islas Balleny, las islas Kerguelen y las islas del mar de Scotia - [ZipCode Zoo (3 de julio de 2009)](https://web.archive.org/web/20120609213137/http://zipcodezoo.com/Animals/D/Daption_capense_australe/).
   background: /assets/images/cemp/cape-petrel.png
   imageLicense: |
-     [*Daption capense* subsp. *australe* Mathews, 1913](/occurrence/search?entity=4133913569) observed in Australia by Ian Melbourne (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+     [*Daption capense* subsp. *australe* Mathews, 1913](/es/occurrence/search?entity=4133913569) observado en Australia por Ian Melbourne (licenciado bajo http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=6178257
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=6178257
       isPrimary: true
 
 antarctic-fur-seal:
   reverse: true
-  title: Antarctic fur seal (Arctocephalus gazella)
-  description: Antarctic fur seals are one of the most numerous mammalian predators in the Antarctic. The population was hunted to near extinction at the start of the 20th Century for its pelt. It has subsequently recovered with the current population estimated to be in the region of 3-4 million. Around breeding beaches small groups or individuals can often be seen porpoising through the water and will often stop to investigate ships or small boats. On land they are often aggressive and, during the breeding season, large aggregations can make access to beaches difficult. [Provided by EG-BAMM, Ian Staniland](https://scar.org/science/eg-bamm/)
+  title: Lobo marino antártico (Arctocephalus gazella)
+  description: Los lobos marinos antárticos son uno de los mamíferos depredadores más numerosos de la Antártida. La población fue cazada hasta casi extinguirse a principios del siglo XX por su piel. Se recuperaron posteriormente y se estima que su población actual es de entre 3 y 4 millones. En las playas de cría se pueden ver pequeños grupos o individuos surcando el agua y a menudo se detienen para investigar los barcos o botes pequeños. En tierra suelen ser agresivos y, durante la temporada de cría, las grandes agrupaciones pueden dificultar el acceso a las playas. Proporcionado por [EG-BAMM, Ian Staniland](https://scar.org/science/eg-bamm/)
   background: /assets/images/cemp/antarctic-fur-seal.png
   imageLicense: |
-    [*Arctocephalus gazella* (Peters, 1875)](/occurrence/search?entity=4062893786) observed in Antarctica by Sebastián Lescano (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    [*Arctocephalus gazella* (Peters, 1875)](/es/occurrence/search?entity=4062893786) observed in Antarctica by Sebastián Lescano (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
-    - text: View records
-      href: /occurrence/search?taxonKey=2433472
+    - text: Ver registros
+      href: /es/occurrence/search?taxonKey=2433472
       isPrimary: true
