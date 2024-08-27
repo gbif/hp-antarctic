@@ -1,7 +1,7 @@
 # Los enlaces listados a continuación se incluirán en el menú de navegación de tu sitio (navegación en la parte superior)
 
 - text: Noticias
-  href: /es/news/?category=news
+  href: /es/news/?category=noticias
 - text: Buscar datos
   menu: # Menú desplegable (solo un nivel de profundidad)
   - text: Registros biológicos
