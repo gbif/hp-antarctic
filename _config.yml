@@ -84,6 +84,11 @@ exclude:
   - .netlify.toml
   - .README.md
 
+include:
+  - fr/
+  - es/
+  - ru/
+
 permalink: pretty # will strip extensions like .html from urls
 
 defaults:
