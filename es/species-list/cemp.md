@@ -22,21 +22,21 @@ composition:
 - type: heroImage
 - type: pageMarkdown  # render markdown in this file
 - type: split
-  data: species-list.cemp.adelie-penguin
+  data: es.species-list.cemp.adelie-penguin
 - type: split
-  data: species-list.cemp.chinstrap-penguin
+  data: es.species-list.cemp.chinstrap-penguin
 - type: split
-  data: species-list.cemp.gentoo-penguin
+  data: es.species-list.cemp.gentoo-penguin
 - type: split
-  data: species-list.cemp.macaroni-penguin
+  data: es.species-list.cemp.macaroni-penguin
 - type: split
-  data: species-list.cemp.black-browed-albatross
+  data: es.species-list.cemp.black-browed-albatross
 - type: split
-  data: species-list.cemp.antarctic-petrel
+  data: es.species-list.cemp.antarctic-petrel
 - type: split
-  data: species-list.cemp.cape-petrel
+  data: es.species-list.cemp.cape-petrel
 - type: split
-  data: species-list.cemp.antarctic-fur-seal
+  data: es.species-list.cemp.antarctic-fur-seal
 ---
 
 # Programa de Monitoreo de Ecosistemas de la CCAMLR (CEMP)
