@@ -1,7 +1,6 @@
 ---
 lang-ref: FAQ
 lang: es
-permalink: /faq
 title: Preguntas frecuentes
 description: Una lista de preguntas y respuestas frecuentes relacionadas con el Portal de Biodiversidad Antártica del SCAR
 background: /assets/images/faq_3446790392.jpeg
