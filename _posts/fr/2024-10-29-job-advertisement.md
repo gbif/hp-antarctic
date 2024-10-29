@@ -3,7 +3,7 @@ lang-ref: 2024-10-29-job-advertisement
 lang: fr
 title: "Offre d'emploi"
 preTitle: Octobre 29, 2024
-description: "COLLABORATEUR SCIENTIFIQUE BIODIVERSITÉ EN ANTARCTIQUE ET DANS L'OCÉAN AUSTRAL (h/f/x)"
+description: "COLLABORATEUR SCIENTIFIQUE: BIODIVERSITÉ EN ANTARCTIQUE ET DANS L'OCÉAN AUSTRAL (h/f/x)"
 date: 2024-10-29
 categories: ["nouvelles"]
 background: /assets/images/posts/2023-07-29_job-advert_AVDP_SCAR_0183.jpg
@@ -11,17 +11,17 @@ imageLicense: |
   Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-# COLLABORATEUR SCIENTIFIQUE BIODIVERSITÉ EN ANTARCTIQUE ET DANS L'OCÉAN AUSTRAL (h/f/x)
+# COLLABORATEUR SCIENTIFIQUE: BIODIVERSITÉ EN ANTARCTIQUE ET DANS L'OCÉAN AUSTRAL (h/f/x)
 
-Une vacance est disponible à l'Institut royal des Sciences naturelles de Belgique, au sein du département Biodiversity and Ecosystems Data and Information Centre (BEDIC).
+Un poste est disponible à l'Institut Royal des Sciences Naturelles de Belgique, au sein du département Biodiversity and Ecosystems Data and Information Centre (BEDIC).
 
 Groupe d'activités de la fonction : I – recherche scientifique et développement expérimental
 
 ## Contexte
 
-L'Institut royal des Sciences naturelles de Belgique recrute un collaborateur scientifique pour soutenir la mise en œuvre d'un Environnement de Recherche Virtuel pour surveiller et rendre compte des changements de biodiversité dans l'océan Austral et la région Antarctique.
+L'Institut Royal des Sciences Naturelles de Belgique recrute un collaborateur scientifique pour soutenir la mise en œuvre d'une Infrastructure de Recherche Virtuelle pour surveiller et rendre compte des changements de biodiversité dans l'océan Austral et la région Antarctique.
 
-Nous recherchons actuellement un Analyste de Données en Biodiversité compétent et motivé, avec une expertise dans les langages de programmation comme R et Python, pour élargir notre équipe. En tant que membre de l'équipe, vous jouerez un rôle clé dans le développement de workflows analytiques pour la recherche en biodiversité en utilisant des répertoires de données publics tels qu'OBIS (Système d'Information sur la Biodiversité Océanique) et GBIF (Global Biodiversity Information Facility).
+Nous recherchons actuellement un Analyste de Données en Biodiversité compétent et motivé, avec une expertise dans les langages de programmation tels que R et Python, afin d'élargir notre équipe. En tant que membre de l'équipe, vous jouerez un rôle clé dans le développement de workflows analytiques pour la recherche en biodiversité en utilisant des bases de données publiques tels qu'OBIS (Ocean Biodiversity Information System) et GBIF (Global Biodiversity Information Facility).
 
 Cette fonction fait partie du projet ADVANCE, financé par BELSPO, qui vise à améliorer la coordination et l'interopérabilité de divers outils et installations mondiaux pour transformer les données de biodiversité de l'océan Austral et de l'Antarctique en produits de données pertinents pour la recherche et les politiques.
 
@@ -31,7 +31,7 @@ Le projet favorise la publication de tous les éléments du cycle de recherche s
 
 Il développera la plateforme de données en ligne bien établie (le Portail de Biodiversité Antarctique SCAR, www.biodiversity.aq) pour répondre aux besoins croissants de la communauté de recherche en biodiversité de l'Antarctique et de l'océan Austral en matière d'accès aux données, services, protocoles, normes, workflows et applications.
 
-Un élément clé sera le développement d'applications permettant la création de produits de données à partir de Variables Essentielles de la Biodiversité (EBV), de Variables Essentielles Océaniques (EOV), de Variables Climatiques Essentielles (ECV) et de Variables Océaniques Essentielles pour l'Écosystème (eEOV), intégrés dans diverses plateformes internationales, y compris SOOS et SOOSmap.
+Un élément clé sera le développement d'applications permettant la création de produits de données à partir de Variables Essentielles de la Biodiversité (EBV), de Variables Essentielles Océaniques (EOV), de Variables Climatiques Essentielles (ECV) et de Variables Océaniques Essentielles pour l'écosystème (eEOV), intégrés dans diverses plateformes internationales, y compris SOOS et SOOSmap.
 
 ## Description du poste
 
@@ -49,7 +49,7 @@ Un élément clé sera le développement d'applications permettant la création 
   - Maîtrise des langages de programmation R et Python, et expérience dans le développement de workflows d'analyse de données.
   - Bonne compréhension des concepts de biodiversité, des structures de données et des méthodes d'analyse écologique.
 - Compétences générales :
-  - Orienté qualité, honnête, créatif, et orienté coopération.
+  - Orienté qualité et coopération, honnête, créatif.
   - Excellentes compétences en résolution de problèmes et en analyse, avec la capacité de travailler de manière autonome et en équipe.
   - Bonnes compétences en communication pour collaborer avec des équipes multidisciplinaires et présenter les résultats.
 - Atouts :
@@ -61,7 +61,7 @@ Un élément clé sera le développement d'applications permettant la création 
 
 ## Nous offrons
 
-L'Institut royal des Sciences naturelles de Belgique offre :
+L'Institut Royal des Sciences naturelles de Belgique offre :
 
 - Un contrat de travail à durée déterminée d'un ou deux ans, débutant dès que possible, avec possibilité de prolongation.
 - Salaire défini selon l'échelle pour les scientifiques du gouvernement fédéral, avec un salaire brut minimum de 53 848,52 euros/an.
