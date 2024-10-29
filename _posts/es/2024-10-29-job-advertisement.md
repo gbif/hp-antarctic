@@ -1,161 +1,124 @@
 ---
-lang-ref: 2024-10-29-job-advertisement
-lang: es
-title: "Job Advertisement"
-preTitle: October 29, 2024
-description: "SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)"
-date: 2024-10-29
-categories: ["news"]
-background: /assets/images/posts/2023-07-29_job-advert_AVDP_SCAR_0183.jpg
-imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+lang-ref: 2024-10-29-job-advertisement  
+lang: es  
+title: "Oferta de Empleo"  
+preTitle: 29 de octubre de 2024  
+description: "COLABORADOR CIENTÍFICO EN BIODIVERSIDAD ANTÁRTICA Y DEL OCÉANO SUR (h/m/x)"  
+date: 2024-10-29  
+categories: ["noticias"]  
+background: /assets/images/posts/2023-07-29_job-advert_AVDP_SCAR_0183.jpg  
+imageLicense: |  
+  Foto de Anton Van de Putte con licencia bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ---
 
-# SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)
 
-There is 1 vacancy at the Royal Belgian Institute of Natural Sciences, within the department of Biodiversity & Ecosystems Data & Information Centre (BEDIC).
+> **NOTE:** The content on this page was translated by ChatGPT and is yet to be verified by a translator.
 
-The function's activity group is: I – scientific research and experimental development
+# COLABORADOR CIENTÍFICO EN BIODIVERSIDAD ANTÁRTICA Y DEL OCÉANO SUR (h/m/x)
 
-## Context
+Existe una vacante en el Real Instituto Belga de Ciencias Naturales, en el departamento de Biodiversity and Ecosystems Data and Information Centre (BEDIC).
 
-The Royal Belgian Institute of Natural Sciences is recruiting a scientific collaborator to support the implementation of a Virtual Research Environment for Monitoring and reporting on biodiversity changes in the Southern Ocean and Antarctic Region.
+El grupo de actividades de la función es: I – investigación científica y desarrollo experimental
 
-We are currently seeking a skilled and motivated Biodiversity Data Analyst with expertise in programming languages such as R and Python to expand our team further. As part of our team, you will play a key role in developing analytical workflows for biodiversity research using public data repositories like OBIS (Ocean Biodiversity Information System) and GBIF (Global Biodiversity Information Facility).
+## Contexto
 
-This function is part of the BELSPO-funded Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE) Project. ADVANCE will work towards improved coordination and interoperability of diverse tools and facilities that operate worldwide and turn Southern Ocean and Antarctic biodiversity data into research and policy-relevant data products.
+El Real Instituto Belga de Ciencias Naturales está reclutando un colaborador científico para apoyar la implementación de un Entorno Virtual de Investigación para monitorear y reportar cambios en la biodiversidad en el Océano Austral y la Región Antártica.
 
-ADVANCE is a collaboration between SOOS, the Australian Antarctic Division, EMODnet, WoRMS, as well as GBIF, and OBIS to create a Virtual Research Infrastructure (VRI) for the Antarctic and Southern Ocean (ASO) region that will convert biodiversity data into research and policy-relevant data products.
+Actualmente, buscamos un Analista de Datos en Biodiversidad cualificado y motivado, con experiencia en lenguajes de programación como R y Python, para ampliar nuestro equipo. Como parte de nuestro equipo, desempeñará un papel clave en el desarrollo de flujos de trabajo analíticos para la investigación en biodiversidad utilizando repositorios de datos públicos como OBIS (Ocean Biodiversity Information System) y GBIF (Global Biodiversity Information Facility).
 
-ADVANCE supports the publication of all research cycle elements in accordance with open science principles like FAIR, TRUST, and CARE: Findable, Accessible, Interoperable, and Reusable (FAIR), Transparency, Responsibility, User focus, Sustainability and Technology (TRUST), and Collective Benefit, Authority to Control, Responsibility, and Ethics (CARE).
+Esta función forma parte del Proyecto Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE), financiado por BELSPO, que busca mejorar la coordinación y la interoperabilidad de diversas herramientas e instalaciones a nivel mundial para convertir los datos de biodiversidad del Océano Austral y la Antártida en productos de datos relevantes para la investigación y las políticas.
 
-It will expand a well-established online data platform (the SCAR Antarctic Biodiversity Portal, www.biodiversity.aq) to meet the growing needs of the Antarctic and Southern Ocean biodiversity research community to access high-quality data, services, protocols, standards, workflows, and software/applications that integrate biodiversity data with environmental data from diverse sources and create research and policy-relevant outputs.
+ADVANCE es una colaboración entre SOOS, la División Antártica Australiana, EMODnet, WoRMS, así como GBIF y OBIS, para crear una Infraestructura de Investigación Virtual (VRI) para la región Antártica y del Océano Austral (ASO) que convertirá los datos de biodiversidad en productos de datos relevantes para la investigación y las políticas.
 
-A key component will be the development of applications that allow data product creation from Essential Biodiversity Variables (EBVs), Essential Ocean Variables (EOVs), Essential Climate Variables (ECVs), and Ecosystem Essential Ocean Variables (eEOVs) will be crucial. These will be integrated into various international platforms including SOOS and SOOSmap.
+ADVANCE apoya la publicación de todos los elementos del ciclo de investigación de acuerdo con los principios de ciencia abierta como FAIR, TRUST y CARE: Encontrable, Accesible, Interoperable y Reutilizable (FAIR), Transparencia, Responsabilidad, Enfoque en el Usuario, Sostenibilidad y Tecnología (TRUST), y Beneficio Colectivo, Autoridad para Controlar, Responsabilidad y Ética (CARE).
 
-## Job description
+Se expandirá una plataforma de datos en línea bien establecida (el Portal de Biodiversidad Antártica del SCAR, www.biodiversity.aq) para satisfacer las crecientes necesidades de la comunidad de investigación en biodiversidad de la Antártida y el Océano Austral de acceso a datos, servicios, protocolos, estándares, flujos de trabajo y aplicaciones.
 
-- Design and develop efficient, reproducible and scalable analytical workflows for biodiversity research.
-- Extract, clean, and process large-scale biodiversity data from public repositories such as OBIS and GBIF.
-- Implement data analysis techniques and statistical models using R and Python to extract meaningful insights from biodiversity datasets.
-- Collaborate with researchers and stakeholders to understand their analytical needs and provide solutions using programming tools.
-- Develop data visualization tools and reports to effectively communicate findings and contribute to scientific publications.
-- Stay up-to-date with the latest developments in biodiversity data management, open data repositories, and programming techniques.
+Un componente clave será el desarrollo de aplicaciones que permitan la creación de productos de datos a partir de Variables Esenciales de Biodiversidad (EBVs), Variables Esenciales del Océano (EOVs), Variables Climáticas Esenciales (ECVs) y Variables Oceánicas Esenciales para el Ecosistema (eEOVs). Estos se integrarán en diversas plataformas internacionales, incluyendo SOOS y SOOSmap.
 
-## Profile
+## Descripción del puesto
 
-- Diploma: Master's degree or PhD in a relevant field (e.g., Computer Science, Bioinformatics, Ecology, or related disciplines).
-- Technical qualifications:
-  - Proficiency in programming languages such as R and Python, and experience in developing data analysis workflows
-  - Strong understanding of biodiversity concepts, data structures, and ecological data analysis methods.
-- Generic competences :
-  - You are quality-oriented, honest, creative and cooperation-oriented.
-  - Excellent problem-solving and analytical skills, with the ability to work independently and as part of a team.
-  - Good communication skills to collaborate effectively with multidisciplinary teams and present findings to both technical and non-technical stakeholders.
-- Assets:
-  - Experience in scientific writing and contributing to research publications is a plus.
-  - Familiarity with public biodiversity repositories like OBIS and GBIF, and experience working with their data.
-  - Familiarity with software development using version control and collaborative platforms such as GitHub.
-  - Knowledge of data cleaning and manipulation techniques, statistical analysis, and data visualization.
-  - Good knowledge of English.
+- Diseñar y desarrollar flujos de trabajo analíticos eficientes, reproducibles y escalables para la investigación en biodiversidad.
+- Extraer, limpiar y procesar datos de biodiversidad a gran escala de repositorios públicos como OBIS y GBIF.
+- Implementar técnicas de análisis de datos y modelos estadísticos usando R y Python para extraer conocimientos significativos.
+- Colaborar con investigadores y partes interesadas para entender sus necesidades analíticas y proponer soluciones.
+- Desarrollar herramientas de visualización de datos e informes para comunicar los resultados y contribuir a publicaciones científicas.
+- Mantenerse actualizado en los últimos desarrollos en la gestión de datos de biodiversidad, repositorios de datos abiertos y técnicas de programación.
 
-## We offer
+## Perfil
 
-The Royal Belgian Institute of Natural Sciences offers:
+- Diploma: Maestría o Doctorado en un campo relevante (por ejemplo, informática, bioinformática, ecología o disciplinas relacionadas).
+- Calificaciones técnicas:
+  - Dominio de los lenguajes de programación R y Python, y experiencia en el desarrollo de flujos de trabajo de análisis de datos.
+  - Buena comprensión de los conceptos de biodiversidad, estructuras de datos y métodos de análisis de datos ecológicos.
+- Competencias generales:
+  - Orientación a la calidad, honestidad, creatividad y cooperación.
+  - Excelentes habilidades de resolución de problemas y análisis, con capacidad para trabajar de forma independiente y en equipo.
+  - Buenas habilidades de comunicación para colaborar con equipos multidisciplinarios y presentar resultados.
+- Ventajas:
+  - Experiencia en redacción científica y contribución a publicaciones de investigación.
+  - Familiaridad con repositorios públicos de biodiversidad como OBIS y GBIF, y experiencia con sus datos.
+  - Conocimiento de GitHub para el desarrollo de software.
+  - Técnicas de limpieza y manipulación de datos, análisis estadístico y visualización de datos.
+  - Buen conocimiento del inglés.
 
-- The employment contract will start as soon as possible and be of fixed duration of 1 or 2 years with the latest end date of  December 2026, depending on the availability of funding prolongation and evaluation maty be possible.
-- The salary is defined according to the standard scale for federal government scientists as published in the Moniteur Belge/Belgisch Staatsblad (http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (publication 10.6.2010), for grade SW1 (master) with index and relevant work experience (e.g. PhD or other)
-- Minimum wage: 53.848,52 euros (gross annual salary at current index, excluding statutory allowances)
-- The nominal workplace is Brussels 1000 (29 rue Vautierstraat), with typically 15-30 days per year abroad for workshops, conferences and other meetings.
-- Some funds are available to support relocation to Belgium if required.
+## Ofrecemos
 
-## Benefits
+El Real Instituto Belga de Ciencias Naturales ofrece:
 
-- flexible work schedules 38h or 40h (with compensation) per week
-- telework opportunities with telework and office allowance
-- offices closed between Christmas and New Year
-- laptop providing
-- 26 annual leave days (for one year of full-time employment)
-- meal vouchers (6€ per day)
-- workplace accessible by public transport
-- home-workplace free public transport
-- various training opportunities (to be followed during working hours)
-- vacation pay and end-of-year bonus
-- possibility to receive a language bonus
-- advantageous hospitalization insurance
-- social benefits (with conditions)
-- possibility to receive a bicycle allowance
-- benefits and reductions with Benefits@Work
-- free admission to the RBINS museum and also other federal scientific institutions with Belspo card (Fine Arts Museum, Central Africa Museum, Planetarium, etc.)
-- 10% discount in the Museum Shop and the Dino Café
-- complementary pension
-- Tourist Attraction Passport (with conditions)
+- Un contrato de trabajo de duración determinada de 1 o 2 años, comenzando lo antes posible, con posibilidad de prórroga.
+- El salario está definido según la escala estándar para científicos del gobierno federal.
+- Salario mínimo: 53.848,52 euros/anuales brutos.
+- Lugar de trabajo en Bruselas (1000, rue Vautier 29), con alrededor de 15-30 días de desplazamiento por año.
 
-## Assignment conditions
+## Beneficios
 
-If you are successful in this selection process, you must - in order to be hired - meet the following conditions on the assignment date:
+- Horarios flexibles (38h o 40h) y teletrabajo.
+- Oficinas cerradas entre Navidad y Año Nuevo, ordenador portátil incluido.
+- 26 días de vacaciones anuales (por un año de jornada completa).
+- Vales de comida (6€ por día), transporte público gratuito para los desplazamientos de casa al trabajo.
+- Oportunidades de formación durante las horas de trabajo.
+- Seguro de hospitalización ventajoso, bonificación lingüística, bonificaciones anuales.
 
-- have civil and political rights
-- be of good conduct and meet the requirements of the position
-- hold the required diploma(s)
-- meet the specific skills and requirements set out in the job profile.
+## Condiciones de asignación
 
-## Procedure
+Para ser contratado, deberá:
 
-### Step 1 - Verification of participation conditions
+- Poseer derechos civiles y políticos.
+- Tener buena conducta.
+- Poseer los diplomas requeridos.
 
-You will be admitted to the selection process provided you meet all the required conditions of participation. Verification is carried out by the selection committee on the basis of your application file. The committee decides whether the qualifications, merits and experience you present correspond to the requirements of the position to be filled. If so, you will be invited to the next stage.
+## Procedimiento
 
-Depending on the number of applications received, the selection committee reserves the right to limit the number of candidates going on to the next stage by determining those it considers most suitable for the position to be filled.
+### Etapa 1 – Verificación de las condiciones de participación
 
-Please specify the purpose of the test concerned
+Si cumple con los requisitos, será admitido al proceso de selección, basado en su expediente de candidatura.
 
-### Stage 2 - Audition
+### Etapa 2 – Audiencia
 
-For practical details, you will receive an e-mail from one of our staff.
+Recibirá los detalles prácticos por correo electrónico. 
 
-The selection committee assesses whether the qualifications, merits and experience you present in your application match the requirements of the position.
+### En caso de ausencia
 
-### In case of absence
+En caso de ausencia a una prueba complementaria y/o entrevista, será excluido salvo justificación.
 
-If you fail to attend the complementary test and/or interview, you are automatically excluded from the rest of the selection procedure unless you can demonstrate, within three days, that your absence was justified by one of the following reasons:
+### Notificación
 
-- illness
-- emergency concerning a member of the household (= anyone living with the candidate) or family (= the candidate's spouse or the person with whom the candidate is legally cohabiting, the candidate's first- or second-degree relatives)
-- essential presence at work
-- public transport interruption or delay of at least 30 minutes
-- force majeure.
+En cada etapa, recibirá una notificación del resultado.
 
-If necessary, you can ask to be heard by the committee within ten days of the audition date. A new date will then be proposed.
+### Igualdad de oportunidades y ajustes razonables
 
-### Notification
+La administración federal tiene una política activa de diversidad. Puede solicitar ajustes.
 
-If you are unsuccessful at a particular stage, the procedure is terminated and you are not invited to any subsequent rounds of the same selection. At each stage, you will receive notification of the result.
+### Resultados finales
 
-### Equal opportunities and reasonable accommodation
+Los candidatos seleccionados formarán un grupo válido por un año.
 
-The Federal Administration has an active diversity policy.
+## Cómo postularse
 
-Are you a person with a disability, learning difficulty or illness? You can ask to be accommodated during the selection process. Please contact the person listed in the “Contacts” section.
+Envíe su candidatura a Anton VAN DE PUTTE antes de las 23:30 UTC (24 de noviembre de 2024) por correo electrónico a avandeputte@naturalsciences.be.
 
-### Facilities for pregnant or breast-feeding applicants
+Para preguntas administrativas, contacte al departamento de recursos humanos: hr@naturalsciences.be.
 
-Are you pregnant or breast-feeding? In this case, too, you can request special facilities. Please contact the person listed in the “Contacts” section.
 
-### Final results
-
-If you are successful?
-
-At the end of the selection procedure, an unranked group of laureates is formed. It is made up of those who have been judged the most suitable for the position to be filled in accordance with the conditions of participation.
-
-### How long does this list remain valid?
-
-The valid group of successful candidates is valid 1 year.
-
-## How to apply?
-
-Applications, including a curriculum vitæ and a cover letter, should be addressed to Anton VAN DE PUTTE, and should be sent before 23:30 UTC (24 November 2024) by email to avandeputte@naturalsciences.be with the heading ‘ADVANCE - job application 2024’. Selected candidates will be invited for an oral interview in person, or by videoconference between the 9th-12th December 2024. If invited for the interview you will have to prepare a short assignment in preparation for the interview.
-
-For all administrative questions, please contact the HR department: hr@naturalsciences.be.
-
-Applications not complying with the above procedure will not be accepted.
