@@ -23,7 +23,7 @@ L'Institut Royal des Sciences Naturelles de Belgique recrute un collaborateur sc
 
 Nous recherchons actuellement un Analyste de Données en Biodiversité compétent et motivé, avec une expertise dans les langages de programmation tels que R et Python, afin d'élargir notre équipe. En tant que membre de l'équipe, vous jouerez un rôle clé dans le développement de workflows analytiques pour la recherche en biodiversité en utilisant des bases de données publiques tels qu'OBIS (Ocean Biodiversity Information System) et GBIF (Global Biodiversity Information Facility).
 
-Cette fonction fait partie du projet ADVANCE, financé par BELSPO, qui vise à améliorer la coordination et l'interopérabilité de divers outils et installations mondiaux pour transformer les données de biodiversité de l'océan Austral et de l'Antarctique en produits de données pertinents pour la recherche et les politiques.
+Cette fonction fait partie du projet Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE), financé par BELSPO, qui vise à améliorer la coordination et l'interopérabilité de divers outils et installations mondiaux pour transformer les données de biodiversité de l'océan Austral et de l'Antarctique en produits de données pertinents pour la recherche et les politiques.
 
 ADVANCE est une collaboration entre SOOS, la Division Antarctique Australienne, EMODnet, WoRMS, ainsi que GBIF et OBIS, pour créer une Infrastructure de Recherche Virtuelle (VRI) pour la région Antarctique et Océan Austral (ASO).
 
