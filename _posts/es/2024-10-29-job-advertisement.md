@@ -11,8 +11,6 @@ imageLicense: |
   Foto de Anton Van de Putte bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-> **NOTE:** The content on this page was translated by ChatGPT and is yet to be verified by a translator.
-
 # COLABORADOR CIENTÍFICO EN BIODIVERSIDAD DE LA ANTÁRTIDA Y EL OCÉANO AUSTRAL (h/m/x)
 
 Existe una vacante en el departamento del Centro de Datos e Información de Biodiversidad y Ecosistemas (BEDIC por sus siglas en inglés) del Real Instituto Belga de Ciencias Naturales.
