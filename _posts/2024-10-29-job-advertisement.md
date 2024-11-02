@@ -1,6 +1,6 @@
 ---
 lang-ref: 2024-10-29-job-advertisement
-lang: ru
+lang: en
 title: "Job Advertisement"
 preTitle: October 29, 2024
 description: "SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)"
