@@ -11,7 +11,6 @@ imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-> **NOTE:** This page has not been translated into Russian.
 
 # SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)
 
@@ -65,7 +64,7 @@ A key component will be the development of applications that allow data product 
 
 The Royal Belgian Institute of Natural Sciences offers:
 
-- The employment contract will start as soon as possible and be of fixed duration of 1 or 2 years with the latest end date of  December 2026, depending on the availability of funding prolongation and evaluation maty be possible.
+- The employment contract will start as soon as possible and be of fixed duration of 1 or 2 years with the latest end date of  December 2026, depending on the availability of funding prolongation and evaluation may be possible.
 - The salary is defined according to the standard scale for federal government scientists as published in the Moniteur Belge/Belgisch Staatsblad (http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (publication 10.6.2010), for grade SW1 (master) with index and relevant work experience (e.g. PhD or other)
 - Minimum wage: 53.848,52 euros (gross annual salary at current index, excluding statutory allowances)
 - The nominal workplace is Brussels 1000 (29 rue Vautierstraat), with typically 15-30 days per year abroad for workshops, conferences and other meetings.
