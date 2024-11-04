@@ -12,9 +12,7 @@ You can find information on editing this site and more on [gbif/hosted-portals](
 
 ## Sites
 
-Ongoing translations on `master` branch can be viewed at UAT: https://hp-antarctic.gbif-uat.org/
-
-Translations on `master` branch are hidden for staging as it is still in development. 
+Ongoing translations on `master` branch can be viewed at staging: https://hp-antarctic.gbif-staging.org/
 
 ## Running the site locally
 
