@@ -11,6 +11,8 @@ imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
+> **NOTE:** This page has not been translated into Russian.
+
 # SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)
 
 There is 1 vacancy at the Royal Belgian Institute of Natural Sciences, within the department of Biodiversity & Ecosystems Data & Information Centre (BEDIC).

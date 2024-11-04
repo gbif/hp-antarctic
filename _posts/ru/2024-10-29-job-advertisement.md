@@ -1,163 +1,156 @@
 ---
 lang-ref: 2024-10-29-job-advertisement
 lang: ru
-title: "Job Advertisement"
-preTitle: October 29, 2024
-description: "SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)"
+title: "Вакансия"
+preTitle: 29 октября 2024 г.
+description: "НАУЧНЫЙ СОТРУДНИК ПО БИОРАЗНООБРАЗИЮ АНТАРКТИКИ И ЮЖНОГО ОКЕАНА (м/ж/н)"
 date: 2024-10-29
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2023-07-29_job-advert_AVDP_SCAR_0183.jpg
 imageLicense: |
-  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-> **NOTE:** This page has not been translated into Russian.
+# НАУЧНЫЙ СОТРУДНИК ПО БИОРАЗНООБРАЗИЮ АНТАРКТИКИ И ЮЖНОГО ОКЕАНА (м/ж/н)
 
-# SCIENTIFIC COLLABORATOR ANTARCTIC AND SOUTHERN OCEAN BIODIVERSITY (m/f/x)
+Институт естественных наук Бельгии ищет научного сотрудника для работы в отделе Биоразнообразия, Данных экосистем и Информационного центра (BEDIC).
 
-There is 1 vacancy at the Royal Belgian Institute of Natural Sciences, within the department of Biodiversity & Ecosystems Data & Information Centre (BEDIC).
+Должность относится к группе деятельности: I – научные исследования и экспериментальное развитие
 
-The function's activity group is: I – scientific research and experimental development
+## Описание
 
-## Context
+Институт естественных наук Бельгии ищет научного сотрудника для поддержки внедрения виртуальной исследовательской среды для мониторинга и отчетности по изменениям биоразнообразия в Южном океане и Антарктическом регионе.
 
-The Royal Belgian Institute of Natural Sciences is recruiting a scientific collaborator to support the implementation of a Virtual Research Environment for Monitoring and reporting on biodiversity changes in the Southern Ocean and Antarctic Region.
+Мы ищем опытного и целеустремленного аналитика данных по биоразнообразию, владеющего такими языками программирования, как R и Python. В составе нашей команды вы будете играть ключевую роль в разработке аналитических рабочих процессов для исследований биоразнообразия с использованием публичных хранилищ данных, таких как OBIS (Система информации о биоразнообразии океана) и GBIF (Глобальный информационный фонд биоразнообразия).
 
-We are currently seeking a skilled and motivated Biodiversity Data Analyst with expertise in programming languages such as R and Python to expand our team further. As part of our team, you will play a key role in developing analytical workflows for biodiversity research using public data repositories like OBIS (Ocean Biodiversity Information System) and GBIF (Global Biodiversity Information Facility).
+Работа осуществляется в рамках проекта "Инфраструктура данных антарктического биоразнообразия" (Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE)), финансируемого BELSPO. ADVANCE нацелен на улучшение координации и совместимости различных инструментов и средств, которые доступны по всему миру и превращают данные о биоразнообразии Южного океана и Антарктики в информационные продукты, полезные для исследований и научной политики.
 
-This function is part of the BELSPO-funded Antarctic bioDiVersity dAta iNfrastruCturE (ADVANCE) Project. ADVANCE will work towards improved coordination and interoperability of diverse tools and facilities that operate worldwide and turn Southern Ocean and Antarctic biodiversity data into research and policy-relevant data products.
+ADVANCE - это сотрудничество между SOOS, Австралийским антарктическим отделом, EMODnet, WoRMS, а также GBIF и OBIS с целью создания виртуальной исследовательской инфраструктуры (ВИИ) для региона Антарктики и Южного океана, которая преобразует данные о биоразнообразии в продукты данных для исследований и научной политики.
 
-ADVANCE is a collaboration between SOOS, the Australian Antarctic Division, EMODnet, WoRMS, as well as GBIF, and OBIS to create a Virtual Research Infrastructure (VRI) for the Antarctic and Southern Ocean (ASO) region that will convert biodiversity data into research and policy-relevant data products.
+ADVANCE поддерживает публикацию всех элементов исследовательского цикла в соответствии с принципами открытой науки, такими как FAIR, TRUST и CARE: Находимость, доступность, совместимость и переиспользование (FAIR), прозрачность, ответственность, ориентация на пользователей, устойчивость инфраструктуры, технологичность работы (TRUST), а также коллективная польза, право контроля, ответственность и этика (CARE).
 
-ADVANCE supports the publication of all research cycle elements in accordance with open science principles like FAIR, TRUST, and CARE: Findable, Accessible, Interoperable, and Reusable (FAIR), Transparency, Responsibility, User focus, Sustainability and Technology (TRUST), and Collective Benefit, Authority to Control, Responsibility, and Ethics (CARE).
+Проект расширит хорошо зарекомендовавшую себя платформу данных (Портал SCAR по биоразнообразию Антарктики, www.biodiversity.aq), чтобы удовлетворить растущие потребности сообщества исследователей биоразнообразия Антарктики и Южного океана в доступе к высококачественным данным, услугам, протоколам, стандартам, рабочим процессам и программному обеспечению/приложениям, которые объединяют данные о биоразнообразии с экологическими данными из различных источников и создают результаты исследований и полезные для научной политики результаты.
 
-It will expand a well-established online data platform (the SCAR Antarctic Biodiversity Portal, www.biodiversity.aq) to meet the growing needs of the Antarctic and Southern Ocean biodiversity research community to access high-quality data, services, protocols, standards, workflows, and software/applications that integrate biodiversity data with environmental data from diverse sources and create research and policy-relevant outputs.
+Ключевым компонентом проекта является разработка приложений, позволяющих создавать продукты данных по основным переменным биоразнообразия (EBVs), основным переменным океана (EOVs), основным климатическим переменным (ECVs) и основным переменным экосистемы океана (eEOVs). Они будут интегрированы в различные международные платформы, включая SOOS и SOOSmap.
 
-A key component will be the development of applications that allow data product creation from Essential Biodiversity Variables (EBVs), Essential Ocean Variables (EOVs), Essential Climate Variables (ECVs), and Ecosystem Essential Ocean Variables (eEOVs) will be crucial. These will be integrated into various international platforms including SOOS and SOOSmap.
+## Задачи
 
-## Job description
+* Проектировать и разрабатывать эффективные, воспроизводимые и масштабируемые аналитические рабочие процессы для исследований биоразнообразия.
+* Извлекать, очищать и обрабатывать крупномасштабные данные о биоразнообразии из публичных хранилищ, таких как OBIS и GBIF.
+* Внедрять методы анализа данных и статистические модели с использованием R и Python для извлечения значимой информации из наборов данных о биоразнообразии.
+* Сотрудничать с исследователями и заинтересованными сторонами, чтобы понять их аналитические потребности и предложить решения с помощью программных продуктов.
+* Разрабатывать инструменты визуализации данных и отчеты для эффективного представления результатов и использования их в научных публикациях.
+* Отслеживать последние события в области управления данными о биоразнообразии, открытых репозиториев данных и методов программирования.
 
-- Design and develop efficient, reproducible and scalable analytical workflows for biodiversity research.
-- Extract, clean, and process large-scale biodiversity data from public repositories such as OBIS and GBIF.
-- Implement data analysis techniques and statistical models using R and Python to extract meaningful insights from biodiversity datasets.
-- Collaborate with researchers and stakeholders to understand their analytical needs and provide solutions using programming tools.
-- Develop data visualization tools and reports to effectively communicate findings and contribute to scientific publications.
-- Stay up-to-date with the latest developments in biodiversity data management, open data repositories, and programming techniques.
+## Профиль
 
-## Profile
+Степень магистра или доктора философии в соответствующей области (например, информатика, биоинформатика, экология или смежные дисциплины) (обладатели иностранного диплома магистра должны будут подать заявку на подтверждение эквивалентности диплома).
+- Технические навыки:
+  - Знание языков программирования, таких как R и Python, и опыт разработки рабочих процессов анализа данных.
+  - Глубокое понимание концепций биоразнообразия, структур данных и методов анализа экологических данных.
+- Общие требования:
+  - Вы ориентированы на качество, честны, креативны и нацелены на сотрудничество.
+  - Отличные навыки решения проблем и аналитические способности, умение работать самостоятельно и в команде.
+  - Хорошие коммуникативные навыки для работы в междисциплинарных командах и представления результатов как специалистам в этой области, так и другим заинтересованным сторонам.
+- Дополнительные квалификации:
+  - Опыт написания научных статей и участия в подготовке научных публикаций является преимуществом.
+  - Умение работать с общедоступными ресурсами по биоразнообразию, такими как OBIS и GBIF, и опыт использования их данных.
+  - Опыт разработки программного обеспечения с использованием платформ контроля версий и командной работы, таких как GitHub.
+  - Знание методов очистки и манипулирования данными, статистического анализа и визуализации данных.
+  - Приличное знание английского языка.
 
-- Diploma: Master's degree or PhD in a relevant field (e.g., Computer Science, Bioinformatics, Ecology, or related disciplines).
-- Technical qualifications:
-  - Proficiency in programming languages such as R and Python, and experience in developing data analysis workflows
-  - Strong understanding of biodiversity concepts, data structures, and ecological data analysis methods.
-- Generic competences :
-  - You are quality-oriented, honest, creative and cooperation-oriented.
-  - Excellent problem-solving and analytical skills, with the ability to work independently and as part of a team.
-  - Good communication skills to collaborate effectively with multidisciplinary teams and present findings to both technical and non-technical stakeholders.
-- Assets:
-  - Experience in scientific writing and contributing to research publications is a plus.
-  - Familiarity with public biodiversity repositories like OBIS and GBIF, and experience working with their data.
-  - Familiarity with software development using version control and collaborative platforms such as GitHub.
-  - Knowledge of data cleaning and manipulation techniques, statistical analysis, and data visualization.
-  - Good knowledge of English.
+## Мы предлагаем
 
-## We offer
+Институт естественных наук Бельгии предлагает:
 
-The Royal Belgian Institute of Natural Sciences offers:
+- Трудовой договор, который начнется как можно скорее и будет иметь фиксированную продолжительность в 1 или 2 года максимально до декабря 2026 года, в зависимости от наличия финансирования и оценки работы возможно продление.
+- Оклад определяется в соответствии со стандартной шкалой для ученых федерального правительства, опубликованной в Moniteur Belge/Belgisch Staatsblad [http://www.ejustice.just.fgov.be/cgi/welcome.pl](http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (публикация 10.6.2010), для класса SW1 (мастер) с индексированием и согласно предшествующему опыту работы (напр. аспирантура или иное)
+- Минимальный оклад: 53.848,52 евро (годовая зарплата без вычита налогов по текущему индексу, без учета установленных законом надбавок)
+- Формальное место работы - Брюссель 1000 (29 rue Vautierstraat), при этом от 15 до 30 дней в году – заграничные коммандировки для проведения семинаров, конференций и других встреч.
+* В случае необходимости может быть предоставлена определенная помощь для переезда в Бельгию.
 
-- The employment contract will start as soon as possible and be of fixed duration of 1 or 2 years with the latest end date of  December 2026, depending on the availability of funding prolongation and evaluation maty be possible.
-- The salary is defined according to the standard scale for federal government scientists as published in the Moniteur Belge/Belgisch Staatsblad (http://www.ejustice.just.fgov.be/cgi/welcome.pl) A.R./K.B. 2.6.2010 (publication 10.6.2010), for grade SW1 (master) with index and relevant work experience (e.g. PhD or other)
-- Minimum wage: 53.848,52 euros (gross annual salary at current index, excluding statutory allowances)
-- The nominal workplace is Brussels 1000 (29 rue Vautierstraat), with typically 15-30 days per year abroad for workshops, conferences and other meetings.
-- Some funds are available to support relocation to Belgium if required.
+## Льготы
 
-## Benefits
+- гибкий график работы 38 или 40 часов в неделю (с компенсацией)
+- возможность удаленной работы с компенсацией за удаленную работу и офис на дому
+- отпуск в период между Рождеством и Новым годом
+- предоставление ноутбука
+- 26 дней ежегодного отпуска (за год работы на полную ставку)
+- талоны на питание (6 евро в день)
+- рабочее место, до которого можно добраться на общественном транспорте
+- бесплатный проезд на общественном транспорте от дома до места работы
+- различные возможности обучения (в рабочее время)
+- оплата отпуска и премия по итогам года
+- возможность получения надбавки за знание языка
+- выгодная медицинская страховка
+- социальные льготы (на определенных условиях)
+- возможность получения пособия на покупку велосипеда
+- льготы и скидки по программе Benefits@Work
+- бесплатный вход в музей RBINS, а также в другие федеральные научные учреждения по карте BELSPO (Музей изобразительных искусств, Музей Центральной Африки, Планетарий и т.д.)
+- скидка 10% в музейном магазине и Dino Café
+- добавочная пансия
+- абонемент на посещение туристических достопримечательностей (на определенных условиях)
 
-- flexible work schedules 38h or 40h (with compensation) per week
-- telework opportunities with telework and office allowance
-- offices closed between Christmas and New Year
-- laptop providing
-- 26 annual leave days (for one year of full-time employment)
-- meal vouchers (6€ per day)
-- workplace accessible by public transport
-- home-workplace free public transport
-- various training opportunities (to be followed during working hours)
-- vacation pay and end-of-year bonus
-- possibility to receive a language bonus
-- advantageous hospitalization insurance
-- social benefits (with conditions)
-- possibility to receive a bicycle allowance
-- benefits and reductions with Benefits@Work
-- free admission to the RBINS museum and also other federal scientific institutions with Belspo card (Fine Arts Museum, Central Africa Museum, Planetarium, etc.)
-- 10% discount in the Museum Shop and the Dino Café
-- complementary pension
-- Tourist Attraction Passport (with conditions)
+## Условия приема на работу
 
-## Assignment conditions
+Если вы успешно прошли отбор, то для приема на работу вы должны соответствовать следующим условиям на дату назначения:
 
-If you are successful in this selection process, you must - in order to be hired - meet the following conditions on the assignment date:
+- обладать гражданскими и политическими правами
+- не иметь судимостей и соответствовать требованиям должности
+- иметь необходимый диплом (дипломы)
+- соответствовать конкретным навыкам и требованиям, изложенным в профиле кандидата.
 
-- have civil and political rights
-- be of good conduct and meet the requirements of the position
-- hold the required diploma(s)
-- meet the specific skills and requirements set out in the job profile.
+## Процедура
 
-## Procedure
+### 1 этап - Проверка соответствия условиям участия
 
-### Step 1 - Verification of participation conditions
+Вы будете допущены к участию в отборе, если удовлетворите всем требованием к кандидату. Проверка проводится отборочной комиссией на основании вашего заявления. Комиссия решает, соответствуют ли представленные вами квалификация, достижения и опыт требованиям, предъявляемым к вакантной должности. Если да, то вас пригласят на следующий этап.
 
-You will be admitted to the selection process provided you meet all the required conditions of participation. Verification is carried out by the selection committee on the basis of your application file. The committee decides whether the qualifications, merits and experience you present correspond to the requirements of the position to be filled. If so, you will be invited to the next stage.
+В зависимости от количества полученных заявок отборочная комиссия оставляет за собой право ограничить число кандидатов, проходящих на следующий этап, оставив только тех, кого сочтет наиболее подходящими на должность.
 
-Depending on the number of applications received, the selection committee reserves the right to limit the number of candidates going on to the next stage by determining those it considers most suitable for the position to be filled.
+### 2 этап - Собеседование
 
-Please specify the purpose of the test concerned
+Подробности вы получите по электронной почте от одного из наших сотрудников.
+Отборочная комиссия оценивает, насколько квалификация, достижения и опыт, представленные вами в заявке, соответствуют требованиям вакансии.
 
-### Stage 2 - Audition
+### В случае отсутствия
 
-For practical details, you will receive an e-mail from one of our staff.
+Если вы не явились на собеседование и/или дополнительное тестирование, вы автоматически исключаетесь из остальных этапов процедуры отбора, если только в течение трех дней вы не сможете доказать, что ваше отсутствие имело одну из следующих уважительных причин: 
+- болезнь;
+- чрезвычайная ситуация, касающаяся лица, проживающего с кандидатом, или члена семьи (= супруга кандидата или лица, с которым кандидат состоит в законном сожительстве, родственников кандидата первой или второй степени);
+- необходимость присутствия на работе;
+- остановка или задержка общественного транспорта не менее чем на 30 минут;
+- форс-мажорные обстоятельства.
 
-The selection committee assesses whether the qualifications, merits and experience you present in your application match the requirements of the position.
+При необходимости можно обратиться в комиссию в течение десяти дней после назначенной даты собеседования, и вам будет предложена новая дата.
 
-### In case of absence
+### Уведомление
 
-If you fail to attend the complementary test and/or interview, you are automatically excluded from the rest of the selection procedure unless you can demonstrate, within three days, that your absence was justified by one of the following reasons:
+Если вы не прошли отбор на определенном этапе, процедура прекращается, и на последующие этапы вы не приглашаетесь. На каждом этапе вы получите уведомление о результатах.
 
-- illness
-- emergency concerning a member of the household (= anyone living with the candidate) or family (= the candidate's spouse or the person with whom the candidate is legally cohabiting, the candidate's first- or second-degree relatives)
-- essential presence at work
-- public transport interruption or delay of at least 30 minutes
-- force majeure.
+### Равные возможности и разумная адаптация
 
-If necessary, you can ask to be heard by the committee within ten days of the audition date. A new date will then be proposed.
+Федеральная администрация проводит активную политику многообразия.
 
-### Notification
+Вы являетесь инвалидом, имеете трудности в обучении или заболевание? Вы можете попросить, чтобы в процессе отбора вам предоставили соответствующие условия. Пожалуйста, свяжитесь с человеком, указанным в разделе «Контакты».
 
-If you are unsuccessful at a particular stage, the procedure is terminated and you are not invited to any subsequent rounds of the same selection. At each stage, you will receive notification of the result.
+### Условия для беременных или кормящих
 
-### Equal opportunities and reasonable accommodation
+Вы беременны или кормите грудью? В этом случае вы также можете запросить особенные условия.
 
-The Federal Administration has an active diversity policy.
+### Окончательные результаты
 
-Are you a person with a disability, learning difficulty or illness? You can ask to be accommodated during the selection process. Please contact the person listed in the “Contacts” section.
+В случае успеха:
+по окончании процедуры отбора формируется нерейтинговая группа успешных кандидатов. В нее входят те, кто был признан наиболее подходящим на должность в соответствии с условиями участия.
 
-### Facilities for pregnant or breast-feeding applicants
+### Как долго этот список остается действительным?
 
-Are you pregnant or breast-feeding? In this case, too, you can request special facilities. Please contact the person listed in the “Contacts” section.
+Список успешных кандидатов действителен в течение одного года.
 
-### Final results
+## Подача заявок
 
-If you are successful?
+Заявки, содержащие резюме и сопроводительное письмо, следует направлять до 23:30 UTC 24 ноября 2024 года по электронной почте Антону Ван де Пютте на адрес [avandeputte@naturalsciences.be](mailto:avandeputte@naturalsciences.be) с заголовком "ADVANCE - заявка на работу 2024". Отобранные кандидаты будут приглашены на устное собеседование лично или в режиме видеоконференции в период с 9 по 12 декабря 2024 года.
 
-At the end of the selection procedure, an unranked group of laureates is formed. It is made up of those who have been judged the most suitable for the position to be filled in accordance with the conditions of participation.
+По организационным вопросам обращайтесь в отдел кадров по электронному адресу [hr@naturalsciences.be](mailto:hr@naturalsciences.be)
 
-### How long does this list remain valid?
-
-The valid group of successful candidates is valid 1 year.
-
-## How to apply?
-
-Applications, including a curriculum vitæ and a cover letter, should be addressed to Anton VAN DE PUTTE, and should be sent before 23:30 UTC (24 November 2024) by email to avandeputte@naturalsciences.be with the heading ‘ADVANCE - job application 2024’. Selected candidates will be invited for an oral interview in person, or by videoconference between the 9th-12th December 2024. If invited for the interview you will have to prepare a short assignment in preparation for the interview.
-
-For all administrative questions, please contact the HR department: hr@naturalsciences.be.
-
-Applications not complying with the above procedure will not be accepted.
+Заявки, не соответствующие вышеуказанным требованиям, приниматься не будут.
