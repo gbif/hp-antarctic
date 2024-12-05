@@ -32,4 +32,5 @@ We deeply appreciate the invaluable work of our translators who have made our in
 - **[Yi-Ming Gan](https://orcid.org/0000-0001-7087-2646)**: French
 - **Yulia Kallistratova**: Russian
 - **Juan Sebastián Lozano**: Spanish
+- **[Denisse Fierro-Arcos](https://orcid.org/0000-0002-5039-6272)**: Spanish
 
