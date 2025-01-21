@@ -12,7 +12,8 @@ imageLicense: |
 ---
 
 If you encounter issues or have suggestions for data published via GBIF (Global Biodiversity Information Facility) or OBIS (Ocean Biodiversity Information System), here’s how you can provide feedback:
-Feedback for GBIF Data
+
+## Feedback for GBIF Data
 
 On any GBIF page, you can click on the feedback button (circled in orange in the screenshot below) and submit your feedback. Note that you will need a GBIF account to do this.
 
