@@ -11,6 +11,8 @@ imageLicense: |
     Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
+Large databases with diverse data sources like OBIS and GBIF may have errors. Reporting these errors provides valuable feedback to data providers and curators, helping them to improve their data collection, management, and publication processes and, ultimately, the quality of the data available in these repositories. By reporting issues, you contribute to the ongoing improvement of these vital data repositories, ensuring their long-term value and sustainability for the scientific community and beyond. But how do you get started?
+
 If you encounter issues or have suggestions for data published via [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/) or [OBIS (Ocean Biodiversity Information System)](https://obis.org/), here’s how you can provide feedback:
 
 ## Feedback for GBIF Data
