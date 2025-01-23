@@ -11,7 +11,7 @@ imageLicense: |
     Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-If you encounter issues or have suggestions for data published via GBIF (Global Biodiversity Information Facility) or OBIS (Ocean Biodiversity Information System), here’s how you can provide feedback:
+If you encounter issues or have suggestions for data published via [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/) or [OBIS (Ocean Biodiversity Information System)](https://obis.org/), here’s how you can provide feedback:
 
 ## Feedback for GBIF Data
 
