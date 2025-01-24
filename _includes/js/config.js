@@ -7,11 +7,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 
 var siteConfig = {
   routes: {
-    occurrenceSearch: {
-      // The route you are currently using for occurrence search. The language prefix will be added automatically
-      // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      // route: '/data'
-    }
+    enabledRoutes: ['occurrenceSearch', 'literatureSearch'],
   },
   occurrence: {
     mapSettings: {
@@ -27,6 +23,12 @@ var siteConfig = {
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
     highlightedFilters: ['q', 'datasetKey', 'taxonKey', 'occurrenceStatus', 'basisOfRecord', 'year', 'samplingProtocol', 'depth', 'occurrenceIssue', 'networkKey'],
     availableTableColumns: ['features', 'basisOfRecord', 'preparations', 'coordinates', 'locality', 'year', 'dataset', 'institutionCode'] // the first column will always be scientificName, that cannot be changed
+  },
+  literature: {
+    rootFilter: {
+      countriesOfCoverage: ['AQ', 'BV', 'HM', 'GS', 'TF']
+    },
+    highlightedFilters: ['q', 'literatureType', 'relevance', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
   },
   maps: {
     locale: 'en',
