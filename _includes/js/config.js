@@ -26,7 +26,11 @@ var siteConfig = {
   },
   literature: {
     rootFilter: {
-      countriesOfCoverage: ['AQ', 'BV', 'HM', 'GS', 'TF']
+      predicate: {
+        type: 'in',
+        key: 'countriesOfCoverage',
+        values: ['AQ', 'BV', 'HM', 'GS', 'TF']
+      }
     },
     highlightedFilters: ['q', 'literatureType', 'relevance', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
   },
