@@ -11,7 +11,7 @@ imageLicense: |
     Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-Les grandes bases de données avec des sources de données variées comme OBIS et GBIF peuvent contenir des erreurs. Signaler ces erreurs fournit un retour précieux aux fournisseurs de données et aux conservateurs, les aidant à améliorer leurs processus de collecte, de gestion et de publication des données, et, en fin de compte, la qualité des données disponibles dans ces répertoires. En signalant des problèmes, vous contribuez à l'amélioration continue de ces répertoires de données essentiels, garantissant leur valeur à long terme et leur durabilité pour la communauté scientifique et au-delà. Mais comment commencer ?
+Les grandes bases de données, reposant sur des sources de données variées, comme OBIS et GBIF, peuvent contenir des erreurs. Signaler ces erreurs fournit un retour précieux aux fournisseurs et curateurs de données, les aidant à améliorer leurs processus de collecte, de gestion et de publication des données, et, en fin de compte, la qualité des données disponibles dans ces répertoires globaux. En signalant des problèmes, vous contribuez à l'amélioration continue de ces répertoires de données essentiels, garantissant leur valeur à long terme et leur durabilité pour la communauté scientifique et au-delà. Mais comment commencer ?
 
 Si vous rencontrez des problèmes ou avez des suggestions concernant les données publiées via [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/) ou [OBIS (Ocean Biodiversity Information System)](https://obis.org/), voici comment vous pouvez fournir un retour :
 
@@ -43,13 +43,13 @@ Le retour sera envoyé au service d'assistance OBIS, qui assurera le suivi de la
 
 ## Contactez-nous
 
-Si vous hésitez ou avez une liste d'enregistrements pour GBIF ou OBIS dans la région Antarctique sur lesquels vous souhaitez fournir un retour, veuillez nous contacter à data-biodiversity-aq at naturalsciences.be. Nous examinerons vos informations et vous recontacterons.
+Si vous hésitez ou avez une liste d'observations pour GBIF ou OBIS dans la région Antarctique sur lesquels vous souhaitez fournir un retour, veuillez nous contacter à data-biodiversity-aq à naturalsciences.be. Nous examinerons vos remarques et vous recontacterons.
 
 ## Conseils pour soumettre un retour
 
 ### Inclure des informations détaillées
 
-- Points de données spécifiques (ex. nom d'espèce, localisation, date) contenant des erreurs, y compris l'ID d'occurrence ou l'URL de la page du jeu de données.
+- Points de données spécifiques (ex. nom d'espèce, localisation, date) contenant des erreurs, y compris l'ID d'occurrence ou l'URL de la page de l'observation/du jeu de données.
 - Une explication claire du problème ou de la suggestion.
 - Des preuves ou des références à l'appui, si disponibles.
 - Fournir un retour constructif.
