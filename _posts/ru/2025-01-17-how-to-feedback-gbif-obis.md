@@ -1,51 +1,52 @@
 ---
 lang-ref: how-to-feedback-gbif-obis
 lang: ru
-preTitle: Jan 17, 2025
-title: "How to provide feedback on GBIF/OBIS data"
-description: A guide to provide feedback on GBIF/OBIS data
+preTitle: 17 января 2025 г.
+title: "Как оставить отзыв о данных GBIF/OBIS"
+description: Инструкция для дачи обратной связи о данных GBIF/OBIS
 date: 2025-01-17
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2025-01-17_AVdP_SCAR_0559.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-Large databases with diverse data sources like OBIS and GBIF may have errors. Reporting these errors provides valuable feedback to data providers and curators, helping them to improve their data collection, management, and publication processes and, ultimately, the quality of the data available in these repositories. By reporting issues, you contribute to the ongoing improvement of these vital data repositories, ensuring their long-term value and sustainability for the scientific community and beyond. But how do you get started?
+В больших базах данных, таких как OBIS и GBIF, хранящих данные из разнообразных источников, бывают неточности. Сообщение об таких неточностях обеспечивает ценную обратную связь с поставщиками и кураторами данных, помогая им улучшить процессы сбора, управления и публикации и, в конечном счете, повысить качество данных, доступных в этих хранилищах. Сообщая о проблемах, вы способствуете постоянному совершенствованию этих жизненно важных данных, обеспечивая их долгосрочную ценность и устойчивость для научного сообщества и не только. Но как это правильно сделать?
 
-If you encounter issues or have suggestions for data published via [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/) or [OBIS (Ocean Biodiversity Information System)](https://obis.org/), here’s how you can provide feedback:
+Если вы заметили неточность или хотите внести предложение об улучшении данных, опубликованных через [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/) или [OBIS (Ocean Biodiversity Information System)](https://obis.org/), пожалуйста, оставьте свой отзыв следующим образом:
 
-## Feedback for GBIF Data
+## Отзыв о данных GBIF
 
-On any GBIF page, you can click on the feedback button (circled in orange in the screenshot below) and submit your feedback. Note that you will need a GBIF account to do this.
+На каждой странице GBIF page есть кнопка обратной связи (она обведена оранжевым цветом на скриншоте ниже), нажав на которую можно оставить отзыв. Для этого вам необходимо зарегистрироваться в GBIF.
 
 ![/assets/images/posts/2025-01-17-gbif-01-ru.png](/assets/images/posts/2025-01-17-gbif-01-ru.png)
 
-A form (as shown in the screenshot below) will appear, where you can provide your feedback following the instructions.
+Вам будет предложен формуляр (см. следующий скриншот), который можно заполнить, согласно указаниям.
 
 ![/assets/images/posts/2025-01-17-gbif-02-ru.png](/assets/images/posts/2025-01-17-gbif-02-ru.png)
 
-Alternatively, you can report feedback through GBIF's dedicated GitHub repository: [https://github.com/gbif/portal-feedback/issues](https://github.com/gbif/portal-feedback/issues).
+Обратную связь можно также оставить через репозиторий GBIF на GitHub: [https://github.com/gbif/portal-feedback/issues](https://github.com/gbif/portal-feedback/issues).
 
-The feedback will be directed to the GBIF Helpdesk, which will follow up on the matter.
+Ваш отзыв будет направлен в службу поддержки GBIF, которая займется этим вопросом.
 
-## Feedback for OBIS data
+## Отзыв о данных OBIS
 
-Feedback for OBIS data is preferred to be submitted through its dataset page. OBIS dataset page links are prefixed with https://obis.org/dataset/ followed by the dataset's UUID. From there, you can provide feedback by clicking the "report issue" button (circled in red in the screenshot below).
+Обратную связь о данных OBIS лучше всего оставлять на странице соответствующего набора данных. Ссылки на страницы наборов данных OBIS предварены "https://obis.org/dataset/", за которым следует UUID-номер набора данных. На такой странице следует нажать на кнопку "report issue" (она обведена красным цветом на скриншоте ниже).
 
 ![/assets/images/posts/2025-01-17-obis-01.png](/assets/images/posts/2025-01-17-obis-01.png)
 
-A form (as shown in the screenshot below) will appear, where you can provide your feedback on the data.
+Вам будет предложен формуляр для заполнения (см. следующий скриншот).
 
 ![/assets/images/posts/2025-01-17-obis-02.png](/assets/images/posts/2025-01-17-obis-02.png)
 
-The feedback will be sent to the OBIS Helpdesk, which will follow up on the matter.
+Ваш отзыв будет направлен в службу поддержки OBIS, которая займется этим вопросом.
 
-## Contact us 
+## Напрямую связаться с нами 
 
 If you are unsure or have a list of records for either GBIF or OBIS in the Antarctic region that you would like to provide feedback on, please contact us at data-biodiversity-aq at naturalsciences.be. We will review your input and follow up with you.
+Если вы не уверены, где лучше оставить отзыв, или если вы хотели бы оставить отзыв сразу по нескольким записям в GBIF и OBIS по Антарктическому региону, пожалуйста, свяжитесь с нами по адресу data-biodiversity-aq at naturalsciences.be. Мы проанализируем ваш запрос и свяжемся с вами.
 
-## Tips for Submitting Feedback
+## Советы по отправке отзывов
 
 ### Include Detailed Information
 
