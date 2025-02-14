@@ -48,15 +48,15 @@ If you are unsure or have a list of records for either GBIF or OBIS in the Antar
 
 ## Советы по отправке отзывов
 
-### Include Detailed Information
+### Сообщайте подробную информацию
 
-- Specific data points (e.g., species name, location, date) with errors, including the occurrence ID or page URL of the record/dataset.
-- A clear explanation of the issue or suggestion.
-- Supporting evidence or references, if available.
-- Provide constructive feedback.
+- Укажите точные параметры (напр., название вида, местоположение, дата), содержащие ошибку, включая ID находки или веб-адрес (URL) записи/набора данных.
+- Четко объясните ошибку или сформулируйте свое предложение.
+- Приведите подтверждающие доказательства или ссылки, если таковые имеются.
+- Следите за тем, чтобы обратная связь была конструктивной.
 
-### Track Your Feedback
+### Отслеживайте свой отзыв
 
-You may receive follow-up emails or notifications about the status of your feedback. Please monitor your inbox for updates!
+Вам могут прислать электронные письма или уведомления о статусе вашего отзыва. Пожалуйста, следите за обновлениями в своем почтовом ящике!
 
-By providing feedback, you play an essential role in improving the accuracy and usability of biodiversity data. Thank you for contributing to this collaborative effort!
+Давая обратную связь, вы помогаете повысить точность и доступность данных о биоразнообразии. Благодарим вас за вклад в эту совместную работу!
