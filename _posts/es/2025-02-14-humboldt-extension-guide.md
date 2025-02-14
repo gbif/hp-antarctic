@@ -1,6 +1,6 @@
 ---
 lang-ref: humboldt-extension-guide
-lang: fr
+lang: es
 preTitle: 14 de febrero de 2025
 title: "Mejorando el descubrimiento y reutilización de datos de monitoreo y encuestas con una nueva guía"
 description: GBIF ha publicado una nueva guía de inicio rápido que describe los pasos para utilizar la Humboldt Extension para mejorar y enriquecer conjuntos de datos existentes derivados de inventarios ecológicos estructurados.
