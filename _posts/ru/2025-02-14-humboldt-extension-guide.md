@@ -1,19 +1,18 @@
 ---
 lang-ref: humboldt-extension-guide
 lang: ru
-preTitle: Feb 14, 2025
-title: "Enhancing discovery and reuse of survey and monitoring data with new guide"
-description: GBIF released a new quick start guide outlines steps for using the Humboldt Extension to upgrade and enrich existing datasets derived from structured ecological inventories.
+preTitle: 14 февраля 2025 г.
+title: "Новое руководство для расширенного поиска и повторного использования данных обследований и мониторинга"
+description: GBIF выпустил новое краткое руководство по использованию Humboldt Extension для обновления и расширения существующих наборов данных, полученных в результате структурированных экологических инвентаризаций.
 date: 2025-02-14
-categories: ["news"]
+categories: ["новости"]
 background: /assets/images/posts/2025-02-14_IMG_2897.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-A new quick start guide is now available to help enhance the discovery and reuse of survey and monitoring data! Whether you're working with biodiversity data or environmental research, this guide provides key insights and best practices.
+Вышло новое краткое руководство, которое поможет расширить возможности поиска и повторного использования данных исследований и мониторинга! Независимо от того, работаете ли вы с данными по биоразнообразию или экологическим исследованиям, это руководство содержит ключевые понятия и рекоммендации.
 
-We would like to congratulate and acknowledge the efforts of everyone involved in developing both the [Humboldt Extension](https://eco.tdwg.org/) and this [new guide](https://doi.org/10.35035/doc-7t3p-ve38). A member of our team contributed to this effort as part of the [Humboldt Extension Task Group](https://www.tdwg.org/community/osr/humboldt-extension/), which played a key role in developing the extension. The time dedicated by our team member to this work is supported by the ADVANCE project, funded by [BELSPO](https://www.belspo.be/) (BELSPO project RT/23/ADVANCE). We would like to acknowledge and thank BELSPO for their support.
+Мы хотели бы поздравить и отметить усилия всех, кто принял участие в разработке [Humboldt Extension] (https://eco.tdwg.org/) и [нового руководства] (https://doi.org/10.35035/doc-7t3p-ve38). Один из членов нашей команды участвовал в этой работе в составе [Humboldt Extension Task Group](https://www.tdwg.org/community/osr/humboldt-extension/), которая сыграла ключевую роль в разработке расширения. Время, потраченное членом нашей группы на эту работу, было обеспечено в рамках проекта ADVANCE, финансируемого [BELSPO](https://www.belspo.be/) (проект BELSPO RT/23/ADVANCE). Мы хотели бы выразить признательность и поблагодарить BELSPO за поддержку.
 
-Check out the guide here: [GBIF Announcement](https://www.gbif.org/news/17fTMFas4AhM3tvzPvp882/enhancing-discovery-and-reuse-of-survey-and-monitoring-data-with-new-guide)
-
+Ознакомиться с руководством можно здесь: [GBIF Announcement](https://www.gbif.org/ru/news/17fTMFas4AhM3tvzPvp882/enhancing-discovery-and-reuse-of-survey-and-monitoring-data-with-new-guide)
