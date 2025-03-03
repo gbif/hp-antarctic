@@ -20,4 +20,9 @@ features:
     description: |      # required
       cplasman(a)naturalsciences.be <br />
     background: https://images.unsplash.com/photo-1462888210965-cdf193fb74de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-
+  - preTitle: Scientific collaborator  # optional
+    title: Pablo Deschepper
+    href: https://orcid.org/0000-0001-6088-1290
+    description: |      # required
+      pdeschepper(a)naturalsciences.be <br />
+    background: https://inaturalist-open-data.s3.amazonaws.com/photos/258105611/small.jpg
