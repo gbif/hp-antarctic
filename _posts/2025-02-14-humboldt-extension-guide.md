@@ -5,7 +5,7 @@ preTitle: Feb 14, 2025
 title: "Enhancing discovery and reuse of survey and monitoring data with new guide"
 description: GBIF released a new quick start guide outlines steps for using the Humboldt Extension to upgrade and enrich existing datasets derived from structured ecological inventories.
 date: 2025-02-14
-categories: ["news"]
+categories: ["news", "guide"]
 background: /assets/images/posts/2025-02-14_IMG_2897.jpg
 imageLicense: |
     Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

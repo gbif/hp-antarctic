@@ -5,7 +5,7 @@ preTitle: 14 février 2025
 title: "Améliorer la découverte et la réutilisation des données d'enquête et de suivi avec un nouveau guide"
 description: GBIF a publié un nouveau guide de démarrage rapide qui décrit les étapes pour utiliser l'extension Humboldt afin d'améliorer et d'enrichir les ensembles de données existants issus d'inventaires écologiques structurés.
 date: 2025-02-14
-categories: ["news"]
+categories: ["nouvelles", "guide"]
 background: /assets/images/posts/2025-02-14_IMG_2897.jpg
 imageLicense: |
     Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
