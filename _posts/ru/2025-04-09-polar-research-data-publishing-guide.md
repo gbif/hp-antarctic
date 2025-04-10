@@ -1,17 +1,16 @@
 ---
 lang-ref: polar-research-data-publishing-guide
 lang: ru
-preTitle: April 9, 2025
-title: "A Brief Guide to Publishing Data for the Polar Research Community"
-description: "A new guide to help polar researchers publish their data in a FAIR manner and increase the impact of data."
+preTitle: 9 апреля 2025 г.
+title: "Краткое руководство по публикации данных для полярных исследований"
+description: "Новое руководство поможет полярным исследователям публиковать свои данные в соответствии с принципом FAIR и повысить их значимость."
 date: 2025-04-09
-categories: ["news", "guide"]
+categories: ["новости", "руководство"]
 background: /assets/images/posts/2025-04-09_IMG_4423-Pano.jpg
 imageLicense: |
-    Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    Фото Антона Ван де Пютте с лицензией [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-This page is yet to be translated into Russian. The English version is available below.
+Постоянный комитет SCAR по управлению антарктическими данными (SCADM), Комитет по арктическим данным (ADC) и Подкомитет по управлению данными Системы наблюдений за Южным океаном 7 апреля 2025 года совместно выпустили «[Краткое руководство по публикации данных для полярных исследований](https://doi.org/10.5281/zenodo.15167021)». Руководство содержит практические советы, которые помогут исследователям обеспечить соответствие их данных стандартам FAIR - находимые, доступные, совместимые и многократно используемые. Придерживаясь этих рекомендаций, ученые могут повысить находимость и удобство использования своих данных, облегчить интеграцию с другими наборами данных и способствовать правильному цитированию и указанию авторства.
 
-The SCAR Standing Committee on Antarctic Data Management (SCADM), the Arctic Data Committee (ADC), and the Southern Ocean Observing System Data Management Sub-Committee have collaboratively released "[A Brief Guide to Publishing Data for the Polar Research Community](https://doi.org/10.5281/zenodo.15167021)" on April 7, 2025. This guide offers practical tips to help researchers ensure their data are FAIR—Findable, Accessible, Interoperable, and Reusable. By adhering to these guidelines, scientists can enhance the discoverability and usability of their data, facilitating integration with other datasets and promoting proper citation and attribution. 
-The guide is licensed under CC BY 4.0, allowing for free use and distribution with proper attribution.
+Руководство выпущено по лицензии CC BY 4.0, что позволяет свободно использовать и распространять его с соответствующим указанием авторства.
