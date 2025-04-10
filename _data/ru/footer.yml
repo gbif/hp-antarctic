@@ -9,19 +9,13 @@ columns:
       </a>
 
   - name: Партнеры
-    links:
-    - text: INS
-      href: https://www.naturalsciences.be
-    - text: WoRMS
-      href: https://marinespecies.org/
-    - text: BBPF
-      href: https://www.biodiversity.be/
-    - text: GBIF
-      href: https://www.gbif.org/
-    - text: OBIS
-      href: https://obis.org/
-    - text: SCAR
-      href: https://www.scar.org/
+    description: |
+      [<img src="/assets/images/logo/rbins.png" width="120" height="60">](https://www.naturalsciences.be/)<br/><br/>
+      [<img src="/assets/images/logo/bbpf.png" width="120" height="60">](https://www.biodiversity.be/)<br/><br/>
+      [<img src="/assets/images/logo/worms.png" width="120" height="60">](https://www.marinespecies.org/)<br/><br/>
+      [<img src="/assets/images/logo/gbif-standard-green.svg" width="120" height="60">](https://www.gbif.org/)<br/><br/>
+      [<img src="/assets/images/logo/obis.svg" width="120" height="60">](https://obis.org/)<br/><br/>
+      [<img src="/assets/images/logo/scar.png" width="120" height="60">](https://scar.org/)<br/><br/>
 
   - name: Код
     description: Этот проект имеет открытый исходный код и доступен на [GitHub](https://github.com/gbif/hp-antarctic). Вы можете создать тикет на GitHub для сообщений об ошибках и предложений по улучшению.
