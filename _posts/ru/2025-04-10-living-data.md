@@ -1,32 +1,30 @@
 ---
 lang-ref: living-data-2025
 lang: ru
-preTitle: April 10, 2025
-title: "Living Data 2025 – Registration and Call for Abstracts Now Open!"
-description: "Join the global biodiversity data community—Living Data 2025 is now open for registration and abstracts!"
+preTitle: 10 апреля 2025 г.
+title: "Living Data 2025 – Регистрация и прием тезисов докладов!"
+description: "Присоединяйтесь к глобальному сообществу данных о биоразнообразии на Living Data 2025. Регистрация и прием тезисов докладов уже открыты!"
 date: 2025-04-10
-categories: ["news", "event"]
+categories: ["новости", "мероприятия"]
 background: /assets/images/posts/2025-04-10_AVdP_SCAR_0335.jpg
 imageLicense: |
     Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
-This page is yet to be translated into Russian. The English version is available below.
+С радостью сообщаем, что открыта регистрация и прием тезисов докладов на конференцию **Living Data 2025**!
 
-We’re excited to announce that **Living Data 2025** is now open for registration and abstract submissions!
+🌍 На **Living Data 2025** соберутся представители глобальной сети данных о биоразнообразии, а также сотни ученых, исследователей, практиков и других экспертов, работающие над тем, чтобы сделать данные о биоразнообразии более открытыми, доступными и полезными.
 
-🌍 **Living Data 2025** will bring together members of our global biodiversity data networks, along with hundreds of scientists, researchers, practitioners and other experts working to make biodiversity data more open, accessible, and impactful.
+В этом году конференция будет посвящена трем ключевым темам:
 
-This year’s conference will focus on three key themes:
+- Разработка стандартов, способствующих обмену данными и их совместимости
+- Подключение и доступ к различным источникам информации
+- Наблюдение за успехами в деле сохранения и восстановления биоразнообразия
 
-- Building standards that promote data sharing and interoperability
-- Connecting and accessing diverse sources of information
-- Monitoring progress toward conserving and restoring biodiversity
+📅 **Когда: 21 - 24 октября 2025 года**  
+📍 **Где: Богота, Колумбия**  
+🔗 **Подробности и регистрация: [https://www.livingdata2025.com/](https://www.livingdata2025.com/)**
 
-📅 **Dates: October 21 - 24 of 2025**  
-📍 **Location: Bogotá, Colombia**  
-🔗 **Learn more and register: [https://www.livingdata2025.com/](https://www.livingdata2025.com/)**
+💡 Хотите выступить с докладом? Прием тезисов уже открыт! Поделитесь своими работами, тематическими исследованиями, технологиями или передовыми идеями с глобальной аудиторией, приверженной общей цели обеспечения открытых и актуальных данных о биоразнообразии.
 
-💡 Interested in presenting? The Call for Abstracts is now open! Share your work, case studies, tools, or visionary ideas with a global audience committed to open and living biodiversity data.
-
-We encourage the Antarctic research community to take part in this important event.
+Мы очень надеемся, что члены сообщества исследователей Антарктики примут активное участие в этом важном мероприятии.
