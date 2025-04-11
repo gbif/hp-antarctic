@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: |
-      <a href="https://www.gbif.org/fr/participant/306">
+      <a href="https://www.gbif.org/ru/participant/306">
         <img alt="GBIF node logo" src="/assets/images/logo/gbif-node-green-logo.png" width="100" />
       </a>
 
