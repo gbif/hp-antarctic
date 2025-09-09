@@ -1,4 +1,4 @@
-url: "https://hp-antarctic.gbif-uat.org/"
+url: "https://antarctic.hp.gbif-uat.org/"
 
 include: # this include is only to NOT exclude translations, so that they are visible in UAT
   - fr/
