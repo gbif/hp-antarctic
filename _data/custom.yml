@@ -1,9 +1,9 @@
 essential-variables:
   klass: iframe-box
   markdownContent: |
-        <iframe seamless frameborder="150" src="https://biodiversity-aq.github.io/essential-variables-sankey-diagram/" height = '790' width="1370" scrolling='yes' ></iframe>
+        <iframe src="https://biodiversity-aq.github.io/essential-variables-sankey-diagram/" style="border:0;width:100%;height:80vh;margin:0 auto;display:block;" scrolling="yes" ></iframe>
 
 publishing-activity:
   klass: iframe-box
   markdownContent: |
-        <iframe seamless frameborder="150" src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" height = '790' width="1370" scrolling='yes' ></iframe>
+        <iframe src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" style="border:0;width:90%;height:80vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
