@@ -11,8 +11,6 @@ imageLicense: |
     Cryptic taxon spotted during [OBIS SG 13 meeting](https://www.oceanexpert.org/event/4653). Photo by [Christian Elloran](https://orcid.org/0000-0002-6911-9099) licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
 
-Nobody asked, but here it is anyway.
-
 In news that precisely no one asked for, Ming who has been quietly working behind the scenes on data models, quality checks, and sheer persistence, has received an OBIS Community Hero Award.
 She did not ask for this recognition, but apparently competence has consequences.
 

@@ -13,8 +13,6 @@ imageLicense: |
 
 Traducido por ChatGPT, pendiente de verificación por un traductor.
 
-Nadie lo pidió, pero aquí está de todos modos.
-
 En noticias que absolutamente nadie pidió, Ming —quien ha estado trabajando silenciosamente entre bastidores en modelos de datos, controles de calidad y pura persistencia— ha recibido el Premio Héroe de la Comunidad OBIS.  
 No buscaba este reconocimiento, pero, al parecer, la competencia tiene consecuencias.
 
