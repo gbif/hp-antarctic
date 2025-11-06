@@ -19,7 +19,7 @@
   - text: Atlas Biogeográfico del Océano Austral
     href: https://github.com/biodiversity-aq/BASO/
   - text: Diagrama de Sankey de las variables esenciales
-    href: /essential-variables
+    href: /es/essential-variables
 - text: Herramientas
   menu: # Menú desplegable (solo un nivel de profundidad)
   - text: Herramientas en línea
@@ -43,7 +43,7 @@
   - text: Agradecimientos
     href: /es/acknowledgement
   - text: Actividad de publicación
-    href: /publishing-activity
+    href: /es/publishing-activity
 # - text: Más
 #   menu: # Menú desplegable (solo un nivel de profundidad)
 #   - text: Demostración del tema principal

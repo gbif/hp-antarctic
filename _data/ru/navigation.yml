@@ -19,7 +19,7 @@
   - text: Биогеографический атлас Южного океана
     href: https://github.com/biodiversity-aq/BASO/
   - text: Диаграмма Санки основных переменных
-    href: /essential-variables
+    href: /ru/essential-variables
 - text: Инструменты
   menu: # Dropdown menu (one level deep only)
   - text: Онлайн-инструменты
@@ -43,4 +43,4 @@
   - text: Благодарности
     href: /ru/acknowledgement
   - text: Публикационная деятельность
-    href: /publishing-activity
+    href: /ru/publishing-activity

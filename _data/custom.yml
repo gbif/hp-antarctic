@@ -6,4 +6,4 @@ essential-variables:
 publishing-activity:
   klass: iframe-box
   markdownContent: |
-        <iframe src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" style="border:0;width:90%;height:200vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
+        <iframe src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" style="border:0;width:80%;height:200vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
