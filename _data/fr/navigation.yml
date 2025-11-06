@@ -18,6 +18,8 @@
     href: /fr/species-list/cemp
   - text: Atlas biogéographique de l'océan Austral
     href: https://github.com/biodiversity-aq/BASO/
+  - text: Diagramme de Sankey des variables essentielles
+    href: /essential-variables
 - text: Outils
   menu: # Menu déroulant (un seul niveau de profondeur)
   - text: Outils en ligne
@@ -40,4 +42,6 @@
     href: /fr/about
   - text: Remerciements
     href: /fr/acknowledgement
+  - text: Activité de publication
+    href: /publishing-activity
 
