@@ -11,7 +11,7 @@ imageLicense: |
     "Channichthyidae Champsocephalus gunnari" - Champsocephalus gunnari Lönnberg, 1905 Collected in Antarctica by Florida Museum of Natural History Ichthyology (licensed under http://creativecommons.org/licenses/by-nc/4.0/) 
 ---
 
-The **SCAR Antarctic Biodiversity Portal**, in partnership with the **SCAR Expert Group on Antarctic Biodiversity Informatics**, **SCARfish** and **World Register of Marine Species (Register of Marine Antarctic Species)**, will organise a hybrid workshop on Southern Ocean species traits from **March 30 to April 2 or 3**.
+The **SCAR Antarctic Biodiversity Portal**, in partnership with the **SCAR Expert Group on Antarctic Biodiversity Informatics**, **SCARfish** and **World Register of Marine Species (Register of Antarctic Marine Species)**, will organise a hybrid workshop on Southern Ocean species traits from **March 30 to April 2 or 3**.
 
 The workshop's purpose is to collect trait data on **Antarctic marine species, with a focus on, but not limited to, fish**.
 

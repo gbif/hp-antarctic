@@ -14,7 +14,7 @@ imageLicense: |
 
 **Traduction générée par ChatGPT — à vérifier par un·e traducteur·trice humain·e.**
 
-Le **SCAR Antarctic Biodiversity Portal**, en partenariat avec le **SCAR Expert Group on Antarctic Biodiversity Informatics**, **SCARfish** et le **World Register of Marine Species (Register of Marine Antarctic Species)**, organisera un atelier hybride sur les traits des espèces de l’océan Austral du **30 mars au 2 ou 3 avril**.
+Le **SCAR Antarctic Biodiversity Portal**, en partenariat avec le **SCAR Expert Group on Antarctic Biodiversity Informatics**, **SCARfish** et le **World Register of Marine Species (Register of Antarctic Marine Species)**, organisera un atelier hybride sur les traits des espèces de l’océan Austral du **30 mars au 2 ou 3 avril**.
 
 L’objectif de cet atelier est de collecter des données de traits sur les **espèces marines antarctiques, avec un accent particulier — mais non exclusif — sur les poissons**.
 
