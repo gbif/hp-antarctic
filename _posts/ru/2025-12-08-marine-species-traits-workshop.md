@@ -14,7 +14,7 @@ imageLicense: |
 
 **Перевод выполнен ChatGPT — требуется проверка человеком-переводчиком.**
 
-**SCAR Antarctic Biodiversity Portal**, совместно с **SCAR Expert Group on Antarctic Biodiversity Informatics** и **SCARfish**, организует гибридный воркшоп по признакам видов Южного океана, который пройдет **с 30 марта по 2 или 3 апреля**.
+**SCAR Antarctic Biodiversity Portal**, совместно с **SCAR Expert Group on Antarctic Biodiversity Informatics**, **SCARfish** и **World Register of Marine Species (Register of Marine Antarctic Species)**, организует гибридный воркшоп по признакам видов Южного океана, который пройдет **с 30 марта по 2 или 3 апреля**.
 
 Цель воркшопа — собрать данные о признаках **антарктических морских видов, в первую очередь — но не исключительно — рыб**.
 
