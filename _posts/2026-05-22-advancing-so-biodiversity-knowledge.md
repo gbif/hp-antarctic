@@ -11,8 +11,6 @@ imageLicense: |
     [Chaenocephalus aceratus](https://commons.wikimedia.org/wiki/File:Chaenocephalus_aceratus.jpg). Arthur Hodson Searle, Public domain, via Wikimedia Commons.
 ---
 
-## Advancing Southern Ocean Biodiversity Knowledge
-
 The <strong>SCAR Antarctic Biodiversity Portal</strong>, in partnership with the <strong>SCAR Expert Group on Antarctic Biodiversity Informatics</strong> and <strong>SCARfish</strong>, organised a hybrid workshop on Southern Ocean species traits from <strong>30 March to 3 April 2026</strong> at <strong>KU Leuven</strong>.
 
 ## Workshop Highlights

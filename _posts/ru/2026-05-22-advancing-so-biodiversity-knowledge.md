@@ -11,10 +11,6 @@ imageLicense: |
     [Chaenocephalus aceratus](https://commons.wikimedia.org/wiki/File:Chaenocephalus_aceratus.jpg). Arthur Hodson Searle, общественное достояние, via Wikimedia Commons.
 ---
 
-> **Примечание:** Этот перевод выполнен с помощью ChatGPT и ожидает проверки нашими переводчиками.
-
-## Развитие знаний о биоразнообразии Южного океана
-
 <strong>SCAR Antarctic Biodiversity Portal</strong> совместно с <strong>SCAR Expert Group on Antarctic Biodiversity Informatics</strong> и <strong>SCARfish</strong> организовали гибридный семинар, посвящённый характеристикам видов Южного океана, который проходил с <strong>30 марта по 3 апреля 2026 года</strong> в <strong>KU Leuven</strong>.
 
 ## Основные моменты семинара
@@ -41,3 +37,5 @@ imageLicense: |
 *Участники семинара 2026 года по характеристикам морских видов Антарктики в KU Leuven.*
 
 Искренняя благодарность всем участникам, команде WoRMS DMT и FishBase за их энтузиазм, экспертные знания и вклад в развитие знаний о биоразнообразии Антарктики.
+
+> **Примечание:** Этот перевод выполнен с помощью ChatGPT и ожидает проверки нашими переводчиками.

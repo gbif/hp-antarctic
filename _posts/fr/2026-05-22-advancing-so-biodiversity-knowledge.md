@@ -11,10 +11,6 @@ imageLicense: |
     [Chaenocephalus aceratus](https://commons.wikimedia.org/wiki/File:Chaenocephalus_aceratus.jpg). Arthur Hodson Searle, domaine public, via Wikimedia Commons.
 ---
 
-> **Avertissement :** Cette traduction a été réalisée avec l’aide de ChatGPT et est en attente de vérification par nos traducteurs.
-
-## Faire progresser les connaissances sur la biodiversité de l’océan Austral
-
 Le <strong>SCAR Antarctic Biodiversity Portal</strong>, en partenariat avec le <strong>SCAR Expert Group on Antarctic Biodiversity Informatics</strong> et <strong>SCARfish</strong>, a organisé un atelier hybride consacré aux traits des espèces de l’océan Austral du <strong>30 mars au 3 avril 2026</strong> à la <strong>KU Leuven</strong>.
 
 ## Points forts de l’atelier
@@ -41,3 +37,5 @@ Le rapport complet de l’atelier peut être consulté [ici](https://zenodo.org/
 *Participants à l’atelier 2026 sur les traits des espèces marines antarctiques à KU Leuven.*
 
 Un grand merci à tous les participants, au WoRMS DMT et à FishBase pour leur enthousiasme, leur expertise et leur engagement en faveur de l’avancement des connaissances sur la biodiversité antarctique.
+
+> **Avertissement :** Cette traduction a été réalisée avec l’aide de ChatGPT et est en attente de vérification par nos traducteurs.
