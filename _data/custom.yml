@@ -1,9 +1,29 @@
 essential-variables:
   klass: iframe-box
   markdownContent: |
-        <iframe src="https://biodiversity-aq.github.io/essential-variables-sankey-diagram/" style="border:0;width:100%;height:180vh;margin:0 auto;display:block;" scrolling="yes" ></iframe>
+    <iframe src="https://biodiversity-aq.github.io/essential-variables-sankey-diagram/" style="border:0;width:100%;height:180vh;margin:0 auto;display:block;" scrolling="yes" ></iframe>
+    <div style="text-align: center; margin-top: 1rem; margin-bottom: 1rem;">
+        <a href="https://github.com/biodiversity-aq/essential-variables-sankey-diagram" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github fa-2x"></i><br>Essential Variables Sankey Diagram
+        </a>
+      </div>
 
 publishing-activity:
   klass: iframe-box
   markdownContent: |
-        <iframe src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" style="border:0;width:80%;height:200vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
+    <iframe src="https://biodiversity-aq.github.io/publishing-activity-dashboard/" style="border:0;width:80%;height:200vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
+    <div style="text-align: center; margin-top: 1rem; margin-bottom: 1rem;">
+        <a href="https://github.com/biodiversity-aq/publishing-activity-dashboard" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github fa-2x"></i><br>SCAR Antarctic Biodiversity Portal Activity Dashboard
+        </a>
+      </div>
+
+sofish:
+    klass: iframe-box
+    markdownContent: |
+      <iframe src="https://sofish.naturalsciences.be/" style="border:0;width:80%;height:150vh;margin:0 auto;display:block;" scrolling="yes"></iframe>
+      <div style="text-align: center; margin-top: 1rem; margin-bottom: 1rem;">
+        <a href="https://github.com/thesnakeguy/SOfish-Diversity" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github fa-2x"></i><br>SOfish-Diversity
+        </a>
+      </div>

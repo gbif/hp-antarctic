@@ -20,6 +20,8 @@
     href: https://github.com/biodiversity-aq/BASO/
   - text: Essential Variables Sankey diagram
     href: /essential-variables
+  - text: Southern Ocean fish diversity dashboard
+    href: /sofish
 - text: Tools
   menu: # Dropdown menu (one level deep only)
   - text: Online tools
