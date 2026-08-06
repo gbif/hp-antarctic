@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI Codex//SCAR OSC 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SCAR OSC 2026 – Selected Events
+X-WR-TIMEZONE:Europe/Oslo
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:scar-osc-2026-8419a72c6953fc8bd7c9@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260808T083000
+DTEND;TZID=Europe/Oslo:20260808T100000
+SUMMARY:Changes in Circumpolar Antarctic Gradients in Ecosystems (C-CAGE)
+LOCATION:Room Hyde Park B\, Clarion Hotel The Hub\, Biskop Gunnerus’ gate
+  3\, 0155 Oslo\, Norway
+DESCRIPTION:Business meeting for the SCAR Programme Planning Group\, led by
+  Huw Griffiths\, Cath Waller and Anton Van de Putte. Learn about C-CAGE an
+ d how to contribute. C-CAGE uses natural Antarctic and sub-Antarctic envir
+ onmental gradients to improve predictions of ecological change and support
+  biodiversity management and conservation.\n\nEvent page: https://scar2026
+ .org/schedule/changes-in-circumpolar-antarctic-gradients-in-ecosystems-c-c
+ age\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTimes are local t
+ o Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/changes-in-circumpolar-antarctic-gradient
+ s-in-ecosystems-c-cage
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-3552341ded4ebfd129af@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260810T140000
+DTEND;TZID=Europe/Oslo:20260810T153000
+SUMMARY:O2 – Data Management Help Desk
+LOCATION:Room Hyde Park C\, Clarion Hotel The Hub\, Biskop Gunnerus’ gate
+  3\, 0155 Oslo\, Norway
+DESCRIPTION:SCAR’s Standing Committee on Antarctic Data Management (SCADM
+ ) offers guidance on best practices\, metadata standards\, repository subm
+ ission\, secure data storage\, SCAR data policies and National Antarctic D
+ ata Centres.\n\nEvent page: https://scar2026.org/schedule/o2-data-manageme
+ nt-help-desk\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTimes ar
+ e local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/o2-data-management-help-desk
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-54b4a05eae0a11a3bedd@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260811T113000
+DTEND;TZID=Europe/Oslo:20260811T130000
+SUMMARY:O3 – The Southern Ocean in the UN Decade for Ocean Science: the D
+ CC-SOR\, other Decade structures\, Antarctica InSync and SYNCHRONY
+LOCATION:Room Prado Park\, Clarion Hotel The Hub\, Biskop Gunnerus’ gate 
+ 3\, 0155 Oslo\, Norway
+DESCRIPTION:Workshop covering the DCC-SOR\, other Ocean Decade structures\,
+  Antarctica InSync and SYNCHRONY\, with participation from the Southern Oc
+ ean Taskforce and presentations from key Ocean Decade coordination structu
+ res.\n\nEvent page: https://scar2026.org/schedule/o3-southern-ocean-resear
+ ch-input-facilitated-by-the-dcc-sor-and-antarctica-insync\n\nMap: https://
+ maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTimes are local to Oslo (Europe/Oslo)
+ .
+URL:https://scar2026.org/schedule/o3-southern-ocean-research-input-facilita
+ ted-by-the-dcc-sor-and-antarctica-insync
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-ed9e891a2ebc5ac97a59@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260811T140000
+DTEND;TZID=Europe/Oslo:20260811T153000
+SUMMARY:S46 – Sharing Antarctic Research Data FAIRly to Support Interdisc
+ iplinary Research Collaborations (Block I)
+LOCATION:Room Central Park A\, Clarion Hotel The Hub\, Biskop Gunnerus’ g
+ ate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session: Sharing Antarctic Research Data FAIRly to Sup
+ port Interdisciplinary Research Collaborations (Block I). Includes the 14:
+ 03–14:21 keynote by Anton Van de Putte\, “From Field Practice to Biodi
+ versity Data Standards” (abstract ID 48).\n\nEvent page: https://scar202
+ 6.org/schedule/s46-sharing-antarctic-research-data-fairly-to-support-inter
+ disciplinary-research-collaborations-block-i\n\nMap: https://maps.app.goo.
+ gl/AE9fRE3XantQaxmj9\n\nTimes are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s46-sharing-antarctic-research-data-fairl
+ y-to-support-interdisciplinary-research-collaborations-block-i
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-6651769f9dbc77c10b73@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260811T140300
+DTEND;TZID=Europe/Oslo:20260811T142100
+SUMMARY:Keynote – From Field Practice to Biodiversity Data Standards
+LOCATION:Room Central Park A\, Clarion Hotel The Hub\, Biskop Gunnerus’ g
+ ate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Keynote by Anton Van de Putte in S46 Block I. Abstract ID 48.\n
+ \nEvent page: https://scar2026.org/schedule/s46-sharing-antarctic-research
+ -data-fairly-to-support-interdisciplinary-research-collaborations-block-i\
+ n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTimes are local to Os
+ lo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s46-sharing-antarctic-research-data-fairl
+ y-to-support-interdisciplinary-research-collaborations-block-i
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-6e4b92a65d8c5772bdab@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260811T160000
+DTEND;TZID=Europe/Oslo:20260811T173000
+SUMMARY:S46 – Sharing Antarctic Research Data FAIRly to Support Interdisc
+ iplinary Research Collaborations (Block II)
+LOCATION:Room Central Park A\, Clarion Hotel The Hub\, Biskop Gunnerus’ g
+ ate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session: Sharing Antarctic Research Data FAIRly to Sup
+ port Interdisciplinary Research Collaborations (Block II).\n\nEvent page: 
+ https://scar2026.org/schedule/s46-sharing-antarctic-research-data-fairly-t
+ o-support-interdisciplinary-research-collaborations-block-ii\n\nMap: https
+ ://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTimes are local to Oslo (Europe/Os
+ lo).
+URL:https://scar2026.org/schedule/s46-sharing-antarctic-research-data-fairl
+ y-to-support-interdisciplinary-research-collaborations-block-ii
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-85e3385aa6367360c32a@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260811T173000
+DTEND;TZID=Europe/Oslo:20260811T193000
+SUMMARY:SCAR OSC 2026 – Poster Session I
+LOCATION:Poster exhibition\, Thon Hotel Opera\, Dronning Eufemias gate 4\, 
+ 0191 Oslo\, Norway
+DESCRIPTION:Relevant posters listed in the source schedule:\n\n• A Quanti
+ tative Review of Gaps and Priorities for Persistent Organic Pollutants Res
+ earch and Monitoring in Antarctica — Albane Lahaye\, Michaela Lerch\, Be
+ n Raymond\, Svenja Halfter\, Anton Van de Putte and Susan Bengtson Nash (S
+ 43).\n\n• Mobilising Antarctic Fish Trait Data: A Collaborative Sprint T
+ oward Standardisation and Open Science — Pablo Deschepper\, Yi-Ming Gan\
+ , Charlie Plasman and Anton Van de Putte (S46).\n\nEvent page: https://sca
+ r2026.org/schedule/poster-session-i\n\nMap: https://maps.app.goo.gl/DJ8eSq
+ D2sXb8jHEk6\n\nTimes are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/poster-session-i
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-a582b48f9811d538ecbb@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260812T113000
+DTEND;TZID=Europe/Oslo:20260812T130000
+SUMMARY:S25 – Environmental drivers\, human impacts and climate change in
+  Antarctic ecosystems and ecology (Block I)
+LOCATION:Room Jernbanetorget A\, Clarion Hotel The Hub\, Biskop Gunnerus’
+  gate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session on Antarctic ecosystems and ecology. Conveners
+ : Huw Griffiths\, Catherine Waller\, Anton Van de Putte\, Graeme Clark and
+  Vonda Cummings.\n\nEvent page: https://scar2026.org/schedule/s25-environm
+ ental-drivers-human-impacts-and-climate-change-in-antarctic-ecosystems-and
+ -ecology-block-i\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTime
+ s are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s25-environmental-drivers-human-impacts-a
+ nd-climate-change-in-antarctic-ecosystems-and-ecology-block-i
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-1c85a3185761eaba8a8a@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260812T140000
+DTEND;TZID=Europe/Oslo:20260812T153000
+SUMMARY:S25 – Environmental drivers\, human impacts and climate change in
+  Antarctic ecosystems and ecology (Block II)
+LOCATION:Room Jernbanetorget A\, Clarion Hotel The Hub\, Biskop Gunnerus’
+  gate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session on Antarctic ecosystems and ecology. Conveners
+ : Huw Griffiths\, Catherine Waller\, Anton Van de Putte\, Graeme Clark and
+  Vonda Cummings.\n\nEvent page: https://scar2026.org/schedule/s25-environm
+ ental-drivers-human-impacts-and-climate-change-in-antarctic-ecosystems-and
+ -ecology-block-ii\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTim
+ es are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s25-environmental-drivers-human-impacts-a
+ nd-climate-change-in-antarctic-ecosystems-and-ecology-block-ii
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-99e7d727c4bafc4ecfc0@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260812T173000
+DTEND;TZID=Europe/Oslo:20260812T193000
+SUMMARY:SCAR OSC 2026 – Poster Session II
+LOCATION:Poster exhibition\, Thon Hotel Opera\, Dronning Eufemias gate 4\, 
+ 0191 Oslo\, Norway
+DESCRIPTION:Relevant poster listed in the source schedule:\n\n• What do w
+ e know about the biological carbon flux in the Eastern Weddell Sea? Establ
+ ishing conceptual models of the Eastern Weddell Sea — Werna Werna\, Hauk
+ e Flores\, Maria van Leeuwe\, Magnus Lucassen\, Felix Mark\, Sebastien Mor
+ eau\, Chiara Papetti\, Anton Van de Putte\, Fokje Schaafsma\, Jacqueline S
+ tefels\, Katharina Teschke\, Anette Wold and Heike Link (S29).\n\nEvent pa
+ ge: https://scar2026.org/schedule/poster-session-ii\n\nMap: https://maps.a
+ pp.goo.gl/DJ8eSqD2sXb8jHEk6\n\nTimes are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/poster-session-ii
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-9b0561fcc6c468f518a0@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260812T191500
+DTEND;TZID=Europe/Oslo:20260812T210000
+SUMMARY:Past\, Present\, Future: 20 Years of the Antarctic Biodiversity Por
+ tal and the Road Ahead
+LOCATION:Room Hyde Park A\, Clarion Hotel The Hub\, Biskop Gunnerus’ gate
+  3\, 0155 Oslo\, Norway
+DESCRIPTION:Evening event celebrating the 20-year anniversary of the SCAR A
+ ntarctic Biodiversity Portal\, with short talks and informal discussion ab
+ out its future\, including drinks. Note: the published time overlaps Poste
+ r Session II by 15 minutes and is preserved as provided.\n\nEvent page: ht
+ tps://scar2026.org/schedule/past-present-future-20-years-of-the-antarctic-
+ biodiversity-portal-and-the-road-ahead\n\nMap: https://maps.app.goo.gl/AE9
+ fRE3XantQaxmj9\n\nTimes are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/past-present-future-20-years-of-the-antar
+ ctic-biodiversity-portal-and-the-road-ahead
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-75a3b8d8021b353832c3@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260813T113000
+DTEND;TZID=Europe/Oslo:20260813T130000
+SUMMARY:S25 – Environmental drivers\, human impacts and climate change in
+  Antarctic ecosystems and ecology (Block III)
+LOCATION:Room Jernbanetorget B\, Clarion Hotel The Hub\, Biskop Gunnerus’
+  gate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session on Antarctic ecosystems and ecology. Conveners
+ : Huw Griffiths\, Catherine Waller\, Anton Van de Putte\, Graeme Clark and
+  Vonda Cummings.\n\nEvent page: https://scar2026.org/schedule/s25-environm
+ ental-drivers-human-impacts-and-climate-change-in-antarctic-ecosystems-and
+ -ecology-block-iii\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTi
+ mes are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s25-environmental-drivers-human-impacts-a
+ nd-climate-change-in-antarctic-ecosystems-and-ecology-block-iii
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:scar-osc-2026-7e25b97b4e884507f0f8@codex.local
+DTSTAMP:20260806T095215Z
+DTSTART;TZID=Europe/Oslo:20260813T160000
+DTEND;TZID=Europe/Oslo:20260813T173000
+SUMMARY:S25 – Environmental drivers\, human impacts and climate change in
+  Antarctic ecosystems and ecology (Block IV)
+LOCATION:Room Jernbanetorget B\, Clarion Hotel The Hub\, Biskop Gunnerus’
+  gate 3\, 0155 Oslo\, Norway
+DESCRIPTION:Parallel session on Antarctic ecosystems and ecology. Conveners
+ : Huw Griffiths\, Catherine Waller\, Anton Van de Putte\, Graeme Clark and
+  Vonda Cummings.\n\nEvent page: https://scar2026.org/schedule/s25-environm
+ ental-drivers-human-impacts-and-climate-change-in-antarctic-ecosystems-and
+ -ecology-block-iv\n\nMap: https://maps.app.goo.gl/AE9fRE3XantQaxmj9\n\nTim
+ es are local to Oslo (Europe/Oslo).
+URL:https://scar2026.org/schedule/s25-environmental-drivers-human-impacts-a
+ nd-climate-change-in-antarctic-ecosystems-and-ecology-block-iv
+CATEGORIES:SCAR OSC 2026
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
