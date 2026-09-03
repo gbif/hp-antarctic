@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: project
 lang: ru
 title: Портал SCAR по биоразнообразию Антарктики
 description: Портал SCAR по биоразнообразию Антарктики финансирован в рамках проекта ADVANCE.

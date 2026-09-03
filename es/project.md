@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: project
 lang: es
 title: El portal de biodiversidad antártica del SCAR
 description: El Portal de Biodiversidad Antártica del SCAR está financiado por el proyecto ADVANCE.

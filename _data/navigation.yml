@@ -40,8 +40,10 @@
     href: https://dwc.tdwg.org/
 - text: About
   menu:
-  - text: About us
-    href: /about
+  - text: Contact
+    href: /contact
+  - text: Our project
+    href: /project
   - text: Acknowledgement
     href: /acknowledgement
   - text: Publishing activity

@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: project
 lang: en
 title: The SCAR Antarctic Biodiversity Portal
 description: The SCAR Antarctic Biodiversity Portal is funded under the ADVANCE project.

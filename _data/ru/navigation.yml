@@ -38,8 +38,10 @@
     href: https://dwc.tdwg.org/
 - text: О портале
   menu:
-  - text: Кто мы
-    href: /ru/about
+  - text: Контакты
+    href: /ru/contact
+  - text: Наш проект
+    href: /ru/project
   - text: Благодарности
     href: /ru/acknowledgement
   - text: Публикационная деятельность
