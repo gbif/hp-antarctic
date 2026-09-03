@@ -5,7 +5,7 @@ title: The SCAR Antarctic Biodiversity Portal
 description: The SCAR Antarctic Biodiversity Portal is funded under the ADVANCE project.
 background: /assets/images/about_AVdP_SCAR_0001.jpg
 imageLicense: |
-  Photo par Anton Van de Putte sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 height: 70vh
 ---
 
