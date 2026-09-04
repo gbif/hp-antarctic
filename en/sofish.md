@@ -1,6 +1,7 @@
 ---
 lang-ref: sofish
 lang: en
+permalink: /sofish/
 layout: compose
 title: Southern Ocean fish diversity
 description: An interactive R Shiny application for exploring, filtering, and analyzing fish species occurrence data from the Southern Ocean. Species taxonomy is sourced from [WoRMS](https://marinespecies.org/) and biological traits from [FishBase](https://www.fishbase.se/home.htm).

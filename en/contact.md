@@ -1,6 +1,7 @@
 ---
 lang-ref: contact
 lang: en
+permalink: /contact/
 title: Contact
 klass: contact
 description: Contact information of the SCAR Antarctic Biodiversity Portal

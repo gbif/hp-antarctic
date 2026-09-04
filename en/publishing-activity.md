@@ -1,6 +1,7 @@
 ---
 lang-ref: publishing-activity
 lang: en
+permalink: /publishing-activity/
 layout: compose
 title: Our Publishing Activity
 description: Publishing activity of the SCAR Antarctic Biodiversity Portal

@@ -9,7 +9,7 @@ description: Search <span data-ajax-url="https://api.gbif.org/v1/occurrence/sear
 background: /assets/images/home_SCAR_0019.jpg
 imageLicense: |
   Photo by Anton Van de Putte licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-height: 75vh
+height: 80vh
 parallax: true
 navbar:
   color: transparent
@@ -25,9 +25,11 @@ composition:
     data: home.stats
   - type: latestPosts
     description: Recent Posts
-    data: we_do_not_want_any_header 
+    data: we_do_not_want_any_header
   - type: stories
     data: GBIFdataUse
+  - type: dashboard
+    data: home.dashboard
   - type: stories
     data: GBIFevents
 ---

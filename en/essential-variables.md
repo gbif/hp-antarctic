@@ -1,5 +1,6 @@
 ---
 lang-ref: essential-variables
+permalink: /essential-variables/
 lang: en
 layout: compose
 title: Relationship between Essential Variables

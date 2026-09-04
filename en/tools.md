@@ -1,6 +1,7 @@
 ---
 lang-ref: tools
 lang: en
+permalink: /tools/
 layout: compose
 klass: compositionBlocks
 title: Tools

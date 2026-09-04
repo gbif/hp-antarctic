@@ -1,6 +1,7 @@
 ---
 lang-ref: external-db
 lang: en
+permalink: /external-db/
 title: External databases
 layout: compose
 klass: compositionBlocks

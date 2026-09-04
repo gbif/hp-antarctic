@@ -1,6 +1,7 @@
 ---
 lang-ref: identification-key
 lang: en
+permalink: /identification-key/
 title: Identification keys
 layout: post
 background: /assets/images/identification-key/id-keys_01_multi-taxa.png

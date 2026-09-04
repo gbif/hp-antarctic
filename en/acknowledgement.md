@@ -1,6 +1,7 @@
 ---
 lang-ref: acknowledgement
 lang: en
+permalink: /acknowledgement/
 title: Acknowledgement
 description: Acknowledging the invaluable support and contributions from our partners, collaborators, volunteers and funders.
 background: /assets/images/about_AVdP_SCAR_0001.jpg

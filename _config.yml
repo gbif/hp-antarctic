@@ -52,7 +52,7 @@ algae:
     # square: false               # Should corners be square or rounded
     colors:
       primary: "#0099CC"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
+      # links: "#fa5e97"          # What color should links have. Use a HEX code. Default is primary color.
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
@@ -104,11 +104,11 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
-      path: ""
-    values:
-      lang: en
+#  -
+#    scope:
+#      path: ""
+#    values:
+#      lang: en
   -
     scope:
       path: "fr/"
