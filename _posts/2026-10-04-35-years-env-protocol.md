@@ -9,6 +9,8 @@ categories: ["news"]
 background: /assets/images/posts/2026-10-04_moss_nicole_webster.jpg
 ---
 
+_Эта статья переведена с помощью искусственного интеллекта._
+
 This year marks a major milestone in polar governance: the **35th Anniversary of the Protocol on Environmental Protection to the Antarctic Treaty** (also known as the Madrid Protocol). Signed in 1991, the Protocol established Antarctica as a *"natural reserve, devoted to peace and science"* and created the **Committee for Environmental Protection (CEP)** to advise the Antarctic Treaty Consultative Meetings (ATCM) on environmental management, area protection, and biodiversity conservation.
 
 As environmental challenges, climate impacts, and human activity in the region expand, the work of the CEP relies heavily on robust, spatially explicit scientific evidence. The **SCAR Antarctic Biodiversity Portal** (www.biodiversity.aq) plays a vital role in meeting this need by providing open-access, standardised, and interoperable terrestrial and marine biodiversity data.
@@ -25,6 +27,9 @@ Consolidating over 35,000 spatially explicit occurrence records spanning 1,800+ 
 
 > "Consolidated, open access data supports SCAR in its broad advisory role to the CEP and informs conservation, management and decision-making in the Antarctic Treaty System", says Dr Aleks Terauds, a Spatial Ecologist and Program Leader at the Australian Antarctic Division.
 
+![Map showing the geographic coverage of biological records in ice-free Antarctica](https://scx2.b-cdn.net/gfx/news/hires/2025/antarctic-biodiversity.jpg)
+
+*Geographic coverage: the log total number of biological records from the Biodiversity of Ice-free Antarctica Database within raster cells of ice-free Antarctica. Credit: [Diversity and Distributions (2024)](https://doi.org/10.1111/ddi.13909).*
 
 ## Looking Ahead to the Next 35 Years
 

@@ -9,6 +9,8 @@ categories: ["noticias"]
 background: /assets/images/posts/2026-10-04_moss_nicole_webster.jpg
 ---
 
+_Este artículo ha sido traducido con inteligencia artificial._
+
 Este año marca un hito importante en la gobernanza polar: el **35.º aniversario del Protocolo al Tratado Antártico sobre Protección del Medio Ambiente** (también conocido como Protocolo de Madrid). Firmado en 1991, el Protocolo designó la Antártida como *«reserva natural, consagrada a la paz y a la ciencia»* y creó el **Comité para la Protección del Medio Ambiente (CPA)**, encargado de asesorar a las Reuniones Consultivas del Tratado Antártico (RCTA) sobre gestión ambiental, protección de zonas y conservación de la biodiversidad.
 
 A medida que aumentan los desafíos ambientales, los efectos del cambio climático y la actividad humana en la región, la labor del CPA depende en gran medida de datos científicos sólidos y espacialmente explícitos. El **Portal de Biodiversidad Antártica del SCAR** (www.biodiversity.aq) desempeña un papel fundamental al proporcionar datos abiertos, estandarizados e interoperables sobre la biodiversidad terrestre y marina.
@@ -24,6 +26,10 @@ Para apoyar directamente los objetivos de conservación e investigación identif
 Esta base de datos reúne más de 35 000 registros de presencia georreferenciados de más de 1 800 especies en todas las Regiones Biogeográficas de Conservación Antártica (ACBR). Proporciona una referencia para seguir los cambios en la biodiversidad, evaluar los riesgos ambientales y orientar la planificación espacial.
 
 > «Los datos recopilados y de acceso abierto ayudan al SCAR en su amplia función de asesoramiento al CPA y fundamentan las decisiones sobre conservación y gestión en el Sistema del Tratado Antártico», afirma el Dr. Aleks Terauds, ecólogo espacial y responsable de programa de la Australian Antarctic Division.
+
+![Mapa de la cobertura geográfica de los registros biológicos en las zonas libres de hielo de la Antártida](https://scx2.b-cdn.net/gfx/news/hires/2025/antarctic-biodiversity.jpg)
+
+*Cobertura geográfica: logaritmo del número total de registros biológicos de la Base de Datos de Biodiversidad de la Antártida Libre de Hielo en las celdas ráster de las zonas libres de hielo de la Antártida. Crédito: [Diversity and Distributions (2024)](https://doi.org/10.1111/ddi.13909).*
 
 ## Mirando hacia los próximos 35 años
 

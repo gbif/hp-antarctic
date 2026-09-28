@@ -9,6 +9,8 @@ categories: ["actualités"]
 background: /assets/images/posts/2026-10-04_moss_nicole_webster.jpg
 ---
 
+_Cet article a été traduit à l’aide de l’intelligence artificielle._
+
 Cette année marque une étape importante dans la gouvernance polaire : le **35e anniversaire du Protocole au Traité sur l’Antarctique relatif à la protection de l’environnement** (également appelé Protocole de Madrid). Signé en 1991, le Protocole a désigné l’Antarctique comme une *« réserve naturelle, consacrée à la paix et à la science »* et créé le **Comité pour la protection de l’environnement (CPE)**, chargé de conseiller les Réunions consultatives du Traité sur l’Antarctique (RCTA) sur la gestion de l’environnement, la protection des zones et la conservation de la biodiversité.
 
 Alors que les défis environnementaux, les effets du changement climatique et les activités humaines s’intensifient dans la région, les travaux du CPE dépendent fortement de données scientifiques fiables et géographiquement précises. Le **Portail de la biodiversité antarctique du SCAR** (www.biodiversity.aq) joue un rôle essentiel en fournissant des données ouvertes, standardisées et interopérables sur la biodiversité terrestre et marine.
@@ -24,6 +26,10 @@ Pour soutenir directement les objectifs de conservation et de recherche définis
 En rassemblant plus de 35 000 données d’occurrence géoréférencées concernant plus de 1 800 espèces dans l’ensemble des régions de conservation biogéographiques de l’Antarctique (ACBR), cette base de données fournit une référence pour suivre l’évolution de la biodiversité, évaluer les risques environnementaux et orienter la planification spatiale.
 
 > « Des données rassemblées et en accès libre aident le SCAR à remplir son vaste rôle consultatif auprès du CPE et éclairent les décisions en matière de conservation et de gestion dans le cadre du Système du Traité sur l’Antarctique », explique le Dr Aleks Terauds, écologue spatial et responsable de programme à l’Australian Antarctic Division.
+
+![Carte de la couverture géographique des données biologiques dans les zones libres de glace de l’Antarctique](https://scx2.b-cdn.net/gfx/news/hires/2025/antarctic-biodiversity.jpg)
+
+*Couverture géographique : logarithme du nombre total de données biologiques issues de la base de données sur la biodiversité des zones libres de glace de l’Antarctique, par cellule raster de ces zones. Crédit : [Diversity and Distributions (2024)](https://doi.org/10.1111/ddi.13909).*
 
 ## Les 35 prochaines années
 
