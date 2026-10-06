@@ -9,7 +9,6 @@ categories: ["news"]
 background: /assets/images/posts/2026-10-04_moss_nicole_webster.jpg
 ---
 
-_Эта статья переведена с помощью искусственного интеллекта._
 
 This year marks a major milestone in polar governance: the **35th Anniversary of the Protocol on Environmental Protection to the Antarctic Treaty** (also known as the Madrid Protocol). Signed in 1991, the Protocol established Antarctica as a *"natural reserve, devoted to peace and science"* and created the **Committee for Environmental Protection (CEP)** to advise the Antarctic Treaty Consultative Meetings (ATCM) on environmental management, area protection, and biodiversity conservation.
 
