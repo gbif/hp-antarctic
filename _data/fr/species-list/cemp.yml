@@ -9,7 +9,7 @@ adelie-penguin:
    *Pygoscelis adeliae* - Time to take a leap of faith par Anne-Mathilde Thierry sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481663
+      href: /fr/occurrence/search?taxonKey=4QPKQ
       isPrimary: true
 
 chinstrap-penguin:
@@ -21,7 +21,7 @@ chinstrap-penguin:
     *Pygoscelis antarcticus* sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481664
+      href: /fr/occurrence/search?taxonKey=4QPKS
       isPrimary: true
 
 gentoo-penguin:
@@ -33,7 +33,7 @@ gentoo-penguin:
     [*Pygoscelis papua* (J.R.Forster, 1781)](/fr/occurrence/search?entity=4029090741) observé en Antarctique par msr (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481666
+      href: /fr/occurrence/search?taxonKey=78R2P
       isPrimary: true
 
 macaroni-penguin:
@@ -45,7 +45,7 @@ macaroni-penguin:
     *Eudyptes chrysolophus* - Gorfous sauteurs en groupe par Laurent Demongin sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481643
+      href: /fr/occurrence/search?taxonKey=VN7WT
       isPrimary: true
 
 black-browed-albatross:
@@ -57,7 +57,7 @@ black-browed-albatross:
     *Thalassarche melanophris* - Albatros à sourcils noirs en vol par Jose Xavier sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481410
+      href: /fr/occurrence/search?taxonKey=7C5H9
       isPrimary: true
 
 antarctic-petrel:
@@ -69,7 +69,7 @@ antarctic-petrel:
     *Thalassoica antarctica* en vol par Sebastien Descamps sous licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /fr/occurrence/search?taxonKey=2481513
+      href: /fr/occurrence/search?taxonKey=55ZMF
       isPrimary: true
 
 cape-petrel:
@@ -81,7 +81,7 @@ cape-petrel:
      [*Daption capense* subsp. *australe* Mathews, 1913](/fr/occurrence/search?entity=4133913569) observé en Australie par Ian Melbourne (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /occurrence/search?taxonKey=6178257
+      href: /fr/occurrence/search?taxonKey=5GTCN
       isPrimary: true
 
 antarctic-fur-seal:
@@ -93,5 +93,5 @@ antarctic-fur-seal:
     [*Arctocephalus gazella* (Peters, 1875)](/fr/occurrence/search?entity=4062893786) observé en Antarctique par Sebastián Lescano (sous licence http://creativecommons.org/licenses/by-nc/4.0/)
   cta:
     - text: Voir les enregistrements
-      href: /occurrence/search?taxonKey=2433472
+      href: /fr/occurrence/search?taxonKey=5W3QR
       isPrimary: true
